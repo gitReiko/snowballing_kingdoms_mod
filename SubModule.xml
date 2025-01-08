@@ -1,0 +1,41 @@
+<Module>
+	<Name value="Snowballing Kingdoms"/>
+	<Id value="SnowballingKingdoms"/>
+	<Version value="v1.0.0"/>
+	<DefaultModule value="false"/>
+	<ModuleCategory value="Singleplayer"/>
+	<Official value="false"/>
+	<DependedModules>
+		<DependedModule Id="Native" DependentVersion="v1.2.12"/>
+		<DependedModule Id="SandBoxCore" DependentVersion="v1.2.12"/>
+		<DependedModule Id="Sandbox" DependentVersion="v1.2.12"/>
+		<DependedModule Id="StoryMode" DependentVersion="v1.2.12"/>
+	</DependedModules>
+
+    <SubModules>
+        <SubModule>
+            <Name value="SnowballingKingdoms"/>
+            <DLLName value="SnowballingKingdoms.dll"/>
+            <SubModuleClassType value="SnowballingKingdoms.MySubModule"/>
+            <Tags>
+                <Tag key="DedicatedServerType" value="none" />
+                <Tag key="IsNoRenderModeElement" value="false" />
+            </Tags>
+        </SubModule>
+    </SubModules>
+
+	<Xmls>
+          
+		<XmlNode>
+			<XmlName id="Snowballs" path="snowballs" />
+			<IncludedGameTypes>
+				<GameType value="Campaign" />
+				<GameType value="CampaignStoryMode" />
+                <GameType value = "CustomGame"/>
+                <GameType value = "EditorGame"/>                
+			</IncludedGameTypes>
+		</XmlNode>
+
+	</Xmls>
+</Module>
+
