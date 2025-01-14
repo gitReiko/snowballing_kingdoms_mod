@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SnowConfigs>
+
+	<!-- 
+
+	===
+
+	1. clan_creation_factor 
+
+	Determines how many settlements each clan should have. Once the limit is exceeded, a new clan will be created for the kingdom.
+
+	Should be a number. Use a dot to specify the decimal separator.
+
+	example: clan_creation_factor="1.7"
+
+	===
+	
+	
+	-->
+
+	<SnowConfig id="config"
+			  clan_creation_factor="1.7"
+	/>
+
+</SnowConfigs>
