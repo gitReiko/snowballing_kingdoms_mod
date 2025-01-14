@@ -3,6 +3,8 @@
 
 	<!-- 
 
+	Only the first SnowConfig will work. Do not create other exemplars to avoid confusion.
+
 	===
 
 	1. clan_creation_factor 
@@ -14,12 +16,23 @@
 	example: clan_creation_factor="1.7"
 
 	===
+
+	2. create_every_days
 	
+	New clans will be created after a specified number of days.
+
+	The value is an integer (1 to 65535).
+
+	example: create_every_days="10"
+
+	===
 	
 	-->
 
 	<SnowConfig id="config"
 			  clan_creation_factor="1.7"
+			  create_every_days="10"
+
 	/>
 
 </SnowConfigs>
