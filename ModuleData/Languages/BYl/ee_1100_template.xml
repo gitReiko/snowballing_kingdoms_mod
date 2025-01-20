@@ -191,11 +191,11 @@
   <string id="sb.eng_piers_de_courdray" text="Pirs de Kurdry"/>
   <string id="sb.eng_edmund_gracelin" text="Edmund Hrejślin"/>
   <string id="sb.eng_robert_blundel" text="Robiert Błandeł"/>
-  <string id="sb.mos_yuri_vladimirovich" text="Juryj Uładzimiravič Dałharuki"/>
-  <string id="sb.mos_rostislav_yuryevich" text="Raścisłav Jurjevič"/>
+  <string id="sb.mos_yuri_vladimirovich" text="Juryj Vładzimirovič Dałharuki"/>
+  <string id="sb.mos_rostislav_yuryevich" text="Rościsłav Jurjevič"/>
   <string id="sb.mos_andrey_yuryevich" text="Andrej Jurjevič Bahalubski"/>
   <string id="sb.mos_mstislav_yuryevich" text="Mścisłav Jurjevič"/>
-  <string id="sb.mos_vsevolod_yuryevich" text="Usievałod Jurjevič Vialikaje Hniazdo"/>
+  <string id="sb.mos_vsevolod_yuryevich" text="Vsievołod Jurjevič Vialikaje Hniazdo"/>
   <string id="sb.mos_sviatoslav_vsevolodovich" text="Śviatosłav Usievałodavič"/>
   <string id="sb.mos_pereslavl_zalessky" text="Pierasłaŭl-Zaleski"/>
   <string id="sb.mos_rostov_veliky" text="Rastoŭ Vialiki"/>
@@ -458,282 +458,282 @@
   <string id="sb.kry_pskov" text="Pskoŭ"/>
   <string id="sb.kry_tver" text="Ćvier"/>
   <string id="sb.kry_torzhok" text="Taržok"/>
-  <string id="sb.lat_trikata" text="Trikata"/>
-  <string id="sb.lat_valmiera" text="Valmiera"/>
-  <string id="sb.lat_koknese" text="Koknese"/>
-  <string id="sb.lat_rezekne" text="Rēzekne"/>
+  <string id="sb.lat_trikata" text="Trykata"/>
+  <string id="sb.lat_valmiera" text="Vałmiera"/>
+  <string id="sb.lat_koknese" text="Koknesie"/>
+  <string id="sb.lat_rezekne" text="Rezekne"/>
   <string id="sb.lat_asote" text="Asote"/>
-  <string id="sb.lat_jekabpils" text="Jēkabpils"/>
-  <string id="sb.lat_aluksne" text="Alūksne"/>
-  <string id="sb.lat_daugavpils" text="Daugavpils"/>
+  <string id="sb.lat_jekabpils" text="Jakabpiłs"/>
+  <string id="sb.lat_aluksne" text="Ałuksne"/>
+  <string id="sb.lat_daugavpils" text="Daŭhaŭpiłs"/>
   <string id="sb.lat_cesis" text="Cesis"/>
   <string id="sb.lat_abrene" text="Abrene"/>
-  <string id="sb.lat_silene" text="Silene"/>
-  <string id="sb.lat_upmale" text="Upmale"/>
+  <string id="sb.lat_silene" text="Siłene"/>
+  <string id="sb.lat_upmale" text="Upmałe"/>
   <string id="sb.lat_dobele" text="Dobele"/>
   <string id="sb.lat_rakte" text="Rakte"/>
-  <string id="sb.lat_mezotne" text="Mežotne"/>
+  <string id="sb.lat_mezotne" text="Miežotne"/>
   <string id="sb.lat_sidabre" text="Sidabre"/>
-  <string id="sb.lat_jelgava" text="Jelgava"/>
+  <string id="sb.lat_jelgava" text="Jałhava"/>
   <string id="sb.lat_pudzas" text="Pudžas"/>
   <string id="sb.lat_skare" text="Skare"/>
-  <string id="sb.lat_dumpji" text="Dumpji"/>
-  <string id="sb.lat_liveni" text="Līveni"/>
-  <string id="sb.lat_knabenau" text="Knabenau"/>
-  <string id="sb.lat_sievers" text="Sievers"/>
-  <string id="sb.lat_soltani" text="Soltāni"/>
+  <string id="sb.lat_dumpji" text="Dumpi"/>
+  <string id="sb.lat_liveni" text="Liveni"/>
+  <string id="sb.lat_knabenau" text="Knabienaŭ"/>
+  <string id="sb.lat_sievers" text="Sievieries"/>
+  <string id="sb.lat_soltani" text="Sołtani"/>
   <string id="sb.lit_asmiany" text="Ašmiany"/>
-  <string id="sb.lit_ukmerge" text="Ukmergė"/>
-  <string id="sb.lit_dubingiai" text="Dubingiai"/>
+  <string id="sb.lit_ukmerge" text="Ukmierhie"/>
+  <string id="sb.lit_dubingiai" text="Dubinhiaj"/>
   <string id="sb.lit_svir" text="Śvir"/>
   <string id="sb.lit_streva" text="Streva"/>
-  <string id="sb.lit_trakai" text="Trakai"/>
-  <string id="sb.lit_alytus" text="Alytus"/>
-  <string id="sb.lit_nemencine" text="Nemenčinė"/>
+  <string id="sb.lit_trakai" text="Trakaj"/>
+  <string id="sb.lit_alytus" text="Alitus"/>
+  <string id="sb.lit_nemencine" text="Niemienčynie"/>
   <string id="sb.lit_kreva" text="Kreva"/>
-  <string id="sb.lit_kernave" text="Kernavė"/>
+  <string id="sb.lit_kernave" text="Kiernave"/>
   <string id="sb.lit_halsany" text="Halšany"/>
-  <string id="sb.lit_nadrauwa" text="Nadrauwa"/>
-  <string id="sb.lit_balga" text="Balga"/>
-  <string id="sb.lit_skallawa" text="Skallawa"/>
-  <string id="sb.lit_truso" text="Truso"/>
+  <string id="sb.lit_nadrauwa" text="Nadraŭva"/>
+  <string id="sb.lit_balga" text="Bałha"/>
+  <string id="sb.lit_skallawa" text="Skałłava"/>
+  <string id="sb.lit_truso" text="Trusa"/>
   <string id="sb.lit_kulma" text="Kulma"/>
-  <string id="sb.lit_notangi" text="Notangi"/>
-  <string id="sb.lit_paguddi" text="Paguddi"/>
-  <string id="sb.lit_ragnita" text="Ragnita"/>
-  <string id="sb.lit_pameddi" text="Pameddi"/>
-  <string id="sb.lit_twangste" text="Twangste"/>
-  <string id="sb.lit_pernarava" text="Pernarava"/>
-  <string id="sb.lit_ariogala" text="Ariogala"/>
-  <string id="sb.lit_rutve" text="Rutvė"/>
-  <string id="sb.lit_gaizuva" text="Gaižuva"/>
+  <string id="sb.lit_notangi" text="Notanhi"/>
+  <string id="sb.lit_paguddi" text="Pahudździ"/>
+  <string id="sb.lit_ragnita" text="Rahnita"/>
+  <string id="sb.lit_pameddi" text="Pamiedździ"/>
+  <string id="sb.lit_twangste" text="Tvanhste"/>
+  <string id="sb.lit_pernarava" text="Piernarava"/>
+  <string id="sb.lit_ariogala" text="Aryjohała"/>
+  <string id="sb.lit_rutve" text="Rutve"/>
+  <string id="sb.lit_gaizuva" text="Hajžuva"/>
   <string id="sb.lit_vilkija" text="Vilkija"/>
   <string id="sb.lit_pastuva" text="Paštuva"/>
-  <string id="sb.lit_raseiniai" text="Raseiniai"/>
-  <string id="sb.lit_kaunas" text="Kaunas"/>
-  <string id="sb.lit_geguaze" text="Geguže"/>
-  <string id="sb.lit_dubysa" text="Dubysa"/>
-  <string id="sb.lit_sapiegos" text="Sapiegos"/>
-  <string id="sb.lit_kesgailos" text="Kęsgailos"/>
-  <string id="sb.lit_daugirdai" text="Daugirdai"/>
-  <string id="sb.lit_blinstrubai" text="Blinstrubai"/>
-  <string id="sb.lit_jelenskiai" text="Jelenskiai"/>
-  <string id="sb.lit_alseniskiai" text="Alšėniškiai"/>
-  <string id="sb.lit_siesickiai" text="Siesickiai"/>
-  <string id="sb.lit_nagurskiai" text="Nagurskiai"/>
+  <string id="sb.lit_raseiniai" text="Rasiejniaj"/>
+  <string id="sb.lit_kaunas" text="Kaŭnas"/>
+  <string id="sb.lit_geguaze" text="Hiehuže"/>
+  <string id="sb.lit_dubysa" text="Dubisa"/>
+  <string id="sb.lit_sapiegos" text="Sapiehos"/>
+  <string id="sb.lit_kesgailos" text="Kiezhajłos"/>
+  <string id="sb.lit_daugirdai" text="Daŭhirdaj"/>
+  <string id="sb.lit_blinstrubai" text="Blinstrubaj"/>
+  <string id="sb.lit_jelenskiai" text="Jelenskiaj"/>
+  <string id="sb.lit_alseniskiai" text="Halšeniškiaj"/>
+  <string id="sb.lit_siesickiai" text="Siesickiaj"/>
+  <string id="sb.lit_nagurskiai" text="Nahurskiaj"/>
   <string id="sb.lit_kiskos" text="Kiškos"/>
-  <string id="sb.lit_gediminas" text="Gediminas"/>
-  <string id="sb.lit_vambutai" text="Vambutai"/>
-  <string id="sb.lit_liubartas" text="Liubartas"/>
-  <string id="sb.lit_karijotas" text="Karijotas"/>
-  <string id="sb.lit_algirdas" text="Algirdas"/>
-  <string id="sb.lit_narimantas" text="Narimantas"/>
-  <string id="sb.lit_mantvydas" text="Mantvydas"/>
-  <string id="sb.lit_volosynai" text="Vološynai"/>
-  <string id="sb.lit_kimbarai" text="Kimbarai"/>
-  <string id="sb.lit_mangirdaiciai" text="Mangirdaičiai"/>
+  <string id="sb.lit_gediminas" text="Hiedziminas"/>
+  <string id="sb.lit_vambutai" text="Vambutaj"/>
+  <string id="sb.lit_liubartas" text="Lubartas"/>
+  <string id="sb.lit_karijotas" text="Karyjotas"/>
+  <string id="sb.lit_algirdas" text="Alhirdas"/>
+  <string id="sb.lit_narimantas" text="Narymantas"/>
+  <string id="sb.lit_mantvydas" text="Mantvidas"/>
+  <string id="sb.lit_volosynai" text="Vałošyniaj"/>
+  <string id="sb.lit_kimbarai" text="Kimbaraj"/>
+  <string id="sb.lit_mangirdaiciai" text="Manhirdajčiaj"/>
   <string id="sb.lit_puzinos" text="Puzinos"/>
-  <string id="sb.lit_vytautas" text="Vytautas"/>
-  <string id="sb.den_aderen" text="Aderen"/>
-  <string id="sb.den_ahlefeldt" text="Ahlefeldt"/>
-  <string id="sb.den_albertin" text="Albertin"/>
-  <string id="sb.den_brockdorff" text="Brockdorff"/>
-  <string id="sb.den_falkenskiold" text="Falkenskiold"/>
-  <string id="sb.den_fasti" text="Fasti"/>
-  <string id="sb.den_fredberg" text="Fredberg"/>
-  <string id="sb.den_giedde" text="Giedde"/>
-  <string id="sb.den_grubbe" text="Grubbe"/>
-  <string id="sb.den_harbou" text="Harbou"/>
-  <string id="sb.den_hog" text="Høg"/>
-  <string id="sb.den_juul" text="Juul"/>
-  <string id="sb.den_klocker" text="Kløcker"/>
-  <string id="sb.den_krumpen" text="Krumpen"/>
-  <string id="sb.den_kaas" text="Kaas"/>
-  <string id="sb.den_limbek" text="Limbek"/>
-  <string id="sb.den_lovenbalk" text="Løvenbalk"/>
-  <string id="sb.den_lovenorn" text="Løvenørn"/>
+  <string id="sb.lit_vytautas" text="Vitaŭtas"/>
+  <string id="sb.den_aderen" text="Adzieren"/>
+  <string id="sb.den_ahlefeldt" text="Achlefeltt"/>
+  <string id="sb.den_albertin" text="Albiercin"/>
+  <string id="sb.den_brockdorff" text="Brakdorff"/>
+  <string id="sb.den_falkenskiold" text="Falkienskiol"/>
+  <string id="sb.den_fasti" text="Faści"/>
+  <string id="sb.den_fredberg" text="Fredbierh"/>
+  <string id="sb.den_giedde" text="Hiedździe"/>
+  <string id="sb.den_grubbe" text="Hrubbie"/>
+  <string id="sb.den_harbou" text="Charboŭ"/>
+  <string id="sb.den_hog" text="Cheh"/>
+  <string id="sb.den_juul" text="Jul"/>
+  <string id="sb.den_klocker" text="Kłekier"/>
+  <string id="sb.den_krumpen" text="Krumpien"/>
+  <string id="sb.den_kaas" text="Kos"/>
+  <string id="sb.den_limbek" text="Limbiek"/>
+  <string id="sb.den_lovenbalk" text="Łevienbalk"/>
+  <string id="sb.den_lovenorn" text="Łevienern"/>
   <string id="sb.den_muus" text="Muus"/>
-  <string id="sb.den_podebusk" text="Podebusk"/>
-  <string id="sb.den_rosensparre" text="Rosensparre"/>
-  <string id="sb.den_lykke" text="Lykke"/>
-  <string id="sb.den_lunge" text="Lunge"/>
-  <string id="sb.den_seeblad" text="Seeblad"/>
-  <string id="sb.den_stenbrikke" text="Stenbrikke"/>
-  <string id="sb.den_graa" text="Graa"/>
-  <string id="sb.nor_hardrada" text="Hardrada"/>
-  <string id="sb.nor_bjarkoy" text="Bjarkøy"/>
-  <string id="sb.nor_fairhair" text="Fairhair"/>
-  <string id="sb.nor_canute" text="Canute"/>
-  <string id="sb.nor_gille" text="Gille"/>
-  <string id="sb.nor_sverre" text="Sverre"/>
-  <string id="sb.nor_estridsen_of_norway" text="Estridsen of Norway"/>
-  <string id="sb.nor_arnung" text="Arnung"/>
+  <string id="sb.den_podebusk" text="Podziebusk"/>
+  <string id="sb.den_rosensparre" text="Rosiensparre"/>
+  <string id="sb.den_lykke" text="Likkie"/>
+  <string id="sb.den_lunge" text="Łunhie"/>
+  <string id="sb.den_seeblad" text="Siebład"/>
+  <string id="sb.den_stenbrikke" text="Ścienbrykkie"/>
+  <string id="sb.den_graa" text="Hro"/>
+  <string id="sb.nor_hardrada" text="Chardrada"/>
+  <string id="sb.nor_bjarkoy" text="Bjarkioj"/>
+  <string id="sb.nor_fairhair" text="Fajrchajr"/>
+  <string id="sb.nor_canute" text="Kanucie"/>
+  <string id="sb.nor_gille" text="Hille"/>
+  <string id="sb.nor_sverre" text="Śvierre"/>
+  <string id="sb.nor_estridsen_of_norway" text="Estrydsien Narvieski"/>
+  <string id="sb.nor_arnung" text="Arnunh"/>
   <string id="sb.nor_aspa" text="Aspa"/>
-  <string id="sb.nor_aubert" text="Aubert"/>
-  <string id="sb.nor_bagge_af_boo" text="Bagge af Boo"/>
-  <string id="sb.nor_flemming" text="Flemming"/>
-  <string id="sb.nor_friis" text="Friis"/>
-  <string id="sb.nor_green_of_rosso" text="Green of Rossø"/>
+  <string id="sb.nor_aubert" text="Aŭbiert"/>
+  <string id="sb.nor_bagge_af_boo" text="Bahhie Boski"/>
+  <string id="sb.nor_flemming" text="Flemminh"/>
+  <string id="sb.nor_friis" text="Fryys"/>
+  <string id="sb.nor_green_of_rosso" text="Hreen Rośsioski"/>
   <string id="sb.nor_kalips" text="Kalips"/>
-  <string id="sb.nor_krabbe" text="Krabbe"/>
-  <string id="sb.nor_lunov" text="Lunov"/>
-  <string id="sb.nor_parsberg" text="Parsberg"/>
-  <string id="sb.nor_thornberg" text="Thornberg"/>
-  <string id="sb.nor_gyldenlove" text="Gyldenløve"/>
-  <string id="sb.nor_fridag" text="Fridag"/>
+  <string id="sb.nor_krabbe" text="Krabbie"/>
+  <string id="sb.nor_lunov" text="Łunov"/>
+  <string id="sb.nor_parsberg" text="Parśbierh"/>
+  <string id="sb.nor_thornberg" text="Tornbierh"/>
+  <string id="sb.nor_gyldenlove" text="Hildzienlovie"/>
+  <string id="sb.nor_fridag" text="Frydah"/>
   <string id="sb.nor_biskopsson" text="Biskopsson"/>
-  <string id="sb.swe_estridsen_of_sweden" text="Estridsen of Sweden"/>
-  <string id="sb.swe_erik" text="Erik"/>
-  <string id="sb.swe_bjalbo" text="Bjälbo"/>
-  <string id="sb.swe_abjornssonerna" text="Abjörnssönerna"/>
+  <string id="sb.swe_estridsen_of_sweden" text="Estrydsien Šviecki"/>
+  <string id="sb.swe_erik" text="Eryk"/>
+  <string id="sb.swe_bjalbo" text="Bielbo"/>
+  <string id="sb.swe_abjornssonerna" text="Abjornssenierna"/>
   <string id="sb.swe_balk" text="Balk"/>
-  <string id="sb.swe_berga" text="Berga"/>
-  <string id="sb.swe_bjornstjerna" text="Björnstjerna"/>
+  <string id="sb.swe_berga" text="Bierha"/>
+  <string id="sb.swe_bjornstjerna" text="Bjornśćjerna"/>
   <string id="sb.swe_brun" text="Brun"/>
   <string id="sb.swe_eka" text="Eka"/>
-  <string id="sb.swe_ekelof" text="Ekelöf"/>
-  <string id="sb.swe_eskilssonerna" text="Eskilssönerna"/>
+  <string id="sb.swe_ekelof" text="Ekielof"/>
+  <string id="sb.swe_eskilssonerna" text="Eskilśsionierna"/>
   <string id="sb.swe_falk" text="Falk"/>
-  <string id="sb.swe_fersen_of_sweden" text="Fersen of Sweden"/>
-  <string id="sb.swe_gardie" text="Gardie"/>
-  <string id="sb.swe_gyllensvard" text="Gyllensvärd"/>
-  <string id="sb.swe_hammersta" text="Hammersta"/>
-  <string id="sb.swe_hand_drake" text="Hand Drake"/>
-  <string id="sb.swe_hand" text="Hand"/>
-  <string id="sb.swe_likvidsonerna" text="Likvidsönerna"/>
+  <string id="sb.swe_fersen_of_sweden" text="Fiersen Šviecki"/>
+  <string id="sb.swe_gardie" text="Hardzie"/>
+  <string id="sb.swe_gyllensvard" text="Hillenśvierd"/>
+  <string id="sb.swe_hammersta" text="Chammiersta"/>
+  <string id="sb.swe_hand_drake" text="Chand Drakie"/>
+  <string id="sb.swe_hand" text="Chand"/>
+  <string id="sb.swe_likvidsonerna" text="Likvidsionierna"/>
   <string id="sb.swe_lejonbalk" text="Lejonbalk"/>
   <string id="sb.swe_malsta" text="Malsta"/>
-  <string id="sb.swe_porse" text="Porse"/>
-  <string id="sb.swe_ribbing" text="Ribbing"/>
-  <string id="sb.swe_ruuth" text="Ruuth"/>
-  <string id="sb.swe_stensta" text="Stensta"/>
+  <string id="sb.swe_porse" text="Porsie"/>
+  <string id="sb.swe_ribbing" text="Rybbinh"/>
+  <string id="sb.swe_ruuth" text="Ruut"/>
+  <string id="sb.swe_stensta" text="Ściensta"/>
   <string id="sb.swe_vinstorpa" text="Vinstorpa"/>
-  <string id="sb.per_suren" text="Surēn"/>
-  <string id="sb.per_karin" text="Kārin"/>
-  <string id="sb.per_mihran" text="Mihran"/>
-  <string id="sb.per_mithridates" text="Mithridates"/>
-  <string id="sb.per_arsaces" text="Arsaces"/>
-  <string id="sb.per_rowhawm" text="Rowhawm"/>
+  <string id="sb.per_suren" text="Suren"/>
+  <string id="sb.per_karin" text="Karyn"/>
+  <string id="sb.per_mihran" text="Michran"/>
+  <string id="sb.per_mithridates" text="Mitrydates"/>
+  <string id="sb.per_arsaces" text="Arsakies"/>
+  <string id="sb.per_rowhawm" text="Rovchavm"/>
   <string id="sb.per_bavand" text="Bavand"/>
-  <string id="sb.per_spandiyadh" text="Spandiyadh"/>
-  <string id="sb.per_qajar" text="Qajar"/>
-  <string id="sb.per_afsharid" text="Afsharid"/>
-  <string id="sb.per_alavid" text="Alavid"/>
+  <string id="sb.per_spandiyadh" text="Spandzijad"/>
+  <string id="sb.per_qajar" text="Kadžar"/>
+  <string id="sb.per_afsharid" text="Afšarydy"/>
+  <string id="sb.per_alavid" text="Ałavidy"/>
   <string id="sb.per_zand" text="Zand"/>
-  <string id="sb.per_safavid" text="Safavid"/>
-  <string id="sb.per_buyid" text="Buyid"/>
-  <string id="sb.per_tahirid" text="Tahirid"/>
-  <string id="sb.per_saffarid" text="Saffarid"/>
-  <string id="sb.per_parthia" text="Parthia"/>
-  <string id="sb.per_mihranids" text="Mihranids"/>
-  <string id="sb.per_shirvan" text="Shirvan"/>
-  <string id="sb.per_ghurid" text="Ghurid"/>
-  <string id="sb.per_qara_qoyunlu" text="Qara Qoyunlu"/>
-  <string id="sb.per_ismail_i" text="Ismail I"/>
-  <string id="sb.pol_potocki" text="Potocki"/>
+  <string id="sb.per_safavid" text="Safavidy"/>
+  <string id="sb.per_buyid" text="Bujudy"/>
+  <string id="sb.per_tahirid" text="Tachirydy"/>
+  <string id="sb.per_saffarid" text="Saffarydy"/>
+  <string id="sb.per_parthia" text="Parfija"/>
+  <string id="sb.per_mihranids" text="Michranidy"/>
+  <string id="sb.per_shirvan" text="Šyrvan"/>
+  <string id="sb.per_ghurid" text="Hurydy"/>
+  <string id="sb.per_qara_qoyunlu" text="Kara Kojunłu"/>
+  <string id="sb.per_ismail_i" text="Ismaił I"/>
+  <string id="sb.pol_potocki" text="Patocki"/>
   <string id="sb.pol_koniecpolski" text="Koniecpolski"/>
-  <string id="sb.pol_tarnowski" text="Tarnowski"/>
-  <string id="sb.pol_kalinowski" text="Kalinowski"/>
-  <string id="sb.pol_gurowski" text="Gurowski"/>
-  <string id="sb.pol_wesierski" text="Węsierski"/>
+  <string id="sb.pol_tarnowski" text="Tarnovski"/>
+  <string id="sb.pol_kalinowski" text="Kalinovski"/>
+  <string id="sb.pol_gurowski" text="Hurovski"/>
+  <string id="sb.pol_wesierski" text="Vienšerski"/>
   <string id="sb.pol_bielinski" text="Bieliński"/>
   <string id="sb.pol_badeni" text="Badeni"/>
   <string id="sb.pol_borch" text="Borch"/>
   <string id="sb.pol_breza" text="Breza"/>
-  <string id="sb.pol_grocholski" text="Grocholski"/>
+  <string id="sb.pol_grocholski" text="Hracholski"/>
   <string id="sb.pol_karnicki" text="Karnicki"/>
   <string id="sb.pol_komarnicki" text="Komarnicki"/>
-  <string id="sb.pol_latalski" text="Latalski"/>
-  <string id="sb.pol_michalowski" text="Michałowski"/>
-  <string id="sb.pol_mniszek" text="Mniszek"/>
-  <string id="sb.pol_potworowski" text="Potworowski"/>
-  <string id="sb.pol_wielopolski" text="Wielopolski"/>
-  <string id="sb.pol_wisniewski" text="Wisniewski"/>
-  <string id="sb.pol_zyniew" text="Żyniew"/>
-  <string id="sb.pol_husarzewski" text="Husarzewski"/>
-  <string id="sb.pol_borawski" text="Borawski"/>
-  <string id="sb.pol_abgarowicz" text="Abgarowicz"/>
-  <string id="sb.pol_okinczyc" text="Okińczyc"/>
-  <string id="sb.pol_karniowski" text="Karniowski"/>
-  <string id="sb.pol_gulcz" text="Gulcz"/>
-  <string id="sb.pol_downarowicz" text="Downarowicz"/>
-  <string id="sb.pol_jezierza" text="Jezierza"/>
-  <string id="sb.pol_zabawski" text="Zabawski"/>
+  <string id="sb.pol_latalski" text="Łatalski"/>
+  <string id="sb.pol_michalowski" text="Michałovski"/>
+  <string id="sb.pol_mniszek" text="Mnišek"/>
+  <string id="sb.pol_potworowski" text="Patvarovski"/>
+  <string id="sb.pol_wielopolski" text="Viełapolski"/>
+  <string id="sb.pol_wisniewski" text="Viśnievski"/>
+  <string id="sb.pol_zyniew" text="Žyniev"/>
+  <string id="sb.pol_husarzewski" text="Chusaževski"/>
+  <string id="sb.pol_borawski" text="Boravski"/>
+  <string id="sb.pol_abgarowicz" text="Abharovič"/>
+  <string id="sb.pol_okinczyc" text="Okińčyc"/>
+  <string id="sb.pol_karniowski" text="Karniovski"/>
+  <string id="sb.pol_gulcz" text="Hulč"/>
+  <string id="sb.pol_downarowicz" text="Davnarovič"/>
+  <string id="sb.pol_jezierza" text="Jezieža"/>
+  <string id="sb.pol_zabawski" text="Zabavski"/>
   <string id="sb.pol_labunski" text="Łabuński"/>
-  <string id="sb.pol_wroblewski" text="Wroblewski"/>
-  <string id="sb.por_avis" text="Avis"/>
-  <string id="sb.por_borgonha" text="Borgonha"/>
-  <string id="sb.por_braganca" text="Bragança"/>
+  <string id="sb.pol_wroblewski" text="Vroblevski"/>
+  <string id="sb.por_avis" text="Aviš"/>
+  <string id="sb.por_borgonha" text="Burhońja"/>
+  <string id="sb.por_braganca" text="Brahansa"/>
   <string id="sb.por_mota" text="Mota"/>
-  <string id="sb.por_betemr" text="Betemr"/>
-  <string id="sb.por_agular" text="Agular"/>
-  <string id="sb.por_risto" text="Risto"/>
-  <string id="sb.por_auiz" text="Auiz"/>
+  <string id="sb.por_betemr" text="Bietemr"/>
+  <string id="sb.por_agular" text="Ahułar"/>
+  <string id="sb.por_risto" text="Ryštu"/>
+  <string id="sb.por_auiz" text="Aŭjiš"/>
   <string id="sb.por_malta" text="Malta"/>
-  <string id="sb.por_bernardo" text="Bernardo"/>
-  <string id="sb.por_sam_bento" text="Sam Bento"/>
-  <string id="sb.por_augulhnhe" text="Augulhnhe"/>
-  <string id="sb.por_carmelitas" text="Carmelitas"/>
-  <string id="sb.por_trindade" text="Trindade"/>
-  <string id="sb.por_francilco" text="Francilco"/>
-  <string id="sb.por_eca" text="Eça"/>
-  <string id="sb.por_castro" text="Castro"/>
-  <string id="sb.por_queiroz" text="Queiroz"/>
-  <string id="sb.por_correia" text="Correia"/>
-  <string id="sb.por_corte_real" text="Corte-Real"/>
-  <string id="sb.por_ataide" text="Ataíde"/>
-  <string id="sb.por_abrantes" text="Abrantes"/>
-  <string id="sb.rus_mstyslav_volodymyrovych_the_brave" text="Mstyslav Volodymyrovych the Brave"/>
-  <string id="sb.rus_smolyn" text="Smolyn"/>
-  <string id="sb.rus_shestovytsia" text="Shestovytsia"/>
-  <string id="sb.rus_blystova" text="Blystova"/>
-  <string id="sb.rus_sedniv" text="Sedniv"/>
-  <string id="sb.rus_listven" text="Listven"/>
-  <string id="sb.rus_lyubech" text="Lyubech"/>
-  <string id="sb.rus_vorhol" text="Vorhol"/>
+  <string id="sb.por_bernardo" text="Biernardu"/>
+  <string id="sb.por_sam_bento" text="Sam Bientu"/>
+  <string id="sb.por_augulhnhe" text="Aŭhulju"/>
+  <string id="sb.por_carmelitas" text="Karmielitaš"/>
+  <string id="sb.por_trindade" text="Tryndade"/>
+  <string id="sb.por_francilco" text="Fransilku"/>
+  <string id="sb.por_eca" text="Esa"/>
+  <string id="sb.por_castro" text="Kaštru"/>
+  <string id="sb.por_queiroz" text="Kejruš"/>
+  <string id="sb.por_correia" text="Kurreja"/>
+  <string id="sb.por_corte_real" text="Kort-Ryjał"/>
+  <string id="sb.por_ataide" text="Ataide"/>
+  <string id="sb.por_abrantes" text="Abranteš"/>
+  <string id="sb.rus_mstyslav_volodymyrovych_the_brave" text="Mstysłav Vołodymyrovič Advažny"/>
+  <string id="sb.rus_smolyn" text="Smołyn"/>
+  <string id="sb.rus_shestovytsia" text="Šestovycia"/>
+  <string id="sb.rus_blystova" text="Błystova"/>
+  <string id="sb.rus_sedniv" text="Siedniv"/>
+  <string id="sb.rus_listven" text="Listvien"/>
+  <string id="sb.rus_lyubech" text="Lubieč"/>
+  <string id="sb.rus_vorhol" text="Vorhał"/>
   <string id="sb.rus_lenkiv" text="Lenkiv"/>
-  <string id="sb.rus_lgov" text="Lgov"/>
+  <string id="sb.rus_lgov" text="Lhov"/>
   <string id="sb.rus_rylsk" text="Rylsk"/>
-  <string id="sb.rus_tovstodubove" text="Tovstodubove"/>
-  <string id="sb.rus_iziaslav_i_iaroslavych" text="Iziaslav I Iaroslavych"/>
-  <string id="sb.rus_sviatoslav_i_igorovich_the_brave" text="Sviatoslav I Igorovich the Brave"/>
-  <string id="sb.rus_volodymyr_i_sviatoslavych_the_great" text="Volodymyr I Sviatoslavych the Great"/>
-  <string id="sb.rus_iaroslav_i_volodymyrovych_the_wise" text="Iaroslav I Volodymyrovych the Wise"/>
+  <string id="sb.rus_tovstodubove" text="Tovstadubovie"/>
+  <string id="sb.rus_iziaslav_i_iaroslavych" text="Iziasłav I Jarosłavyč"/>
+  <string id="sb.rus_sviatoslav_i_igorovich_the_brave" text="Śviatosłav I Ihorovyč Advažny"/>
+  <string id="sb.rus_volodymyr_i_sviatoslavych_the_great" text="Vołodymyr I Śviatosłavyč Vialiki"/>
+  <string id="sb.rus_iaroslav_i_volodymyrovych_the_wise" text="Jarosłav I Vołodymyrovyč Mudry"/>
   <string id="sb.rus_kyiv" text="Kyiv"/>
-  <string id="sb.rus_bila_tserkva" text="Bila Tserkva"/>
-  <string id="sb.rus_vyshhorod" text="Vyshhorod"/>
-  <string id="sb.rus_snitynka" text="Snitynka"/>
-  <string id="sb.rus_bohuslav" text="Bohuslav"/>
-  <string id="sb.rus_korsun" text="Korsun"/>
-  <string id="sb.rus_sviatopolk_mstyslavych" text="Sviatopolk Mstyslavych"/>
-  <string id="sb.rus_iziaslav_ii_mstyslavych" text="Iziaslav II Mstyslavych"/>
-  <string id="sb.rus_rostyslav_i_mstyslavych" text="Rostyslav I Mstyslavych"/>
+  <string id="sb.rus_bila_tserkva" text="Biła Cierkva"/>
+  <string id="sb.rus_vyshhorod" text="Vyšhorod"/>
+  <string id="sb.rus_snitynka" text="Śnitynka"/>
+  <string id="sb.rus_bohuslav" text="Bohusłav"/>
+  <string id="sb.rus_korsun" text="Korsuń"/>
+  <string id="sb.rus_sviatopolk_mstyslavych" text="Śviatopołk Mstysłavyč"/>
+  <string id="sb.rus_iziaslav_ii_mstyslavych" text="Iziasłav II Mstysłavyč"/>
+  <string id="sb.rus_rostyslav_i_mstyslavych" text="Rostysłav I Mstysłavyč"/>
   <string id="sb.rus_oster" text="Oster"/>
-  <string id="sb.rus_nizhyn" text="Nizhyn"/>
-  <string id="sb.rus_pryluka" text="Pryluka"/>
+  <string id="sb.rus_nizhyn" text="Nižyn"/>
+  <string id="sb.rus_pryluka" text="Pryłuka"/>
   <string id="sb.rus_voin" text="Voin"/>
-  <string id="sb.rus_vsevolod_i_iaroslavych" text="Vsevolod I Iaroslavych"/>
-  <string id="sb.rus_romny" text="Romny"/>
-  <string id="sb.sco_fairfax" text="Fairfax"/>
-  <string id="sb.sco_boswell" text="Boswell"/>
-  <string id="sb.sco_maclellan" text="MacLellan"/>
-  <string id="sb.sco_schaw" text="Schaw"/>
-  <string id="sb.sco_crawford" text="Crawford"/>
-  <string id="sb.sco_ged" text="Ged"/>
-  <string id="sb.sco_baillie" text="Baillie"/>
-  <string id="sb.sco_tailyour" text="Tailyour"/>
-  <string id="sb.sco_calder" text="Calder"/>
-  <string id="sb.sco_kelly" text="Kelly"/>
+  <string id="sb.rus_vsevolod_i_iaroslavych" text="Vsievołod I Jarosłavyč"/>
+  <string id="sb.rus_romny" text="Romnymo"/>
+  <string id="sb.sco_fairfax" text="Ferfaks"/>
+  <string id="sb.sco_boswell" text="Bosveł"/>
+  <string id="sb.sco_maclellan" text="MakLełłan"/>
+  <string id="sb.sco_schaw" text="Šaŭ"/>
+  <string id="sb.sco_crawford" text="Kraŭford"/>
+  <string id="sb.sco_ged" text="Hied"/>
+  <string id="sb.sco_baillie" text="Bejlli"/>
+  <string id="sb.sco_tailyour" text="Tejlor"/>
+  <string id="sb.sco_calder" text="Kalder"/>
+  <string id="sb.sco_kelly" text="Kielli"/>
   <string id="sb.sco_dundas" text="Dundas"/>
-  <string id="sb.sco_macgowan" text="MacGowan"/>
+  <string id="sb.sco_macgowan" text="MakHoŭan"/>
   <string id="sb.sco_strachan" text="Strachan"/>
-  <string id="sb.sco_mckerrell" text="McKerrell"/>
-  <string id="sb.sco_macduff" text="MacDuff"/>
-  <string id="sb.sco_macfie" text="Macfie"/>
-  <string id="sb.sco_pollock" text="Pollock"/>
-  <string id="sb.sco_spalding" text="Spalding"/>
-  <string id="sb.sco_houston" text="Houston"/>
-  <string id="sb.sco_logan" text="Logan"/>
+  <string id="sb.sco_mckerrell" text="MakKierreł"/>
+  <string id="sb.sco_macduff" text="MakDuff"/>
+  <string id="sb.sco_macfie" text="Makfi"/>
+  <string id="sb.sco_pollock" text="Połłak"/>
+  <string id="sb.sco_spalding" text="Spaldynh"/>
+  <string id="sb.sco_houston" text="Chjuston"/>
+  <string id="sb.sco_logan" text="Łohan"/>
   <string id="sb.ser_bakic" text="Bakić"/>
   <string id="sb.ser_brankovic" text="Branković"/>
   <string id="sb.ser_buca" text="Buća"/>
