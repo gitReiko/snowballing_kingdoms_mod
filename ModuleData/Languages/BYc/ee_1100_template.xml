@@ -1,463 +1,463 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
  <strings>
-  <string id="sb.est_jarva" text="Järva"/>
-  <string id="sb.est_rotalia" text="Rotalia"/>
-  <string id="sb.est_vaiga" text="Vaiga"/>
-  <string id="sb.est_nurmekund" text="Nurmekund"/>
-  <string id="sb.est_alempois" text="Alempois"/>
-  <string id="sb.est_mohu" text="Mõhu"/>
-  <string id="sb.est_tamm" text="Tamm"/>
-  <string id="sb.est_pold" text="Põld"/>
-  <string id="sb.est_sepp" text="Sepp"/>
-  <string id="sb.est_talu" text="Talu"/>
-  <string id="sb.est_jogentagana" text="Jogentagana"/>
-  <string id="sb.est_pudiviru" text="Pudiviru"/>
-  <string id="sb.est_laanemaa" text="Läänemaa"/>
-  <string id="sb.est_soontagana" text="Soontagana"/>
-  <string id="sb.est_leole" text="Leole"/>
-  <string id="sb.est_saaremaa" text="Saaremaa"/>
-  <string id="sb.est_ridala" text="Ridala"/>
-  <string id="sb.est_varbola" text="Varbola"/>
-  <string id="sb.est_aderkas" text="Aderkas"/>
-  <string id="sb.est_baranoff" text="Baranoff"/>
-  <string id="sb.est_berg" text="Berg"/>
-  <string id="sb.est_derfelden" text="Derfelden"/>
-  <string id="sb.est_fersen" text="Fersen"/>
-  <string id="sb.est_bruiningk" text="Bruiningk"/>
-  <string id="sb.est_hagemeister" text="Hagemeister"/>
-  <string id="sb.est_reval" text="Reval"/>
-  <string id="sb.est_parnu" text="Pärnu"/>
-  <string id="sb.est_viljandi" text="Viljandi"/>
-  <string id="sb.ara_muhammad_abu_normay" text="Muhammad Abu Normay"/>
-  <string id="sb.ara_ayyubid" text="Ayyubid"/>
-  <string id="sb.ara_salah_ad_din" text="Salah ad-Din"/>
-  <string id="sb.ara_mamluk" text="Mamluk"/>
-  <string id="sb.ara_mamluk_alexandria" text="Mamluk-Alexandria"/>
-  <string id="sb.ara_al_mustain" text="Al-Musta'in Billah"/>
-  <string id="sb.ara_rasulid" text="Rasulid"/>
-  <string id="sb.ara_yarubid" text="Yarubid"/>
-  <string id="sb.ara_qarmatian" text="Qarmatian"/>
-  <string id="sb.ara_usfurid" text="Usfurid"/>
-  <string id="sb.ara_al_khalifa" text="Al Khalifa"/>
-  <string id="sb.ara_al_saud" text="Al Saud"/>
-  <string id="sb.ara_yashkur" text="Yashkur"/>
-  <string id="sb.ara_shayban" text="Shayban"/>
-  <string id="sb.ara_tahirid" text="Tahirid"/>
-  <string id="sb.ara_ijl" text="Ijl"/>
-  <string id="sb.ara_thaqif" text="Thaqif"/>
-  <string id="sb.ara_kinana" text="Kinana"/>
-  <string id="sb.ara_taym" text="Taym"/>
-  <string id="sb.ara_khuzaah" text="Khuza'ah"/>
-  <string id="sb.ara_ashar" text="Ash'ar"/>
-  <string id="sb.ara_tayy" text="Tayy"/>
-  <string id="sb.ara_nukha" text="Nukha"/>
-  <string id="sb.ara_rassid" text="Rassid"/>
-  <string id="sb.ara_al_nuaimi" text="Al Nuaimi"/>
-  <string id="sb.ara_al_qasimi" text="Al Qasimi"/>
-  <string id="sb.ara_tamim" text="Tamim"/>
-  <string id="sb.ara_shammar" text="Shammar"/>
-  <string id="sb.ara_azd" text="Azd"/>
-  <string id="sb.ara_muharib" text="Muharib"/>
-  <string id="sb.arm_abamelik" text="Abamelik"/>
-  <string id="sb.arm_bagratuni" text="Bagratuni"/>
-  <string id="sb.arm_artaxiad" text="Artaxiad"/>
-  <string id="sb.arm_arsacid" text="Arsacid"/>
-  <string id="sb.arm_kiurikian" text="Kiurikian"/>
-  <string id="sb.arm_taronites" text="Taronites"/>
-  <string id="sb.arm_kamsarakan" text="Kamsarakan"/>
-  <string id="sb.arm_orbelian" text="Orbelian"/>
-  <string id="sb.arm_orbelian_jambakurian" text="Orbelian-Jambakurian"/>
-  <string id="sb.arm_mamikonian" text="Mamikonian"/>
-  <string id="sb.arm_proshyan" text="Proshyan"/>
-  <string id="sb.arm_amatuni" text="Amatuni"/>
-  <string id="sb.arm_bznuni" text="Bznuni"/>
-  <string id="sb.arm_hasan_jalalyan" text="Hasan-Jalalyan"/>
-  <string id="sb.arm_paluni" text="Paluni"/>
-  <string id="sb.arm_melikyan" text="Melikyan"/>
-  <string id="sb.ber_almoravid" text="Almoravid"/>
-  <string id="sb.ber_almohad" text="Almohad"/>
-  <string id="sb.ber_merinid" text="Merinid"/>
-  <string id="sb.ber_wattasid" text="Wattasid"/>
-  <string id="sb.ber_alaouite" text="Alaouite"/>
-  <string id="sb.ber_saadite" text="Saadite"/>
-  <string id="sb.ber_al_rashid" text="Al-Rashid"/>
-  <string id="sb.ber_rex_de_fes" text="Rex de Fes"/>
-  <string id="sb.ber_tunisia" text="Tunisia"/>
-  <string id="sb.ber_tlemcen" text="Tlemcen"/>
-  <string id="sb.ber_maroc" text="Maroc"/>
-  <string id="sb.ber_muradids" text="Muradids"/>
-  <string id="sb.ber_husayn_i_of_tunis" text="Husayn I of Tunis"/>
-  <string id="sb.ber_ali_i_of_tunis" text="Ali I of Tunis"/>
-  <string id="sb.ber_uluj_ali" text="Uluj Ali"/>
-  <string id="sb.ber_al_fadl_of_tunis" text="Al-Fadl of Tunis"/>
-  <string id="sb.ber_zakariya_ii_of_tunis" text="Zakariya II of Tunis"/>
-  <string id="sb.ber_ahmad_iii_of_tunis" text="Ahmad III of Tunis"/>
-  <string id="sb.ber_zayyanid" text="Zayyanid"/>
-  <string id="sb.ber_kuku" text="Kuku"/>
-  <string id="sb.ber_abd_el_aziz_ii_of_tunis" text="Abd-el Aziz II of Tunis"/>
-  <string id="sb.ber_muhammad_ii_bektash" text="Muhammad II Bektash"/>
-  <string id="sb.ber_al_wattasiyyun" text="al-Wattasiyyun"/>
-  <string id="sb.bul_dulo" text="Dulo"/>
-  <string id="sb.bul_asenid" text="Asenid"/>
-  <string id="sb.bul_sratsimir" text="Sratsimir"/>
-  <string id="sb.bul_vidin" text="Vidin"/>
-  <string id="sb.bul_shishman" text="Shishman"/>
-  <string id="sb.bul_mihail_asen_iii" text="Mihail Asen III"/>
-  <string id="sb.bul_smilets" text="Smilets"/>
-  <string id="sb.bul_terter" text="Terter"/>
-  <string id="sb.bul_cometopuli" text="Cometopuli"/>
-  <string id="sb.bul_aaronios" text="Aaronios"/>
-  <string id="sb.bul_krum" text="Krum"/>
-  <string id="sb.bul_knesovich" text="Knesovich"/>
-  <string id="sb.bul_tomagonovich" text="Tomagonovich"/>
-  <string id="sb.bul_parchevich" text="Parchevich"/>
-  <string id="sb.bul_stanislavich" text="Stanislavich"/>
-  <string id="sb.bul_philippopolis" text="Philippopolis"/>
-  <string id="sb.bul_bononia" text="Bononia"/>
-  <string id="sb.bul_bodon" text="Bodon"/>
-  <string id="sb.bul_dobruja" text="Dobruja"/>
-  <string id="sb.bul_tarnovo" text="Tarnovo"/>
-  <string id="sb.byz_vlattera" text="Vlattera"/>
-  <string id="sb.byz_barbaro" text="Barbaro"/>
-  <string id="sb.byz_phocas" text="Phocas"/>
-  <string id="sb.byz_vlastos" text="Vlastos"/>
-  <string id="sb.byz_vatatzes" text="Vatatzes"/>
-  <string id="sb.byz_lascaris" text="Lascaris"/>
-  <string id="sb.byz_kantakouzenos" text="Kantakouzenos"/>
-  <string id="sb.byz_micrulaches" text="Micrulaches"/>
-  <string id="sb.byz_frangopoulos" text="Frangopoulos"/>
-  <string id="sb.byz_raoul" text="Raoul"/>
-  <string id="sb.byz_isaac_komnenos" text="Isaac Komnenos"/>
-  <string id="sb.byz_callergis" text="Callergis"/>
-  <string id="sb.byz_great_komnenos" text="Great Komnenos"/>
-  <string id="sb.byz_argyros" text="Argyros"/>
-  <string id="sb.byz_cantacuzino" text="Cantacuzino"/>
-  <string id="sb.byz_branas" text="Branas"/>
-  <string id="sb.byz_anemas" text="Anemas"/>
-  <string id="sb.byz_mouzalon" text="Mouzalon"/>
-  <string id="sb.byz_carandino" text="Carandino"/>
-  <string id="sb.byz_skleros" text="Skleros"/>
-  <string id="sb.byz_melissenos" text="Melissenos"/>
-  <string id="sb.byz_tornikes" text="Tornikes"/>
-  <string id="sb.byz_rangave" text="Rangave"/>
-  <string id="sb.byz_cybo" text="Cybo"/>
-  <string id="sb.dre_bierascie" text="Bieraście"/>
-  <string id="sb.dre_kamianiec_litouski" text="Kamianiec-Litoŭski"/>
-  <string id="sb.dre_pinsk" text="Pinsk"/>
-  <string id="sb.dre_mazyr" text="Mazyr"/>
-  <string id="sb.dre_sluck" text="Słuck"/>
-  <string id="sb.dre_kallavury" text="Kałłavury"/>
-  <string id="sb.dre_lyckouskija" text="Łyčkoŭskija"/>
-  <string id="sb.dre_pinskija" text="Pinskija"/>
-  <string id="sb.dre_chmary" text="Chmary"/>
-  <string id="sb.dre_kasciuski" text="Kaściuški"/>
-  <string id="sb.dre_statkievicy" text="Statkievičy"/>
-  <string id="sb.dre_kalencyskija" text="Kalenčyskija"/>
-  <string id="sb.dre_pacei" text="Pacei"/>
-  <string id="sb.dre_karzanieuskija" text="Karžanieŭskija"/>
-  <string id="sb.dre_alelkavixy_sluckija" text="Alelkavičy-Słuckija"/>
-  <string id="sb.dre_baranouskija" text="Baranoŭskija"/>
-  <string id="sb.dre_kazlouskija" text="Kazłoŭskija"/>
-  <string id="sb.dre_vysenskija" text="Vyšenskija"/>
-  <string id="sb.dre_przevalskija" text="Prževalskija"/>
-  <string id="sb.dre_styrykovicy" text="Styrykovičy"/>
-  <string id="sb.dre_suski" text="Suški"/>
-  <string id="sb.dre_satkouskija" text="Šatkoŭskija"/>
-  <string id="sb.dre_michalouskija" text="Michałoŭskija"/>
-  <string id="sb.dre_krupskija" text="Krupskija"/>
-  <string id="sb.dre_hieraltouskija" text="Hierałtoŭskija"/>
-  <string id="sb.dre_vyzny" text="Vyzny"/>
-  <string id="sb.dre_lahisyn" text="Łahišyn"/>
-  <string id="sb.dre_niasviz" text="Niaśviž"/>
-  <string id="sb.dre_vysokaje" text="Vysokaje"/>
-  <string id="sb.eng_selby" text="Selby"/>
-  <string id="sb.eng_john_everingham" text="John Everingham"/>
-  <string id="sb.eng_roger_de_butterley" text="Roger de Butterley"/>
-  <string id="sb.eng_adam_de_lacy" text="Adam de Lacy"/>
-  <string id="sb.eng_thomas_of_camoys" text="Thomas de Camoys"/>
-  <string id="sb.eng_michael_of_poynings" text="Michael de Poynings"/>
-  <string id="sb.eng_louis_robesart" text="Louis Robesart"/>
-  <string id="sb.eng_john_of_grey_heton" text="John de Grey Heton"/>
-  <string id="sb.eng_walter_paveley" text="Walter Paveley"/>
-  <string id="sb.eng_denis_de_saint_omer" text="Denis de Saint-Omer"/>
-  <string id="sb.eng_guillaume_sans" text="Guillaume Sans"/>
-  <string id="sb.eng_john_de_holland" text="John de Holland"/>
-  <string id="sb.eng_howell_y_fwyall" text="Howell-y-Fwyall"/>
-  <string id="sb.eng_john_macworth" text="John Macworth"/>
-  <string id="sb.eng_geoffrey_de_abitot" text="Geoffrey de Abitot"/>
-  <string id="sb.eng_john_de_vere" text="John de Vere"/>
-  <string id="sb.eng_walter_de_cockesey" text="Walter de Cockesey"/>
-  <string id="sb.eng_piers_de_courdray" text="Piers de Courdray"/>
-  <string id="sb.eng_edmund_gracelin" text="Edmund Gracelin"/>
-  <string id="sb.eng_robert_blundel" text="Robert Blundel"/>
-  <string id="sb.mos_yuri_vladimirovich" text="Yuri Vladimirovich the Long Arm"/>
-  <string id="sb.mos_rostislav_yuryevich" text="Rostislav Yuryevich"/>
-  <string id="sb.mos_andrey_yuryevich" text="Andrey Yuryevich of Bogolyubovo"/>
-  <string id="sb.mos_mstislav_yuryevich" text="Mstislav Yuryevich"/>
-  <string id="sb.mos_vsevolod_yuryevich" text="Vsevolod Yuryevich the Big Nest"/>
-  <string id="sb.mos_sviatoslav_vsevolodovich" text="Sviatoslav Vsevolodovich"/>
-  <string id="sb.mos_pereslavl_zalessky" text="Pereslavl-Zalessky"/>
-  <string id="sb.mos_rostov_veliky" text="Rostov Veliky"/>
-  <string id="sb.mos_vladimir" text="Vladimir"/>
-  <string id="sb.mos_moscow" text="Moscow"/>
-  <string id="sb.mos_beloozero" text="Beloozero"/>
-  <string id="sb.mos_aksakovy" text="Aksakovy"/>
-  <string id="sb.mos_arkharovy" text="Arkharovy"/>
-  <string id="sb.mos_blokhiny" text="Blokhiny"/>
-  <string id="sb.mos_bukhvostovy" text="Bukhvostovy"/>
-  <string id="sb.mos_verevkiny" text="Verevkiny"/>
-  <string id="sb.mos_strogininy" text="Strogininy"/>
-  <string id="sb.mos_gotovtsevy" text="Gotovtsevy"/>
-  <string id="sb.mos_davydovy" text="Davydovy"/>
-  <string id="sb.mos_zhdanovy" text="Zhdanovy"/>
-  <string id="sb.mos_zasekiny" text="Zasekiny"/>
-  <string id="sb.nov_prussian_boyars" text="Prussian Boyars"/>
-  <string id="sb.nov_nerev_boyars" text="Nerev Boyars"/>
-  <string id="sb.nov_liudin_boyars" text="Liudin Boyars"/>
-  <string id="sb.nov_slaven_boyars" text="Slaven Boyars"/>
-  <string id="sb.nov_plotnik_boyars" text="Plotnik Boyars"/>
-  <string id="sb.nov_ladoga" text="Ladoga"/>
-  <string id="sb.nov_rostislav_mikhailovich" text="Rostislav Mikhailovich"/>
-  <string id="sb.nov_russa" text="Russa"/>
-  <string id="sb.nov_roxia" text="Roxia"/>
-  <string id="sb.nov_stephan_pavlovic" text="Stephan Pavlovič"/>
-  <string id="sb.rad_kazakievicy" text="Kazakievičy"/>
-  <string id="sb.rad_cavusy" text="Čavusy"/>
-  <string id="sb.rad_mscislau" text="Mścisłaŭ"/>
-  <string id="sb.rad_bartkouskija" text="Bartkoŭskija"/>
-  <string id="sb.rad_harbaceuskija" text="Harbačeŭskija"/>
-  <string id="sb.rad_kurbackija" text="Kurbackija"/>
-  <string id="sb.rad_paplauskija" text="Papłaŭskija"/>
-  <string id="sb.rad_pleskija" text="Pleskija"/>
-  <string id="sb.rad_slucanouskija" text="Słučanoŭskija"/>
-  <string id="sb.rad_chadasovicy" text="Chadasovičy"/>
-  <string id="sb.fre_pierre_i_of_bourbon" text="Pierre I de Bourbon"/>
-  <string id="sb.fre_jacques_de_bourbon" text="Jacques de Bourbon"/>
-  <string id="sb.fre_jean_d_artois" text="Jean d’Artois"/>
-  <string id="sb.fre_bishop_of_chalons" text="Bishop of Chalons"/>
-  <string id="sb.fre_jean_i_de_bourbon" text="Jean I de Bourbon"/>
-  <string id="sb.fre_arnould_de_wesmael" text="Arnould de Wesmael"/>
-  <string id="sb.fre_conte_de_salm_en_ardenne" text="Conte de Salm"/>
-  <string id="sb.fre_regnaut_d_aubigny" text="Regnaut d’Aubigny"/>
-  <string id="sb.fre_bernard_de_ventadour" text="Bernard de Ventadour"/>
-  <string id="sb.fre_amaury_iv_de_craon" text="Amaury IV de Craon"/>
-  <string id="sb.fre_guillaume_de_saveuse" text="Guillaume de Saveuse"/>
-  <string id="sb.fre_guillaume_d_erneville" text="Guillaume d’Erneville"/>
-  <string id="sb.fre_viconte_de_melun" text="Viconte de Melun"/>
-  <string id="sb.fre_mahieu_de_rouvroy" text="Mahieu de Rouvroy"/>
-  <string id="sb.fre_guy_iv_de_damas" text="Guy IV de Damas"/>
-  <string id="sb.fre_robert_iii_d_harcourt" text="Robert III d’Harcourt"/>
-  <string id="sb.fre_gauthier_de_brienne" text="Gauthier de Brienne"/>
-  <string id="sb.fre_jean_de_goussencourt" text="Jean de Goussencourt"/>
-  <string id="sb.fre_jean_de_cambray" text="Jean de Cambray"/>
-  <string id="sb.fre_viconte_de_touarc" text="Viconte de Touarc"/>
-  <string id="sb.cru_jacques_de_molay" text="Jacques de Molay"/>
-  <string id="sb.cru_le_puy" text="Le Puy"/>
-  <string id="sb.cru_robert_de_craon" text="Robert de Craon"/>
-  <string id="sb.cru_saint_gilles" text="Saint-Gilles"/>
-  <string id="sb.cru_bertrand_de_blanquefort" text="Bertrand de Blanquefort"/>
-  <string id="sb.cru_gerard_tenque" text="Gerard Tenque"/>
-  <string id="sb.cru_guines" text="Guines"/>
-  <string id="sb.cru_ibelin" text="Ibelin"/>
-  <string id="sb.cru_guy_de_blanchefort" text="Guy de Blanchefort"/>
-  <string id="sb.cru_gerard_de_ridefort" text="Gerard de Ridefort"/>
-  <string id="sb.cru_joubert_de_syrie" text="Joubert de Syrie"/>
-  <string id="sb.cru_chatillon" text="Chatillon"/>
-  <string id="sb.cru_avesnes" text="Avesnes"/>
-  <string id="sb.cru_grez" text="Grez"/>
-  <string id="sb.cru_agnan_de_mareul" text="Agnan de Mareul"/>
-  <string id="sb.cru_guillaume_de_villaret" text="Guillaume de Villaret"/>
-  <string id="sb.cru_adam_de_veau" text="Adam de Veau"/>
-  <string id="sb.cru_arnold_de_torroja" text="Arnold de Torroja"/>
-  <string id="sb.cru_bouillon" text="Bouillon"/>
-  <string id="sb.cru_guerin_de_montaigu" text="Guerin de Montaigu"/>
-  <string id="sb.geo_abashidze" text="Abashidze"/>
-  <string id="sb.geo_agiashvili" text="Agiashvili"/>
-  <string id="sb.geo_avalishvili" text="Avalishvili"/>
-  <string id="sb.geo_begtabegishvili" text="Begtabegishvili"/>
-  <string id="sb.geo_gurgenidze" text="Gurgenidze"/>
-  <string id="sb.geo_jaqeli" text="Jaqeli"/>
-  <string id="sb.geo_japaridze" text="Japaridze"/>
-  <string id="sb.geo_kashibadze" text="Kashibadze"/>
-  <string id="sb.geo_kazbegi" text="Kazbegi"/>
-  <string id="sb.geo_khojaminasishvili" text="Khojaminasishvili"/>
-  <string id="sb.geo_machabeli" text="Machabeli"/>
-  <string id="sb.geo_maghalashvili" text="Maghalashvili"/>
-  <string id="sb.geo_mikadze" text="Mikadze"/>
-  <string id="sb.geo_ratishvili" text="Ratishvili"/>
-  <string id="sb.geo_shalikashvili" text="Shalikashvili"/>
-  <string id="sb.geo_sidamoni" text="Sidamoni"/>
-  <string id="sb.geo_tarielashvili" text="Tarielashvili"/>
-  <string id="sb.geo_tumanishvili" text="Tumanishvili"/>
-  <string id="sb.geo_vachnadze" text="Vachnadze"/>
-  <string id="sb.geo_chkhetidze" text="Chkhetidze"/>
-  <string id="sb.ger_baer" text="Baer"/>
-  <string id="sb.ger_buren" text="Buren"/>
-  <string id="sb.ger_piesport" text="Piesport"/>
-  <string id="sb.ger_indermaur" text="Indermaur"/>
-  <string id="sb.ger_diepholz" text="Diepholz"/>
-  <string id="sb.ger_gail" text="Gail"/>
-  <string id="sb.ger_hoya" text="Hoya"/>
-  <string id="sb.ger_hohenberg" text="Hohenberg"/>
-  <string id="sb.ger_hutten" text="Hutten"/>
-  <string id="sb.ger_kessel" text="Kessel"/>
-  <string id="sb.ger_moers" text="Moers"/>
-  <string id="sb.ger_orlamunde" text="Orlamünde"/>
-  <string id="sb.ger_pallant" text="Pallant"/>
-  <string id="sb.ger_salis" text="Salis"/>
-  <string id="sb.ger_schonforst" text="Schönforst"/>
-  <string id="sb.ger_tecklenburg" text="Tecklenburg"/>
-  <string id="sb.ger_voorst" text="Voorst"/>
-  <string id="sb.ger_schinne" text="Schinne"/>
-  <string id="sb.ger_westerburg" text="Westerburg"/>
-  <string id="sb.ger_wisch" text="Wisch"/>
-  <string id="sb.ger_kirchberg" text="Kirchberg"/>
-  <string id="sb.ger_dietz" text="Dietz"/>
-  <string id="sb.ger_delmenhorst" text="Delmenhorst"/>
-  <string id="sb.ger_batenburg" text="Batenburg"/>
-  <string id="sb.ger_sickingen" text="Sickingen"/>
-  <string id="sb.ger_hohenzollern" text="Hohenzollern"/>
-  <string id="sb.hun_kemeny" text="Kemény"/>
-  <string id="sb.hun_dory" text="Dőry"/>
-  <string id="sb.hun_patthy" text="Patthy"/>
-  <string id="sb.hun_revay" text="Révay"/>
-  <string id="sb.hun_balogh" text="Balogh"/>
-  <string id="sb.hun_eross_csikszentmiklos" text="Erőss-Csíkszentmiklós"/>
-  <string id="sb.hun_eross_borosjeno" text="Erőss-Borosjenő"/>
-  <string id="sb.hun_eross_dercsika" text="Erőss-Dercsika"/>
-  <string id="sb.hun_nadasdy" text="Nádasdy"/>
-  <string id="sb.hun_somogyi_perlak" text="Somogyi-Perlak"/>
-  <string id="sb.hun_somogyi_gyulafehervar" text="Somogyi-Gyulafehérvár"/>
-  <string id="sb.hun_hedervary" text="Héderváry"/>
-  <string id="sb.hun_lonyay" text="Lónyay"/>
-  <string id="sb.hun_illeshazy" text="Illésházy"/>
-  <string id="sb.hun_forgach" text="Forgách"/>
-  <string id="sb.hun_ambrozy" text="Ambrózy"/>
-  <string id="sb.hun_bercsenyi" text="Bercsényi"/>
-  <string id="sb.hun_vay" text="Vay"/>
-  <string id="sb.hun_hunyady" text="Hunyady"/>
-  <string id="sb.hun_thurzo" text="Thurzó"/>
-  <string id="sb.iri_kane" text="Kane"/>
-  <string id="sb.iri_gallagher" text="Gallagher"/>
-  <string id="sb.iri_sheridan" text="Sheridan"/>
-  <string id="sb.iri_molloy" text="Molloy"/>
-  <string id="sb.iri_cullen" text="Cullen"/>
-  <string id="sb.iri_delaney" text="Delaney"/>
-  <string id="sb.iri_o_dowd" text="O’Dowd"/>
-  <string id="sb.iri_mcguinness" text="McGuinness"/>
-  <string id="sb.iri_o_connell" text="O’Connell"/>
-  <string id="sb.iri_lavin" text="Lavin"/>
-  <string id="sb.iri_o_doherty" text="O’Doherty"/>
-  <string id="sb.iri_phelan" text="Phelan"/>
-  <string id="sb.iri_hogan" text="Hogan"/>
-  <string id="sb.iri_flitzpatrick" text="Flitzpatrick"/>
-  <string id="sb.iri_costello" text="Costello"/>
-  <string id="sb.iri_crowley" text="Crowley"/>
-  <string id="sb.iri_looney" text="Looney"/>
-  <string id="sb.iri_regan" text="Regan"/>
-  <string id="sb.iri_corcoran" text="Corcoran"/>
-  <string id="sb.iri_duggan" text="Duggan"/>
-  <string id="sb.ita_accolti" text="Accolti"/>
-  <string id="sb.ita_alamanni" text="Alamanni"/>
-  <string id="sb.ita_albizzi" text="Albizzi"/>
-  <string id="sb.ita_appiani" text="Appiani"/>
-  <string id="sb.ita_bardi" text="Bardi"/>
-  <string id="sb.ita_bettoni" text="Bettoni"/>
-  <string id="sb.ita_capocci" text="Capocci"/>
-  <string id="sb.ita_cornaro" text="Cornaro"/>
-  <string id="sb.ita_corsini" text="Corsini"/>
-  <string id="sb.ita_gherardesca" text="Gherardesca"/>
-  <string id="sb.ita_dentice" text="Dentice"/>
-  <string id="sb.ita_durazzo" text="Durazzo"/>
-  <string id="sb.ita_ezzelini" text="Ezzelini"/>
-  <string id="sb.ita_farnese" text="Farnese"/>
-  <string id="sb.ita_fioravanti" text="Fioravanti"/>
-  <string id="sb.ita_gabrielli" text="Gabrielli"/>
-  <string id="sb.ita_gualterio" text="Gualterio"/>
-  <string id="sb.ita_guidi_di_bagno" text="Guidi di Bagno"/>
-  <string id="sb.ita_mattei" text="Mattei"/>
-  <string id="sb.ita_mancini" text="Mancini"/>
-  <string id="sb.ita_ordelaffi" text="Ordelaffi"/>
-  <string id="sb.ita_orsucci" text="Orsucci"/>
-  <string id="sb.ita_pallavicini" text="Pallavicini"/>
-  <string id="sb.ita_piccolomini" text="Piccolomini"/>
-  <string id="sb.ita_pola" text="Pola"/>
-  <string id="sb.ita_riario" text="Riario"/>
-  <string id="sb.ita_sacchetti" text="Sacchetti"/>
-  <string id="sb.ita_strozzi" text="Strozzi"/>
-  <string id="sb.ita_tocco" text="Tocco"/>
-  <string id="sb.ita_valmarana" text="Valmarana"/>
-  <string id="sb.jat_zelva" text="Zelva"/>
-  <string id="sb.jat_mscibava" text="Mścibava"/>
-  <string id="sb.jat_radun" text="Raduń"/>
-  <string id="sb.jat_nederowe" text="Nederowe"/>
-  <string id="sb.jat_wange" text="Wange"/>
-  <string id="sb.jat_astryna" text="Astryna"/>
-  <string id="sb.jat_kresmena" text="Kresmena"/>
-  <string id="sb.jat_kimenava" text="Kimenava"/>
-  <string id="sb.jat_rychtyn" text="Rychtyn"/>
-  <string id="sb.jat_zdzitava" text="Ździtava"/>
-  <string id="sb.jat_weyzo" text="Weyzo"/>
-  <string id="sb.jat_daniejki" text="Daniejki"/>
-  <string id="sb.jat_zehnieuskija" text="Žehnieŭskija"/>
-  <string id="sb.jat_kalantai" text="Kałantai"/>
-  <string id="sb.jat_pacy" text="Pacy"/>
-  <string id="sb.jat_kiersnouskiija" text="Kiersnoŭskiija"/>
-  <string id="sb.jat_mierzejeuskija" text="Mieržejeŭskija"/>
-  <string id="sb.jat_piasieckija" text="Piasieckija"/>
-  <string id="sb.jat_karzboki_saplicy" text="Karžboki-Saplicy"/>
-  <string id="sb.jat_snarskija" text="Snarskija"/>
-  <string id="sb.jat_troski" text="Troski"/>
-  <string id="sb.jat_ulanouskija" text="Ułanoŭskija"/>
-  <string id="sb.jat_chomicy" text="Chomičy"/>
-  <string id="sb.jat_brodzicy" text="Brodzičy"/>
-  <string id="sb.jat_sylinhi" text="Šylinhi"/>
-  <string id="sb.jat_lubcy" text="Lubčy"/>
-  <string id="sb.jat_lida" text="Lida"/>
-  <string id="sb.kry_vidbiesk" text="Vidbiesk"/>
-  <string id="sb.kry_miensk" text="Mieńsk"/>
-  <string id="sb.kry_zaslaul" text="Žasłaŭl"/>
-  <string id="sb.kry_lahozsk" text="Łahožsk"/>
-  <string id="sb.kry_druciesk" text="Druciesk"/>
-  <string id="sb.kry_stryzaŭ" text="Stryžaŭ"/>
-  <string id="sb.kry_rakau" text="Rakaŭ"/>
-  <string id="sb.kry_orsa" text="Orša"/>
-  <string id="sb.kry_janava" text="Janava"/>
-  <string id="sb.kry_kastryca" text="Kastryca"/>
-  <string id="sb.kry_msciz" text="Mściž"/>
-  <string id="sb.kry_staramiensk" text="Staramieńsk"/>
-  <string id="sb.kry_drysa" text="Drysa"/>
-  <string id="sb.kry_polack" text="Połack"/>
-  <string id="sb.kry_lukoml" text="Łukoml"/>
-  <string id="sb.kry_druja" text="Druja"/>
-  <string id="sb.kry_barysau" text="Barysaŭ"/>
-  <string id="sb.kry_jemianiec" text="Jemianiec"/>
-  <string id="sb.kry_braslau" text="Brasłaŭ"/>
-  <string id="sb.kry_kopys" text="Kopyś"/>
-  <string id="sb.kry_suraz" text="Suraž"/>
-  <string id="sb.kry_uly" text="Uły"/>
-  <string id="sb.kry_jeziarysca" text="Jeziaryšča"/>
-  <string id="sb.kry_kazimir" text="Kazimir"/>
-  <string id="sb.kry_kapyl" text="Kapyl"/>
-  <string id="sb.kry_karceuskija" text="Karčeŭskija"/>
-  <string id="sb.kry_lukanskija_paulavicy" text="Łukanskija-Paŭłavičy"/>
-  <string id="sb.kry_hiejstory" text="Hiejštory"/>
-  <string id="sb.kry_chudzinskija" text="Chudzinskija"/>
-  <string id="sb.kry_smolensk" text="Smolensk"/>
-  <string id="sb.kry_kraen" text="Kraen"/>
-  <string id="sb.kry_rzhavesk" text="Rzhavesk"/>
-  <string id="sb.kry_roslavl" text="Roslavl"/>
-  <string id="sb.kry_gnyozdovo" text="Gnyozdovo"/>
-  <string id="sb.kry_toropets" text="Toropets"/>
-  <string id="sb.kry_velizh" text="Velizh"/>
-  <string id="sb.kry_zyzemskija" text="Žyžemskija"/>
-  <string id="sb.kry_stankievicy" text="Stankievičy"/>
-  <string id="sb.kry_daskovy" text="Daškovy"/>
-  <string id="sb.kry_velikiye_luki" text="Velikiye Luki"/>
-  <string id="sb.kry_pskov" text="Pskov"/>
-  <string id="sb.kry_tver" text="Tver"/>
-  <string id="sb.kry_torzhok" text="Torzhok"/>
+  <string id="sb.est_jarva" text="Ярва"/>
+  <string id="sb.est_rotalia" text="Роталія"/>
+  <string id="sb.est_vaiga" text="Вайга"/>
+  <string id="sb.est_nurmekund" text="Нурмекунд"/>
+  <string id="sb.est_alempois" text="Алемпойс"/>
+  <string id="sb.est_mohu" text="Могу"/>
+  <string id="sb.est_tamm" text="Тамм"/>
+  <string id="sb.est_pold" text="Польд"/>
+  <string id="sb.est_sepp" text="Сепп"/>
+  <string id="sb.est_talu" text="Талу"/>
+  <string id="sb.est_jogentagana" text="Ёгентагана"/>
+  <string id="sb.est_pudiviru" text="Пудзівіру"/>
+  <string id="sb.est_laanemaa" text="Лаанема"/>
+  <string id="sb.est_soontagana" text="Соонтагана"/>
+  <string id="sb.est_leole" text="Леолэ"/>
+  <string id="sb.est_saaremaa" text="Саарэма"/>
+  <string id="sb.est_ridala" text="Рыдала"/>
+  <string id="sb.est_varbola" text="Варбола"/>
+  <string id="sb.est_aderkas" text="Адэркас"/>
+  <string id="sb.est_baranoff" text="Баранофф"/>
+  <string id="sb.est_berg" text="Берг"/>
+  <string id="sb.est_derfelden" text="Дэрфельдэн"/>
+  <string id="sb.est_fersen" text="Ферсэн"/>
+  <string id="sb.est_bruiningk" text="Бруінінг"/>
+  <string id="sb.est_hagemeister" text="Хагемайстэр"/>
+  <string id="sb.est_reval" text="Рэваль"/>
+  <string id="sb.est_parnu" text="Парну"/>
+  <string id="sb.est_viljandi" text="Вільяндзі"/>
+  <string id="sb.ara_muhammad_abu_normay" text="Мухаммад Абу Нормэй"/>
+  <string id="sb.ara_ayyubid" text="Аюбіды"/>
+  <string id="sb.ara_salah_ad_din" text="Салах ад-Дзін"/>
+  <string id="sb.ara_mamluk" text="Мамлюкі"/>
+  <string id="sb.ara_mamluk_alexandria" text="Мамлюкі Александрыйскія"/>
+  <string id="sb.ara_al_mustain" text="Аль-Мустаін Біллах"/>
+  <string id="sb.ara_rasulid" text="Расуліды"/>
+  <string id="sb.ara_yarubid" text="Ярубіды"/>
+  <string id="sb.ara_qarmatian" text="Карматы"/>
+  <string id="sb.ara_usfurid" text="Усфурыды"/>
+  <string id="sb.ara_al_khalifa" text="Аль Халіфа"/>
+  <string id="sb.ara_al_saud" text="Аль Саўд"/>
+  <string id="sb.ara_yashkur" text="Яшкуры"/>
+  <string id="sb.ara_shayban" text="Шайбаны"/>
+  <string id="sb.ara_tahirid" text="Тахірыды"/>
+  <string id="sb.ara_ijl" text="Ажл"/>
+  <string id="sb.ara_thaqif" text="Такіф"/>
+  <string id="sb.ara_kinana" text="Кінана"/>
+  <string id="sb.ara_taym" text="Тайм"/>
+  <string id="sb.ara_khuzaah" text="Хузаах"/>
+  <string id="sb.ara_ashar" text="Ашар"/>
+  <string id="sb.ara_tayy" text="Тай"/>
+  <string id="sb.ara_nukha" text="Нуха"/>
+  <string id="sb.ara_rassid" text="Расьсіды"/>
+  <string id="sb.ara_al_nuaimi" text="Аль Нуаймі"/>
+  <string id="sb.ara_al_qasimi" text="Аль Касімі"/>
+  <string id="sb.ara_tamim" text="Тамім"/>
+  <string id="sb.ara_shammar" text="Шаммар"/>
+  <string id="sb.ara_azd" text="Азд"/>
+  <string id="sb.ara_muharib" text="Мухарыб"/>
+  <string id="sb.arm_abamelik" text="Абамелік"/>
+  <string id="sb.arm_bagratuni" text="Багратуні"/>
+  <string id="sb.arm_artaxiad" text="Артаксяд"/>
+  <string id="sb.arm_arsacid" text="Арсакід"/>
+  <string id="sb.arm_kiurikian" text="Кюрыкян"/>
+  <string id="sb.arm_taronites" text="Тароніты"/>
+  <string id="sb.arm_kamsarakan" text="Камсаракан"/>
+  <string id="sb.arm_orbelian" text="Орбелян"/>
+  <string id="sb.arm_orbelian_jambakurian" text="Орбелян-Жабакурян"/>
+  <string id="sb.arm_mamikonian" text="Маміконян"/>
+  <string id="sb.arm_proshyan" text="Прошан"/>
+  <string id="sb.arm_amatuni" text="Аматуні"/>
+  <string id="sb.arm_bznuni" text="Бзнуні"/>
+  <string id="sb.arm_hasan_jalalyan" text="Хасан-Жалалян"/>
+  <string id="sb.arm_paluni" text="Палуні"/>
+  <string id="sb.arm_melikyan" text="Мелікян"/>
+  <string id="sb.ber_almoravid" text="Альморавіды"/>
+  <string id="sb.ber_almohad" text="Альмохады"/>
+  <string id="sb.ber_merinid" text="Мерыніды"/>
+  <string id="sb.ber_wattasid" text="Ваттасіды"/>
+  <string id="sb.ber_alaouite" text="Алуіты"/>
+  <string id="sb.ber_saadite" text="Саадіты"/>
+  <string id="sb.ber_al_rashid" text="Аль-Рашыд"/>
+  <string id="sb.ber_rex_de_fes" text="Рэкс дэ Фес"/>
+  <string id="sb.ber_tunisia" text="Тунісія"/>
+  <string id="sb.ber_tlemcen" text="Тлемсэн"/>
+  <string id="sb.ber_maroc" text="Марок"/>
+  <string id="sb.ber_muradids" text="Мурадзіды"/>
+  <string id="sb.ber_husayn_i_of_tunis" text="Хусэйн I Туніскі"/>
+  <string id="sb.ber_ali_i_of_tunis" text="Алі I Туніскі"/>
+  <string id="sb.ber_uluj_ali" text="Улуж Алі"/>
+  <string id="sb.ber_al_fadl_of_tunis" text="Аль-Фадл Туніскі"/>
+  <string id="sb.ber_zakariya_ii_of_tunis" text="Закарыя II Туніскі"/>
+  <string id="sb.ber_ahmad_iii_of_tunis" text="Ахмад III Туніскі"/>
+  <string id="sb.ber_zayyanid" text="Заяніды"/>
+  <string id="sb.ber_kuku" text="Куку"/>
+  <string id="sb.ber_abd_el_aziz_ii_of_tunis" text="Абдэль Азіз II Туніскі"/>
+  <string id="sb.ber_muhammad_ii_bektash" text="Мухаммад II Бекташ"/>
+  <string id="sb.ber_al_wattasiyyun" text="аль-Ваттасіюн"/>
+  <string id="sb.bul_dulo" text="Дуло"/>
+  <string id="sb.bul_asenid" text="Асэніды"/>
+  <string id="sb.bul_sratsimir" text="Срацімір"/>
+  <string id="sb.bul_vidin" text="Відзін"/>
+  <string id="sb.bul_shishman" text="Шышман"/>
+  <string id="sb.bul_mihail_asen_iii" text="Міхаіл Асэн III"/>
+  <string id="sb.bul_smilets" text="Сьмілец"/>
+  <string id="sb.bul_terter" text="Тэртэр"/>
+  <string id="sb.bul_cometopuli" text="Кометапулі"/>
+  <string id="sb.bul_aaronios" text="Аароніёс"/>
+  <string id="sb.bul_krum" text="Крам"/>
+  <string id="sb.bul_knesovich" text="Кнесовіч"/>
+  <string id="sb.bul_tomagonovich" text="Тамагановіч"/>
+  <string id="sb.bul_parchevich" text="Парчевіч"/>
+  <string id="sb.bul_stanislavich" text="Станіславіч"/>
+  <string id="sb.bul_philippopolis" text="Філіпаполіс"/>
+  <string id="sb.bul_bononia" text="Банонія"/>
+  <string id="sb.bul_bodon" text="Бадон"/>
+  <string id="sb.bul_dobruja" text="Добруя"/>
+  <string id="sb.bul_tarnovo" text="Тарнова"/>
+  <string id="sb.byz_vlattera" text="Влаттэра"/>
+  <string id="sb.byz_barbaro" text="Барбара"/>
+  <string id="sb.byz_phocas" text="Фокас"/>
+  <string id="sb.byz_vlastos" text="Властос"/>
+  <string id="sb.byz_vatatzes" text="Ватацэс"/>
+  <string id="sb.byz_lascaris" text="Ласкарыс"/>
+  <string id="sb.byz_kantakouzenos" text="Кантакузэнос"/>
+  <string id="sb.byz_micrulaches" text="Мікрулачес"/>
+  <string id="sb.byz_frangopoulos" text="Франгапулос"/>
+  <string id="sb.byz_raoul" text="Рауль"/>
+  <string id="sb.byz_isaac_komnenos" text="Ісак Камненос"/>
+  <string id="sb.byz_callergis" text="Кальлергіс"/>
+  <string id="sb.byz_great_komnenos" text="Вялікі Камненос"/>
+  <string id="sb.byz_argyros" text="Аргірос"/>
+  <string id="sb.byz_cantacuzino" text="Кантакузіна"/>
+  <string id="sb.byz_branas" text="Бранас"/>
+  <string id="sb.byz_anemas" text="Анемас"/>
+  <string id="sb.byz_mouzalon" text="Музалон"/>
+  <string id="sb.byz_carandino" text="Карандзіна"/>
+  <string id="sb.byz_skleros" text="Склерос"/>
+  <string id="sb.byz_melissenos" text="Мелісэнос"/>
+  <string id="sb.byz_tornikes" text="Торнікес"/>
+  <string id="sb.byz_rangave" text="Рангаве"/>
+  <string id="sb.byz_cybo" text="Кіба"/>
+  <string id="sb.dre_bierascie" text="Берасьце"/>
+  <string id="sb.dre_kamianiec_litouski" text="Камянец-Літоўскі"/>
+  <string id="sb.dre_pinsk" text="Пінск"/>
+  <string id="sb.dre_mazyr" text="Мазыр"/>
+  <string id="sb.dre_sluck" text="Слуцк"/>
+  <string id="sb.dre_kallavury" text="Каллавуры"/>
+  <string id="sb.dre_lyckouskija" text="Лычкоўскія"/>
+  <string id="sb.dre_pinskija" text="Пінскія"/>
+  <string id="sb.dre_chmary" text="Хмары"/>
+  <string id="sb.dre_kasciuski" text="Касьцюшкі"/>
+  <string id="sb.dre_statkievicy" text="Статкевічы"/>
+  <string id="sb.dre_kalencyskija" text="Каленчыскія"/>
+  <string id="sb.dre_pacei" text="Пацэі"/>
+  <string id="sb.dre_karzanieuskija" text="Каржанеўскія"/>
+  <string id="sb.dre_alelkavixy_sluckija" text="Алелькавічы-Слуцкія"/>
+  <string id="sb.dre_baranouskija" text="Бараноўскія"/>
+  <string id="sb.dre_kazlouskija" text="Казлоўскія"/>
+  <string id="sb.dre_vysenskija" text="Вышэнскія"/>
+  <string id="sb.dre_przevalskija" text="Пржэвальскія"/>
+  <string id="sb.dre_styrykovicy" text="Стырыковічы"/>
+  <string id="sb.dre_suski" text="Сушкі"/>
+  <string id="sb.dre_satkouskija" text="Шаткоўскія"/>
+  <string id="sb.dre_michalouskija" text="Міхалоўскія"/>
+  <string id="sb.dre_krupskija" text="Крупскія"/>
+  <string id="sb.dre_hieraltouskija" text="Гералтоўскія"/>
+  <string id="sb.dre_vyzny" text="Вызны"/>
+  <string id="sb.dre_lahisyn" text="Лагішын"/>
+  <string id="sb.dre_niasviz" text="Нясьвіж"/>
+  <string id="sb.dre_vysokaje" text="Высокае"/>
+  <string id="sb.eng_selby" text="Сэлбі"/>
+  <string id="sb.eng_john_everingham" text="Джон Эверынгам"/>
+  <string id="sb.eng_roger_de_butterley" text="Роджэр дэ Баттэрлі"/>
+  <string id="sb.eng_adam_de_lacy" text="Адам дэ Лэйсі"/>
+  <string id="sb.eng_thomas_of_camoys" text="Томас дэ Камойс"/>
+  <string id="sb.eng_michael_of_poynings" text="Майкл дэ Пойнінгс"/>
+  <string id="sb.eng_louis_robesart" text="Луі Робсар"/>
+  <string id="sb.eng_john_of_grey_heton" text="Джон дэ Грэй Хэтон"/>
+  <string id="sb.eng_walter_paveley" text="Ўолтэр Пайвелі"/>
+  <string id="sb.eng_denis_de_saint_omer" text="Дуні дэ Сэнт-Омер"/>
+  <string id="sb.eng_guillaume_sans" text="Гіём Санс"/>
+  <string id="sb.eng_john_de_holland" text="Джон дэ Холланд"/>
+  <string id="sb.eng_howell_y_fwyall" text="Хоўэл-э-Фуял"/>
+  <string id="sb.eng_john_macworth" text="Джон Макворт"/>
+  <string id="sb.eng_geoffrey_de_abitot" text="Джэфры дэ Абітот"/>
+  <string id="sb.eng_john_de_vere" text="Джон дэ Вер"/>
+  <string id="sb.eng_walter_de_cockesey" text="Ўолтэр дэ Коксі"/>
+  <string id="sb.eng_piers_de_courdray" text="Пірс дэ Курдры"/>
+  <string id="sb.eng_edmund_gracelin" text="Эдмунд Грэйсьлін"/>
+  <string id="sb.eng_robert_blundel" text="Роберт Бландэл"/>
+  <string id="sb.mos_yuri_vladimirovich" text="Юрый Уладзіміравіч Далгарукі"/>
+  <string id="sb.mos_rostislav_yuryevich" text="Расьціслав Юр'евіч"/>
+  <string id="sb.mos_andrey_yuryevich" text="Андрэй Юр'евіч Багалюбскі"/>
+  <string id="sb.mos_mstislav_yuryevich" text="Мсьціслав Юр'евіч"/>
+  <string id="sb.mos_vsevolod_yuryevich" text="Усевалод Юр'евіч Вялікае Гняздо"/>
+  <string id="sb.mos_sviatoslav_vsevolodovich" text="Сьвятослав Усевалодавіч"/>
+  <string id="sb.mos_pereslavl_zalessky" text="Пераслаўль-Залескі"/>
+  <string id="sb.mos_rostov_veliky" text="Растоў Вялікі"/>
+  <string id="sb.mos_vladimir" text="Владзімір"/>
+  <string id="sb.mos_moscow" text="Масква"/>
+  <string id="sb.mos_beloozero" text="Белаозера"/>
+  <string id="sb.mos_aksakovy" text="Аксаковы"/>
+  <string id="sb.mos_arkharovy" text="Архаровы"/>
+  <string id="sb.mos_blokhiny" text="Блохіны"/>
+  <string id="sb.mos_bukhvostovy" text="Бухвоставы"/>
+  <string id="sb.mos_verevkiny" text="Вероўкіны"/>
+  <string id="sb.mos_strogininy" text="Строгініны"/>
+  <string id="sb.mos_gotovtsevy" text="Гатоўцэвы"/>
+  <string id="sb.mos_davydovy" text="Давыдовы"/>
+  <string id="sb.mos_zhdanovy" text="Ждановы"/>
+  <string id="sb.mos_zasekiny" text="Засекіны"/>
+  <string id="sb.nov_prussian_boyars" text="Прусскія Баяры"/>
+  <string id="sb.nov_nerev_boyars" text="Нерэўскія Баяры"/>
+  <string id="sb.nov_liudin_boyars" text="Людзінскія Баяры"/>
+  <string id="sb.nov_slaven_boyars" text="Славенскія Баяры"/>
+  <string id="sb.nov_plotnik_boyars" text="Плотніцкія Баяры"/>
+  <string id="sb.nov_ladoga" text="Ладага"/>
+  <string id="sb.nov_rostislav_mikhailovich" text="Роьціслав Міхайловіч"/>
+  <string id="sb.nov_russa" text="Руса"/>
+  <string id="sb.nov_roxia" text="Рокся"/>
+  <string id="sb.nov_stephan_pavlovic" text="Стэфан Павловіч"/>
+  <string id="sb.rad_kazakievicy" text="Казакевічы"/>
+  <string id="sb.rad_cavusy" text="Чавусы"/>
+  <string id="sb.rad_mscislau" text="Мсьціслаў"/>
+  <string id="sb.rad_bartkouskija" text="Барткоўскія"/>
+  <string id="sb.rad_harbaceuskija" text="Гарбачэўскія"/>
+  <string id="sb.rad_kurbackija" text="Курбацкія"/>
+  <string id="sb.rad_paplauskija" text="Паплаўскія"/>
+  <string id="sb.rad_pleskija" text="Плескія"/>
+  <string id="sb.rad_slucanouskija" text="Случаноўскія"/>
+  <string id="sb.rad_chadasovicy" text="Хадасовічы"/>
+  <string id="sb.fre_pierre_i_of_bourbon" text="Пьер I ду Бурбон"/>
+  <string id="sb.fre_jacques_de_bourbon" text="Жак ду Бурбон"/>
+  <string id="sb.fre_jean_d_artois" text="Жан д'Артуа"/>
+  <string id="sb.fre_bishop_of_chalons" text="Біскуп Шалонскі"/>
+  <string id="sb.fre_jean_i_de_bourbon" text="Жан I ду Бурбон"/>
+  <string id="sb.fre_arnould_de_wesmael" text="Арнульд ду Вэсмаль"/>
+  <string id="sb.fre_conte_de_salm_en_ardenne" text="Конт ду Сальм"/>
+  <string id="sb.fre_regnaut_d_aubigny" text="Руньё д'Убіні"/>
+  <string id="sb.fre_bernard_de_ventadour" text="Бернард ду Вентадур"/>
+  <string id="sb.fre_amaury_iv_de_craon" text="Аморы IV ду Краон"/>
+  <string id="sb.fre_guillaume_de_saveuse" text="Гіём ду Савуз"/>
+  <string id="sb.fre_guillaume_d_erneville" text="Гіём д'Эрнувіль"/>
+  <string id="sb.fre_viconte_de_melun" text="Віконт ду Мюлян"/>
+  <string id="sb.fre_mahieu_de_rouvroy" text="Маё ду Рувруа"/>
+  <string id="sb.fre_guy_iv_de_damas" text="Гій IV ду Дамас"/>
+  <string id="sb.fre_robert_iii_d_harcourt" text="Робер III д'Аркур"/>
+  <string id="sb.fre_gauthier_de_brienne" text="Гоцье ду Брыенн"/>
+  <string id="sb.fre_jean_de_goussencourt" text="Жан ду Гуссэнкур"/>
+  <string id="sb.fre_jean_de_cambray" text="Жан ду Камбрэй"/>
+  <string id="sb.fre_viconte_de_touarc" text="Віконт ду Туарк"/>
+  <string id="sb.cru_jacques_de_molay" text="Жак ду Молэй"/>
+  <string id="sb.cru_le_puy" text="Лю Пюі"/>
+  <string id="sb.cru_robert_de_craon" text="Робер ду Краон"/>
+  <string id="sb.cru_saint_gilles" text="Сэн-Жыль"/>
+  <string id="sb.cru_bertrand_de_blanquefort" text="Бертран ду Бланкуфор"/>
+  <string id="sb.cru_gerard_tenque" text="Жырар Тэнке"/>
+  <string id="sb.cru_guines" text="Гінэс"/>
+  <string id="sb.cru_ibelin" text="Ібэлін"/>
+  <string id="sb.cru_guy_de_blanchefort" text="Гій ду Бляншэфор"/>
+  <string id="sb.cru_gerard_de_ridefort" text="Жырар ду Рыдэфор"/>
+  <string id="sb.cru_joubert_de_syrie" text="Жубер ду Сірый"/>
+  <string id="sb.cru_chatillon" text="Шаціён"/>
+  <string id="sb.cru_avesnes" text="Авен"/>
+  <string id="sb.cru_grez" text="Грэз"/>
+  <string id="sb.cru_agnan_de_mareul" text="Аньё ду Мароль"/>
+  <string id="sb.cru_guillaume_de_villaret" text="Гіём ду Віларэ"/>
+  <string id="sb.cru_adam_de_veau" text="Адам ду Ву"/>
+  <string id="sb.cru_arnold_de_torroja" text="Арнольд ду Тарроха"/>
+  <string id="sb.cru_bouillon" text="Бульён"/>
+  <string id="sb.cru_guerin_de_montaigu" text="Гіран ду Монтэгю"/>
+  <string id="sb.geo_abashidze" text="Абашыдзэ"/>
+  <string id="sb.geo_agiashvili" text="Агяшвілі"/>
+  <string id="sb.geo_avalishvili" text="Авалішвілі"/>
+  <string id="sb.geo_begtabegishvili" text="Бегтабегішвілі"/>
+  <string id="sb.geo_gurgenidze" text="Гургенідзэ"/>
+  <string id="sb.geo_jaqeli" text="Жакелі"/>
+  <string id="sb.geo_japaridze" text="Жапарыдзэ"/>
+  <string id="sb.geo_kashibadze" text="Кашыбадзэ"/>
+  <string id="sb.geo_kazbegi" text="Казьбегі"/>
+  <string id="sb.geo_khojaminasishvili" text="Хожамінасішвілі"/>
+  <string id="sb.geo_machabeli" text="Махабелі"/>
+  <string id="sb.geo_maghalashvili" text="Магалашвілі"/>
+  <string id="sb.geo_mikadze" text="Мікадзэ"/>
+  <string id="sb.geo_ratishvili" text="Рацішвілі"/>
+  <string id="sb.geo_shalikashvili" text="Шалікашвілі"/>
+  <string id="sb.geo_sidamoni" text="Сідамоні"/>
+  <string id="sb.geo_tarielashvili" text="Тарэлашвілі"/>
+  <string id="sb.geo_tumanishvili" text="Туманішвілі"/>
+  <string id="sb.geo_vachnadze" text="Вахнадзэ"/>
+  <string id="sb.geo_chkhetidze" text="Хецідзэ"/>
+  <string id="sb.ger_baer" text="Баер"/>
+  <string id="sb.ger_buren" text="Бурэн"/>
+  <string id="sb.ger_piesport" text="Піспорт"/>
+  <string id="sb.ger_indermaur" text="Індэмаўр"/>
+  <string id="sb.ger_diepholz" text="Дзіпхольц"/>
+  <string id="sb.ger_gail" text="Гайл"/>
+  <string id="sb.ger_hoya" text="Хоя"/>
+  <string id="sb.ger_hohenberg" text="Хохенберг"/>
+  <string id="sb.ger_hutten" text="Хуттэн"/>
+  <string id="sb.ger_kessel" text="Кессэль"/>
+  <string id="sb.ger_moers" text="Моэрс"/>
+  <string id="sb.ger_orlamunde" text="Орламундэ"/>
+  <string id="sb.ger_pallant" text="Паллант"/>
+  <string id="sb.ger_salis" text="Саліс"/>
+  <string id="sb.ger_schonforst" text="Шанфорст"/>
+  <string id="sb.ger_tecklenburg" text="Тэкленбург"/>
+  <string id="sb.ger_voorst" text="Ворст"/>
+  <string id="sb.ger_schinne" text="Шыннэ"/>
+  <string id="sb.ger_westerburg" text="Вэстэрбург"/>
+  <string id="sb.ger_wisch" text="Віш"/>
+  <string id="sb.ger_kirchberg" text="Кірхберг"/>
+  <string id="sb.ger_dietz" text="Дзіц"/>
+  <string id="sb.ger_delmenhorst" text="Дэльменхорст"/>
+  <string id="sb.ger_batenburg" text="Батэнбург"/>
+  <string id="sb.ger_sickingen" text="Зікінген"/>
+  <string id="sb.ger_hohenzollern" text="Гогенцоллерн"/>
+  <string id="sb.hun_kemeny" text="Кэмін"/>
+  <string id="sb.hun_dory" text="Дуры"/>
+  <string id="sb.hun_patthy" text="Пацьці"/>
+  <string id="sb.hun_revay" text="Рывай"/>
+  <string id="sb.hun_balogh" text="Балог"/>
+  <string id="sb.hun_eross_csikszentmiklos" text="Эруш-Чыксэнтміклуш"/>
+  <string id="sb.hun_eross_borosjeno" text="Эруш-Барошэну"/>
+  <string id="sb.hun_eross_dercsika" text="Эруш-Дэрчыка"/>
+  <string id="sb.hun_nadasdy" text="Надашдзі"/>
+  <string id="sb.hun_somogyi_perlak" text="Шамогі-Перлак"/>
+  <string id="sb.hun_somogyi_gyulafehervar" text="Шамогі-Гюлафэхірвар"/>
+  <string id="sb.hun_hedervary" text="Хідэрвары"/>
+  <string id="sb.hun_lonyay" text="Луняй"/>
+  <string id="sb.hun_illeshazy" text="Ільлешазі"/>
+  <string id="sb.hun_forgach" text="Форгач"/>
+  <string id="sb.hun_ambrozy" text="Амброзі"/>
+  <string id="sb.hun_bercsenyi" text="Берчыні"/>
+  <string id="sb.hun_vay" text="Вай"/>
+  <string id="sb.hun_hunyady" text="Хуньядзі"/>
+  <string id="sb.hun_thurzo" text="Турзо"/>
+  <string id="sb.iri_kane" text="Кане"/>
+  <string id="sb.iri_gallagher" text="Галлаэр"/>
+  <string id="sb.iri_sheridan" text="Шэрыдан"/>
+  <string id="sb.iri_molloy" text="Маллой"/>
+  <string id="sb.iri_cullen" text="Кульлен"/>
+  <string id="sb.iri_delaney" text="Дзелані"/>
+  <string id="sb.iri_o_dowd" text="О'Довд"/>
+  <string id="sb.iri_mcguinness" text="МакГіннэс"/>
+  <string id="sb.iri_o_connell" text="О'Коннэл"/>
+  <string id="sb.iri_lavin" text="Лавін"/>
+  <string id="sb.iri_o_doherty" text="О'Дохерці"/>
+  <string id="sb.iri_phelan" text="Фелан"/>
+  <string id="sb.iri_hogan" text="Хоган"/>
+  <string id="sb.iri_flitzpatrick" text="Фліцпатрык"/>
+  <string id="sb.iri_costello" text="Косьцелла"/>
+  <string id="sb.iri_crowley" text="Кровлі"/>
+  <string id="sb.iri_looney" text="Лооні"/>
+  <string id="sb.iri_regan" text="Рэган"/>
+  <string id="sb.iri_corcoran" text="Каркоран"/>
+  <string id="sb.iri_duggan" text="Дугган"/>
+  <string id="sb.ita_accolti" text="Аккольці"/>
+  <string id="sb.ita_alamanni" text="Аламаньні"/>
+  <string id="sb.ita_albizzi" text="Альбіццы"/>
+  <string id="sb.ita_appiani" text="Аппіані"/>
+  <string id="sb.ita_bardi" text="Бардзі"/>
+  <string id="sb.ita_bettoni" text="Беттоні"/>
+  <string id="sb.ita_capocci" text="Капоччы"/>
+  <string id="sb.ita_cornaro" text="Корнара"/>
+  <string id="sb.ita_corsini" text="Корсіні"/>
+  <string id="sb.ita_gherardesca" text="Герардэска"/>
+  <string id="sb.ita_dentice" text="Дэнтыче"/>
+  <string id="sb.ita_durazzo" text="Дурацца"/>
+  <string id="sb.ita_ezzelini" text="Эццэліні"/>
+  <string id="sb.ita_farnese" text="Фарнэзе"/>
+  <string id="sb.ita_fioravanti" text="Фіораванці"/>
+  <string id="sb.ita_gabrielli" text="Габрыэльлі"/>
+  <string id="sb.ita_gualterio" text="Гуальтэрыё"/>
+  <string id="sb.ita_guidi_di_bagno" text="Гуідзі дзі Баньнё"/>
+  <string id="sb.ita_mattei" text="Маттэй"/>
+  <string id="sb.ita_mancini" text="Манчыні"/>
+  <string id="sb.ita_ordelaffi" text="Ордэлаффі"/>
+  <string id="sb.ita_orsucci" text="Орсуччы"/>
+  <string id="sb.ita_pallavicini" text="Паллавічыні"/>
+  <string id="sb.ita_piccolomini" text="Пікколаміні"/>
+  <string id="sb.ita_pola" text="Пола"/>
+  <string id="sb.ita_riario" text="Рыарыё"/>
+  <string id="sb.ita_sacchetti" text="Саккецьці"/>
+  <string id="sb.ita_strozzi" text="Строццы"/>
+  <string id="sb.ita_tocco" text="Токка"/>
+  <string id="sb.ita_valmarana" text="Валмарана"/>
+  <string id="sb.jat_zelva" text="Зэльва"/>
+  <string id="sb.jat_mscibava" text="Мсьцібава"/>
+  <string id="sb.jat_radun" text="Радунь"/>
+  <string id="sb.jat_nederowe" text="Недэрове"/>
+  <string id="sb.jat_wange" text="Ванге"/>
+  <string id="sb.jat_astryna" text="Астрына"/>
+  <string id="sb.jat_kresmena" text="Крэсмэна"/>
+  <string id="sb.jat_kimenava" text="Кіменава"/>
+  <string id="sb.jat_rychtyn" text="Рыхтын"/>
+  <string id="sb.jat_zdzitava" text="Зьдзітава"/>
+  <string id="sb.jat_weyzo" text="Вейзо"/>
+  <string id="sb.jat_daniejki" text="Данейкі"/>
+  <string id="sb.jat_zehnieuskija" text="Жэгнеўскія"/>
+  <string id="sb.jat_kalantai" text="Калантаі"/>
+  <string id="sb.jat_pacy" text="Пацы"/>
+  <string id="sb.jat_kiersnouskiija" text="Керсноўскія"/>
+  <string id="sb.jat_mierzejeuskija" text="Мержэеўскія"/>
+  <string id="sb.jat_piasieckija" text="Пясецкія"/>
+  <string id="sb.jat_karzboki_saplicy" text="Каржбокі-Сапліцы"/>
+  <string id="sb.jat_snarskija" text="Снарскія"/>
+  <string id="sb.jat_troski" text="Троскі"/>
+  <string id="sb.jat_ulanouskija" text="Уланоўскія"/>
+  <string id="sb.jat_chomicy" text="Хомічы"/>
+  <string id="sb.jat_brodzicy" text="Бродзічы"/>
+  <string id="sb.jat_sylinhi" text="Шылінгі"/>
+  <string id="sb.jat_lubcy" text="Любчы"/>
+  <string id="sb.jat_lida" text="Ліда"/>
+  <string id="sb.kry_vidbiesk" text="Відбеск"/>
+  <string id="sb.kry_miensk" text="Меньск"/>
+  <string id="sb.kry_zaslaul" text="Жаслаўль"/>
+  <string id="sb.kry_lahozsk" text="Лагожск"/>
+  <string id="sb.kry_druciesk" text="Друцеск"/>
+  <string id="sb.kry_stryzaŭ" text="Стрыжаў"/>
+  <string id="sb.kry_rakau" text="Ракаў"/>
+  <string id="sb.kry_orsa" text="Орша"/>
+  <string id="sb.kry_janava" text="Янава"/>
+  <string id="sb.kry_kastryca" text="Кастрыца"/>
+  <string id="sb.kry_msciz" text="Мсьціж"/>
+  <string id="sb.kry_staramiensk" text="Стараменьск"/>
+  <string id="sb.kry_drysa" text="Дрыса"/>
+  <string id="sb.kry_polack" text="Полацк"/>
+  <string id="sb.kry_lukoml" text="Лукомль"/>
+  <string id="sb.kry_druja" text="Друя"/>
+  <string id="sb.kry_barysau" text="Барысаў"/>
+  <string id="sb.kry_jemianiec" text="Емянец"/>
+  <string id="sb.kry_braslau" text="Браслаў"/>
+  <string id="sb.kry_kopys" text="Копысь"/>
+  <string id="sb.kry_suraz" text="Сураж"/>
+  <string id="sb.kry_uly" text="Улы"/>
+  <string id="sb.kry_jeziarysca" text="Езярышча"/>
+  <string id="sb.kry_kazimir" text="Казімір"/>
+  <string id="sb.kry_kapyl" text="Капыль"/>
+  <string id="sb.kry_karceuskija" text="Карчэўскія"/>
+  <string id="sb.kry_lukanskija_paulavicy" text="Луканскія-Паўлавічы"/>
+  <string id="sb.kry_hiejstory" text="Гейшторы"/>
+  <string id="sb.kry_chudzinskija" text="Худзінскія"/>
+  <string id="sb.kry_smolensk" text="Смаленск"/>
+  <string id="sb.kry_kraen" text="Краен"/>
+  <string id="sb.kry_rzhavesk" text="Ржавеск"/>
+  <string id="sb.kry_roslavl" text="Рослаўль"/>
+  <string id="sb.kry_gnyozdovo" text="Гнёздава"/>
+  <string id="sb.kry_toropets" text="Таропец"/>
+  <string id="sb.kry_velizh" text="Веліж"/>
+  <string id="sb.kry_zyzemskija" text="Жыжэмскія"/>
+  <string id="sb.kry_stankievicy" text="Станкевічы"/>
+  <string id="sb.kry_daskovy" text="Дашковы"/>
+  <string id="sb.kry_velikiye_luki" text="Вялікія Лукі"/>
+  <string id="sb.kry_pskov" text="Пскоў"/>
+  <string id="sb.kry_tver" text="Цьвер"/>
+  <string id="sb.kry_torzhok" text="Таржок"/>
   <string id="sb.lat_trikata" text="Trikata"/>
   <string id="sb.lat_valmiera" text="Valmiera"/>
   <string id="sb.lat_koknese" text="Koknese"/>
