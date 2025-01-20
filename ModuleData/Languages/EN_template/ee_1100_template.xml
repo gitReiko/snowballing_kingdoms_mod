@@ -777,26 +777,26 @@
   <string id="sb.sic_naselli" text="Naselli"/>
   <string id="sb.sic_zito" text="Zito"/>
   <string id="sb.sic_torre" text="Torre"/>
-  <string id="sb.ara_ramiro_i" text="Ramiro I"/>
-  <string id="sb.ara_ramiro_ii_el_monje" text="Ramiro II el Monje"/>
-  <string id="sb.ara_pedro_ii_el_catolico" text="Pedro II el Católico"/>
-  <string id="sb.ara_alfonso_ii_el_trovador" text="Alfonso II el Trovador"/>
-  <string id="sb.ara_jaime_i_el_conquistador" text="Jaime I el Conquistador"/>
-  <string id="sb.ara_pedro_iii_de_aragon" text="Pedro III de Aragon"/>
-  <string id="sb.ara_jaime_ii_el_justo" text="Jaime II el Justo"/>
-  <string id="sb.ara_alfonso_iv_el_benigno" text="Alfonso IV el Benigno"/>
-  <string id="sb.ara_pedro_iv_el_ceremonioso" text="Pedro IV el Ceremonioso"/>
-  <string id="sb.ara_jaime_ii_de_mallorca" text="Jaime II de Mallorca"/>
-  <string id="sb.ara_anglesola" text="Anglesola"/>
-  <string id="sb.ara_borgia" text="Borgia"/>
-  <string id="sb.ara_mur" text="Mur"/>
-  <string id="sb.ara_cornel" text="Cornel"/>
-  <string id="sb.ara_oriol" text="Oriol"/>
-  <string id="sb.ara_alagon" text="Alagón"/>
-  <string id="sb.ara_heredia" text="Heredia"/>
-  <string id="sb.ara_luna" text="Luna"/>
-  <string id="sb.ara_vidaure" text="Vidaure"/>
-  <string id="sb.ara_ayerbe" text="Ayerbe"/>
+  <string id="sb.arag_ramiro_i" text="Ramiro I"/>
+  <string id="sb.arag_ramiro_ii_el_monje" text="Ramiro II el Monje"/>
+  <string id="sb.arag_pedro_ii_el_catolico" text="Pedro II el Católico"/>
+  <string id="sb.arag_alfonso_ii_el_trovador" text="Alfonso II el Trovador"/>
+  <string id="sb.arag_jaime_i_el_conquistador" text="Jaime I el Conquistador"/>
+  <string id="sb.arag_pedro_iii_de_aragon" text="Pedro III de Aragon"/>
+  <string id="sb.arag_jaime_ii_el_justo" text="Jaime II el Justo"/>
+  <string id="sb.arag_alfonso_iv_el_benigno" text="Alfonso IV el Benigno"/>
+  <string id="sb.arag_pedro_iv_el_ceremonioso" text="Pedro IV el Ceremonioso"/>
+  <string id="sb.arag_jaime_ii_de_mallorca" text="Jaime II de Mallorca"/>
+  <string id="sb.arag_anglesola" text="Anglesola"/>
+  <string id="sb.arag_borgia" text="Borgia"/>
+  <string id="sb.arag_mur" text="Mur"/>
+  <string id="sb.arag_cornel" text="Cornel"/>
+  <string id="sb.arag_oriol" text="Oriol"/>
+  <string id="sb.arag_alagon" text="Alagón"/>
+  <string id="sb.arag_heredia" text="Heredia"/>
+  <string id="sb.arag_luna" text="Luna"/>
+  <string id="sb.arag_vidaure" text="Vidaure"/>
+  <string id="sb.arag_ayerbe" text="Ayerbe"/>
   <string id="sb.cas_leon" text="León"/>
   <string id="sb.cas_galicia" text="Galicia"/>
   <string id="sb.cas_castile" text="Castile"/>
