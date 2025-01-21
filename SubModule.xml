@@ -27,7 +27,7 @@
 	<Xmls>
           
 		<XmlNode>
-			<XmlName id="Snowballs" path="snowballs" />
+			<XmlName id="Snowballs" path="snowballs_in_use" />
 			<IncludedGameTypes>
 				<GameType value="Campaign" />
 				<GameType value="CampaignStoryMode" />
@@ -37,7 +37,7 @@
 		</XmlNode>
 
 		<XmlNode>
-			<XmlName id="SnowConfigs" path="snow_config" />
+			<XmlName id="SnowConfigs" path="config_in_use" />
 			<IncludedGameTypes>
 				<GameType value="Campaign" />
 				<GameType value="CampaignStoryMode" />

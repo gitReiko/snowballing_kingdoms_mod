@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData id="Biełaruskaja">
   <LanguageFile xml_path="BYl/bin_strings.xml" />
-  <LanguageFile xml_path="BYl/ee_1100_template.xml" />
+  <LanguageFile xml_path="BYl/eoe_1100_snowballs.xml" />
 </LanguageData>
