@@ -17,9 +17,72 @@ The pre-made templates have name and banner. Clan members are randomly generated
 
 3. Theoretically the game will throw challenges at every stage, even in the endgame. Since there will always be very powerful kingdoms.
 
+## Historicity 
 
+This mod is not historical. Rather history-based.
 
+But I tried to make all banners and their names based on historical or archaeological data. Some banners are distorted by the limitations of the banners editor and my skills, but I tried to keep the essence of the banners.
 
+Different banners from different time periods are used for different cultures.
+
+Since there are a lot of banners. A lot of errors must have been created.
+
+I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
+
+## Current banners (total 904)
+
+Aestian 18 
+Aestian Late 10
+Arab 30
+Armenian 16
+Berber 23
+Bulgarian 20
+Byzantine 24
+Dregovian 30
+English 20 
+Estearn Rus – Moscow 21
+Estearn Rus – Novgorod 10
+Estearn Rus – Radimian 10
+French - French 20
+French - Crusader 20 
+Georgian 20
+German 26
+Hungary 20 
+Irish 20 
+Italian 30 
+Jatvingian 11
+Jatvingian Late 16
+Kryvian – Połack 25
+Kryvian – Smolensk 10
+Kryvian – Other duchies 4
+Kryvian – Late 4
+Latvian - Latgalian 10
+Latvian - Zemgalian 10
+Latvian - Late 4
+Lithuanian - Lithuania 11
+Lithuanian - Prussia 10
+Lithuanian - Samogitia 10
+Lithuanian - Late 21
+Nordic - Denmark 26
+Nordic - Norway 22
+Nordic - Sweden 26
+Persian 22 
+Polish 31
+Portuguese 22
+Rus - Chernigov 12
+Rus - Kyiv 10
+Rus - Pereiaslav 9
+Scottish 20
+Serbian - Serbian 21
+Serbian - Illyrian 2
+Sicilian 20
+Spanish – Aragon 20
+Spanish – Castile 20
+Turkic - Cuman 11
+Turkic - Oghuz 24
+Turkic - Pecheneg 11
+Volhynian 20
+Welsh 21
 
 ## Known bugs
 
