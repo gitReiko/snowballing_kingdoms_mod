@@ -1,4 +1,21 @@
 
+## What is it?
+
+This mod adds new clans from pre-made templates to all kingdoms every 10 days if the kingdom has enough settlements.
+
+If there are more than 1.7 settlements per kingdom clan (only cities and castles are counted), a new clan will be created.
+
+The pre-made templates have name and banner. Clan members are randomly generated in several ways.
+
+(The settlement ratio and number of days can be changed in the mod config.)
+
+## What that gives?
+
+1. You can create your own kingdom, such as Wales, and Welsh clans will join you. Just create kingdom with Welsh culture and capture new settlements. All cultures are supported at this moment.
+
+2. Join your favorite kingdom and play. It will automatically expand as you capture settlements. You don't need to be a king for this. The new clans will fit the culture of the kingdom and sometimes the kingdom itself. For example, Aragon will only get Aragon clans at first.
+
+3. Theoretically the game will throw challenges at every stage, even in the endgame. Since there will always be very powerful kingdoms.
 
 
 
