@@ -29,6 +29,12 @@ If turned off, no new clans will be created. But created clans will remain with 
 
 todo !!!
 
+## Will this mod work with other mods?
+
+Yes, but will create clans inappropriate for cultures since other mods have other id and other cultures.
+
+You will also need to enable the BannerPaste mod to display banners correctly. And set "preventNPCBannerColorChanges": true .
+
 ## Historicity 
 
 This mod is not historical. Rather history-based.
