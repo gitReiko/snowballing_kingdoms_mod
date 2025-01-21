@@ -37,7 +37,7 @@ But I tried to make all banners and their names based on historical or archaeolo
 
 Different banners from different time periods are used for different cultures.
 
-Since there are a lot of banners. A lot of errors must have been created.
+Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
