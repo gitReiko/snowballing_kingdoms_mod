@@ -1,7 +1,7 @@
 
 ## Localization
 
-English, Беларуская
+Belarusian, English
 
 There is a template for translation in the mod. You can translate the mod into another language. I can add your translation to the mod or you can make your own separate mod with translation.
 
