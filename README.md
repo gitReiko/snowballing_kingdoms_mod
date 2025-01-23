@@ -1,4 +1,10 @@
 
+## Localization
+
+English, Беларуская
+
+There is a template for translation in the mod. You can translate the mod into another language. I can add your translation to the mod or you can make your own separate mod with translation.
+
 ## What is it?
 
 This mod adds new clans from pre-made templates to all kingdoms every 10 days if the kingdom has enough settlements.
@@ -27,7 +33,15 @@ If turned off, no new clans will be created. But created clans will remain with 
 
 ## Load order
 
-todo !!!
+1. Harmony https://www.nexusmods.com/mountandblade2bannerlord/mods/2006 
+2. Native, Sandbox, SandBox Core, Story Mode 
+3. Custom Spawns API https://www.nexusmods.com/mountandblade2bannerlord/mods/411 
+4. Empires of Europe 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/4867
+5. Snowballing Kingdoms 
+
+## Compatibility with Erik's Troops 
+
+The mod is compatible. You can load snowball earlier or later. Should work.
 
 ## Will this mod work with other mods?
 
@@ -102,18 +116,13 @@ Turkic - Pecheneg 11
 Volhynian 20
 Welsh 21
 
-## Localization
-
-It is planned to support two languages: English and Belarusian.
-
-There is a template for translation in the mod. You can translate the mod into another language. I can add your translation to the mod or you can make your own separate mod with translation.
-
 ## Further plans
 
 - Make sure the mod works for other people
 - Make an adaptation for Anno Domini 1259, with new banners
 - Probably a separate version for the Original Game and bannerlod lore mods
 - Adaptations for mods with medieval Europe settings
+- More banners
 
 ## Known bugs
 
