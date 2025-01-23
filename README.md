@@ -128,7 +128,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 
 1. After the start of the game, clans are created twice if the conditions are met.
 
-Fix. Save and load the game.
+Fix. Save and load the game. Or wait a few weeks.
 
 Most likely this bug cannot be fixed, something with the code of the game itself.
 
