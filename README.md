@@ -3,7 +3,7 @@
 
 Belarusian, English
 
-There is a template for translation in the mod. You can translate the mod into another language. I can add your translation to the mod or you can make your own separate mod with translation.
+Translation template is available inside the mod. You can translate mod into another language. I can add your translation into this mod or you can make your own separate mod with translation.
 
 ## What is it?
 
@@ -27,7 +27,7 @@ The pre-made templates have name and banner. Clan members are randomly generated
 
 At any stage of the game.
 
-If you enable mod, new clans will be created. Probably a lot of them in a short period of time, if the conditions are met.
+If you enable mod, new clans will be created. Probably a lot of them in a short period of time, if conditions are met.
 
 If turned off, no new clans will be created. But created clans will remain with you until the end of the game.
 
@@ -41,7 +41,7 @@ If turned off, no new clans will be created. But created clans will remain with 
 
 ## Compatibility with Erik's Troops 
 
-The mod is compatible. You can load snowball earlier or later. Should work.
+Full compatibility. You can load snowball earlier or later. Should work.
 
 ## Will this mod work with other mods?
 
