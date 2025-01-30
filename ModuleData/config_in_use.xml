@@ -13,7 +13,7 @@
 
 	Should be a number. Use a dot to specify the decimal separator.
 
-	example: clan_creation_factor="1.7"
+	example: clan_creation_factor="2.0"
 
 	===
 
@@ -30,7 +30,7 @@
 	-->
 
 	<SnowConfig id="config"
-			  clan_creation_factor="1.7"
+			  clan_creation_factor="2.0"
 			  create_every_days="10"
 
 	/>

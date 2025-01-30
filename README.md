@@ -9,7 +9,7 @@ Translation template is available inside the mod. You can translate mod into ano
 
 This mod adds new clans from pre-made templates to all kingdoms every 10 days if the kingdom has enough settlements.
 
-If there are more than 1.7 settlements per kingdom clan (only cities and castles are counted), a new clan will be created.
+If there are more than 2 settlements per kingdom clan (only cities and castles are counted), a new clan will be created.
 
 The pre-made templates have name and banner. Clan members are randomly generated in several ways.
 
