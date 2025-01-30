@@ -61,7 +61,7 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Current banners (total 904)
+## Current banners (total 927)
 
 - Aestian 18 
 - Aestian Late 10
@@ -79,6 +79,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - French - Crusader 20 
 - Georgian 20
 - German 26
+- German - Bohemia 23
 - Hungary 20 
 - Irish 20 
 - Italian 30 
