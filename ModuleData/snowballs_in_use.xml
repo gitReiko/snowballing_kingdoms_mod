@@ -9,12 +9,6 @@
 	If it does not exist in at least one snowball, 
 	the whole file will not work. 
 
-	But you can leave the id attribute empty, 
-	then everything will work 
-	and id will be assigned automatically.
-
-	example: id=""
-
 	If a snowball has no name or banner, it will not be created.
 
 	No validation of banner code.
