@@ -318,6 +318,29 @@
   <string id="sb.ger_batenburg" text="Батэнбург"/>
   <string id="sb.ger_sickingen" text="Зікінген"/>
   <string id="sb.ger_hohenzollern" text="Гогенцольлерн"/>
+  <string id="sb.boh_plichtovi_z_adlaru" text="Пліхтовы з Адлару"/>
+  <string id="sb.boh_bechynove_z_lazan" text="Бэхінёвэ з Лажан"/>
+  <string id="sb.boh_colloredove_z_wallsee" text="Калларэдовэ з Валлсэ"/>
+  <string id="sb.boh_puta_i_z_castolovic" text="Пута I з Часталовіц"/>
+  <string id="sb.boh_jan_ii_z_drazic" text="Ян II з Дражыц"/>
+  <string id="sb.boh_jakub_granovsky" text="Якуб Грановскі"/>
+  <string id="sb.boh_hartigove" text="Гарцыговэ"/>
+  <string id="sb.boh_sudomir_z_horky" text="Судомір з Горкі"/>
+  <string id="sb.boh_jankovsti_z_vlasimi" text="Янковшты з Влашымі"/>
+  <string id="sb.boh_kostkove_z_postupic" text="Косткавэ з Поступіц"/>
+  <string id="sb.boh_zajicove_z_hazmburka" text="Зайцовэ з Газмбурка"/>
+  <string id="sb.boh_selmberkove" text="Шэльмберковэ"/>
+  <string id="sb.boh_drslavici" text="Дрславіцы"/>
+  <string id="sb.boh_cerninove_z_chudenic" text="Черніновэ з Худзеніц"/>
+  <string id="sb.boh_hrabisici" text="Грабішыцы"/>
+  <string id="sb.boh_valdstejnove" text="Вальдштэйновэ"/>
+  <string id="sb.boh_ronovci" text="Рановцы"/>
+  <string id="sb.boh_krusinove_z_lichtenburka" text="Крушыновэ з Ліхтэнбурка"/>
+  <string id="sb.boh_jindrich_i_z_hradce" text="Індрых I з Градцэ"/>
+  <string id="sb.boh_vitkovi_i_z_prcice" text="Вітковы I з Прчыцэ"/>
+  <string id="sb.boh_vitek_iv_z_klokot" text="Вітэк IV з Клакот"/>
+  <string id="sb.boh_jindrich_ze_straze" text="Індрых з Стражэ"/>
+  <string id="sb.boh_zerotinove" text="Жэраціновэ"/>
   <string id="sb.hun_kemeny" text="Кэмін"/>
   <string id="sb.hun_dory" text="Дуры"/>
   <string id="sb.hun_patthy" text="Пацьці"/>

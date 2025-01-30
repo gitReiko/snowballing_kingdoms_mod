@@ -318,6 +318,29 @@
   <string id="sb.ger_batenburg" text="Batenburh"/>
   <string id="sb.ger_sickingen" text="Zikinhien"/>
   <string id="sb.ger_hohenzollern" text="Hohiencollern"/>
+  <string id="sb.boh_plichtovi_z_adlaru" text="Plichtovy z Adłaru"/>
+  <string id="sb.boh_bechynove_z_lazan" text="Bechiniove z Łažan"/>
+  <string id="sb.boh_colloredove_z_wallsee" text="Kałłaredove z Vałłse"/>
+  <string id="sb.boh_puta_i_z_castolovic" text="Puta I z Častałovic"/>
+  <string id="sb.boh_jan_ii_z_drazic" text="Jan II z Dražyc"/>
+  <string id="sb.boh_jakub_granovsky" text="Jakub Hranovski"/>
+  <string id="sb.boh_hartigove" text="Harcyhove"/>
+  <string id="sb.boh_sudomir_z_horky" text="Sudomir z Horki"/>
+  <string id="sb.boh_jankovsti_z_vlasimi" text="Jankovšty z Vłašymi"/>
+  <string id="sb.boh_kostkove_z_postupic" text="Kostkave z Postupic"/>
+  <string id="sb.boh_zajicove_z_hazmburka" text="Zajcove z Hazmburka"/>
+  <string id="sb.boh_selmberkove" text="Šelmbierkove"/>
+  <string id="sb.boh_drslavici" text="Drsłavicy"/>
+  <string id="sb.boh_cerninove_z_chudenic" text="Čierninove z Chudzienic"/>
+  <string id="sb.boh_hrabisici" text="Hrabišycy"/>
+  <string id="sb.boh_valdstejnove" text="Valdštejnove"/>
+  <string id="sb.boh_ronovci" text="Ranovcy"/>
+  <string id="sb.boh_krusinove_z_lichtenburka" text="Krušynove z Lichtenburka"/>
+  <string id="sb.boh_jindrich_i_z_hradce" text="Indrych I z Hradce"/>
+  <string id="sb.boh_vitkovi_i_z_prcice" text="Vitkovy I z Prčyce"/>
+  <string id="sb.boh_vitek_iv_z_klokot" text="Vitek IV z Kłakot"/>
+  <string id="sb.boh_jindrich_ze_straze" text="Indrych z Straže"/>
+  <string id="sb.boh_zerotinove" text="Žeracinove"/>
   <string id="sb.hun_kemeny" text="Kemin"/>
   <string id="sb.hun_dory" text="Dury"/>
   <string id="sb.hun_patthy" text="Paćci"/>
