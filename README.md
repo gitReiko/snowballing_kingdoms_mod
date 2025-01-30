@@ -9,7 +9,7 @@ Translation template is available inside the mod. You can translate mod into ano
 
 This mod adds new clans from pre-made templates to all kingdoms every 10 days if the kingdom has enough settlements.
 
-If there are more than 1.7 settlements per kingdom clan (only cities and castles are counted), a new clan will be created.
+If there are more than 2 settlements per kingdom clan (only cities and castles are counted), a new clan will be created.
 
 The pre-made templates have name and banner. Clan members are randomly generated in several ways.
 
@@ -61,7 +61,13 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Current banners (total 904)
+## Update 1.0.1
+
+- 23 Bohemia banners
+- default clan_creation_factor increased to 2.0
+- multiple clans from 1 snowball with localization bugfix
+
+## Current banners (total 927)
 
 - Aestian 18 
 - Aestian Late 10
@@ -79,6 +85,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - French - Crusader 20 
 - Georgian 20
 - German 26
+- German - Bohemia 23
 - Hungary 20 
 - Irish 20 
 - Italian 30 
