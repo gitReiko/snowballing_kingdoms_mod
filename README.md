@@ -37,7 +37,7 @@ If turned off, no new clans will be created. But created clans will remain with 
 2. Native, Sandbox, SandBox Core, Story Mode 
 3. Custom Spawns API https://www.nexusmods.com/mountandblade2bannerlord/mods/411 
 4. Empires of Europe 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/4867
-5. Snowballing Kingdoms 
+5. Snowballing Kingdoms https://www.nexusmods.com/mountandblade2bannerlord/mods/7715
 
 ## Compatibility with Erik's Troops 
 
@@ -61,16 +61,14 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.1
+## Update 1.0.2
 
-- 23 Bohemia banners
-- default clan_creation_factor increased to 2.0
-- multiple clans from 1 snowball with localization bugfix
+- 26 Teutonic banners
 
-## Current banners (total 927)
+## Current banners (total 939)
 
 - Aestian 18 
-- Aestian Late 10
+- Aestian Teutonic 4
 - Arab 30
 - Armenian 16
 - Berber 23
@@ -85,6 +83,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - French - Crusader 20 
 - Georgian 20
 - German 26
+- German - Teutonic 17
 - German - Bohemia 23
 - Hungary 20 
 - Irish 20 
@@ -97,7 +96,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Kryvian – Late 4
 - Latvian - Latgalian 10
 - Latvian - Zemgalian 10
-- Latvian - Late 4
+- Latvian - Teutonic 5
 - Lithuanian - Lithuania 11
 - Lithuanian - Prussia 10
 - Lithuanian - Samogitia 10
