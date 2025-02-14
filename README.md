@@ -61,11 +61,11 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.2
+## Update 1.0.3
 
-- 26 Teutonic banners
+- 24 Mongolian banners
 
-## Current banners (total 939)
+## Current banners (total 963)
 
 - Aestian 18 
 - Aestian Teutonic 4
@@ -117,6 +117,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Spanish – Aragon 20
 - Spanish – Castile 20
 - Turkic - Cuman 11
+- Turkic - Mongolian 24
 - Turkic - Oghuz 24
 - Turkic - Pecheneg 11
 - Volhynian 20
