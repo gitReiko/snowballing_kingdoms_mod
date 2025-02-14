@@ -13,7 +13,7 @@
 
 	Should be a number. Use a dot to specify the decimal separator.
 
-	example: clan_creation_factor="2.0"
+	example / default value: clan_creation_factor="2.0"
 
 	===
 
@@ -23,7 +23,31 @@
 
 	The value is an integer (1 to 65535).
 
-	example: create_every_days="10"
+	example / default value: create_every_days="10"
+
+	===
+
+	3. only_player_expand 
+
+	Allow clans creation only for a player.
+
+	Boolean value true or false.
+
+	example / default value: only_player_expand="false"
+
+	If you enable options only_player_expand and only_ai_expand at the same time, all will expand!!!
+
+	===
+
+	4. only_ai_expand 
+
+	Allow clans creation only for an ai.
+
+	Boolean value true or false.
+
+	example / default value: only_ai_expand="false"
+
+	If you enable options only_player_expand and only_ai_expand at the same time, all will expand!!!
 
 	===
 	
@@ -32,6 +56,8 @@
 	<SnowConfig id="config"
 			  clan_creation_factor="2.0"
 			  create_every_days="10"
+			  only_player_expand="false"
+			  only_ai_expand="false"
 
 	/>
 

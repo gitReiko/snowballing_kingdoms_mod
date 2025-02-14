@@ -64,6 +64,9 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 ## Update 1.0.3
 
 - 24 Mongolian banners
+- only_ai_expand option (disabled by default)
+- only_player_expand option (disabled by default)
+- translations update
 
 ## Current banners (total 963)
 

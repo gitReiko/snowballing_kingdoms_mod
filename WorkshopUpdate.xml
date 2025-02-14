@@ -6,7 +6,7 @@
     <UpdateItem>
         <ModuleFolder Value="C:\Program Files (x86)\Steam\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\snowballing_kingdoms_mod"/>
         <!-- A direct path of your module -->   
-        <ChangeNotes Value="Update to version 1.0.2." />
+        <ChangeNotes Value="Update to version 1.0.3." />
         <!-- Insert patch notes -->
         <Tags> 
             <!-- You can use the following tags: -->
@@ -14,7 +14,7 @@
             <!-- Setting: Native, Antiquity, Dark Ages, Medieval, Musket Era, Modern, Sci-Fi, Fantasy, Oriental, Apocalypse, Other -->
             <!-- Game Mode: Singleplayer, Multiplayer -->
             <!-- Compatible Version: e1.9.0, v1.0.0,... The currently available versions can be found at the Steam Workshop "Browse by Tag" section -->
-            <Tag Value="UI" />
+            <Tag Value="Utility" />
             <Tag Value="Singleplayer" />
             <Tag Value="v1.2.12" />
         </Tags>
