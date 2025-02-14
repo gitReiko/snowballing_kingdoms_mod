@@ -19,13 +19,7 @@
   <string id="sb.est_saaremaa" text="Saarema"/>
   <string id="sb.est_ridala" text="Rydała"/>
   <string id="sb.est_varbola" text="Varboła"/>
-  <string id="sb.est_aderkas" text="Aderkas"/>
   <string id="sb.est_baranoff" text="Baranoff"/>
-  <string id="sb.est_berg" text="Bierh"/>
-  <string id="sb.est_derfelden" text="Derfielden"/>
-  <string id="sb.est_fersen" text="Fiersen"/>
-  <string id="sb.est_bruiningk" text="Bruininh"/>
-  <string id="sb.est_hagemeister" text="Chahiemajster"/>
   <string id="sb.est_reval" text="Reval"/>
   <string id="sb.est_parnu" text="Parnu"/>
   <string id="sb.est_viljandi" text="Viljandzi"/>
@@ -318,6 +312,23 @@
   <string id="sb.ger_batenburg" text="Batenburh"/>
   <string id="sb.ger_sickingen" text="Zikinhien"/>
   <string id="sb.ger_hohenzollern" text="Hohiencollern"/>
+  <string id="sb.ger_ludwig_von_erlichshausen" text="Ludvih fon Erlichschaŭzen"/>
+  <string id="sb.ger_herman_bartt" text="Hierman Bart"/>
+  <string id="sb.ger_poppo_von_osterna" text="Poppa fon Osterna"/>
+  <string id="sb.ger_fersen" text="Fiersen"/>
+  <string id="sb.ger_bruiningk" text="Brujnink"/>
+  <string id="sb.ger_hagemeister" text="Chahiemajstar"/>
+  <string id="sb.ger_derfelden" text="Derfelden"/>
+  <string id="sb.ger_siegfried_von_feuchtwangen" text="Zihfryd fon Fojchtvahien"/>
+  <string id="sb.ger_aderkas" text="Aderkas"/>
+  <string id="sb.ger_knabenau" text="Knabienaŭ"/>
+  <string id="sb.ger_sievers" text="Siviers"/>
+  <string id="sb.ger_gottfried_von_hohenlohe" text="Hotfryd fon Chachienłoe"/>
+  <string id="sb.ger_anno_von_sangershausen" text="Anno fon Zanhierschaŭzen"/>
+  <string id="sb.ger_ludolf_konig_von_wattzau" text="Ludolf Kionih fon Vatcaŭ"/>
+  <string id="sb.ger_konrad_von_jungingen" text="Konrad fon Junhinhien"/>
+  <string id="sb.ger_michael_kuchmeister_von_sternberg" text="Michael Kuchmajstar fon Šternbierh"/>
+  <string id="sb.ger_burchard_von_schwanden" text="Burchard fon Švanden"/>
   <string id="sb.boh_plichtovi_z_adlaru" text="Plichtovy z Adłaru"/>
   <string id="sb.boh_bechynove_z_lazan" text="Bechiniove z Łažan"/>
   <string id="sb.boh_colloredove_z_wallsee" text="Kałłaredove z Vałłse"/>
@@ -502,9 +513,9 @@
   <string id="sb.lat_skare" text="Skare"/>
   <string id="sb.lat_dumpji" text="Dumpi"/>
   <string id="sb.lat_liveni" text="Liveni"/>
-  <string id="sb.lat_knabenau" text="Knabienaŭ"/>
-  <string id="sb.lat_sievers" text="Sievieries"/>
   <string id="sb.lat_soltani" text="Sołtani"/>
+  <string id="sb.lat_riga" text="Ryha"/>
+  <string id="sb.lat_straupe" text="Straŭpie"/>
   <string id="sb.lit_asmiany" text="Ašmiany"/>
   <string id="sb.lit_ukmerge" text="Ukmierhie"/>
   <string id="sb.lit_dubingiai" text="Dubinhiaj"/>
@@ -851,6 +862,30 @@
   <string id="sb.tur_moguty" text="Mohuty"/>
   <string id="sb.tur_bekoba" text="Biekoba"/>
   <string id="sb.tur_terteroba" text="Terteroba"/>
+  <string id="sb.tur_genghis" text="Čynhischan"/>
+  <string id="sb.tur_jochi" text="Džučy"/>
+  <string id="sb.tur_berke" text="Bierkie"/>
+  <string id="sb.tur_batu" text="Batyj"/>
+  <string id="sb.tur_mengu_timur" text="Mienhu-Cimur"/>
+  <string id="sb.tur_talabuga" text="Tałabuha"/>
+  <string id="sb.tur_chagatai" text="Džahataj"/>
+  <string id="sb.tur_chagataidi" text="Džahatai"/>
+  <string id="sb.tur_kazan_timurids" text="Kazanskija Cimurydy"/>
+  <string id="sb.tur_duwa" text="Duva"/>
+  <string id="sb.tur_alghu" text="Ałhu"/>
+  <string id="sb.tur_guyuk" text="Hujuk"/>
+  <string id="sb.tur_gujuk" text="Hүjuh"/>
+  <string id="sb.tur_kaidu" text="Chajdu"/>
+  <string id="sb.tur_ogedei" text="Uhiedej"/>
+  <string id="sb.tur_ogodeids" text="Ohadei"/>
+  <string id="sb.tur_ugedeids" text="Ohadai"/>
+  <string id="sb.tur_ogedeidss" text="Uhiedei"/>
+  <string id="sb.tur_ali_khans" text="Ali Chany"/>
+  <string id="sb.tur_mongke" text="Munke"/>
+  <string id="sb.tur_ariq_boke" text="Aryh-Buha"/>
+  <string id="sb.tur_shybanids" text="Šybanidy"/>
+  <string id="sb.tur_girays" text="Hirei"/>
+  <string id="sb.tur_sibanids" text="Sibanidy"/>
   <string id="sb.tur_bayat" text="Bajat"/>
   <string id="sb.tur_kayi" text="Kajji"/>
   <string id="sb.tur_karaevli" text="Karaevli"/>
