@@ -5,6 +5,12 @@ Belarusian, English
 
 Translation template is available inside the mod. You can translate mod into another language. I can add your translation into this mod or you can make your own separate mod with translation.
 
+## Banners codes
+
+Players only. If you are a modder, contact me.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=3427239636 
+
 ## What is it?
 
 This mod adds new clans from pre-made templates to all kingdoms every 10 days if the kingdom has enough settlements.
