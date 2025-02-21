@@ -66,15 +66,13 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.3
+## Update 1.0.4
 
-- 24 Mongolian banners
-- only_ai_expand option (disabled by default)
-- only_player_expand option (disabled by default)
-- translations update
+- 23 Andalusia banners
 
 ## Current banners (total 963)
 
+- Andalusia 23
 - Aestian 18 
 - Aestian Teutonic 4
 - Arab 30
