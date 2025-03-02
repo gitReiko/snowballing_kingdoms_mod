@@ -66,11 +66,11 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.4
+## Update 1.0.5
 
-- 23 Andalusia banners
+- 3 Baltic banners removed from EoE 1100
 
-## Current banners (total 963)
+## Current banners (total 966)
 
 - Andalusia 23
 - Aestian 18 
@@ -100,12 +100,12 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Kryvian – Smolensk 10
 - Kryvian – Other duchies 4
 - Kryvian – Late 4
-- Latvian - Latgalian 10
-- Latvian - Zemgalian 10
+- Latvian - Latgalian 11
+- Latvian - Zemgalian 11
 - Latvian - Teutonic 5
 - Lithuanian - Lithuania 11
 - Lithuanian - Prussia 10
-- Lithuanian - Samogitia 10
+- Lithuanian - Samogitia 11
 - Lithuanian - Late 21
 - Nordic - Denmark 26
 - Nordic - Norway 22

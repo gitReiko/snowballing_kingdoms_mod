@@ -525,6 +525,7 @@
   <string id="sb.lat_daugavpils" text="Daugavpils"/>
   <string id="sb.lat_cesis" text="Cesis"/>
   <string id="sb.lat_abrene" text="Abrene"/>
+  <string id="sb.lat_idums" text="Idums"/>
   <string id="sb.lat_silene" text="Silene"/>
   <string id="sb.lat_upmale" text="Upmale"/>
   <string id="sb.lat_dobele" text="Dobele"/>
@@ -535,6 +536,7 @@
   <string id="sb.lat_pudzas" text="Pudžas"/>
   <string id="sb.lat_skare" text="Skare"/>
   <string id="sb.lat_dumpji" text="Dumpji"/>
+  <string id="sb.lat_dobene" text="Dobene"/>
   <string id="sb.lat_liveni" text="Līveni"/>
   <string id="sb.lat_soltani" text="Soltāni"/>
   <string id="sb.lat_riga" text="Riga"/>
@@ -570,6 +572,7 @@
   <string id="sb.lit_kaunas" text="Kaunas"/>
   <string id="sb.lit_geguaze" text="Geguže"/>
   <string id="sb.lit_dubysa" text="Dubysa"/>
+  <string id="sb.lit_knituva" text="Knituva"/>
   <string id="sb.lit_sapiegos" text="Sapiegos"/>
   <string id="sb.lit_kesgailos" text="Kęsgailos"/>
   <string id="sb.lit_daugirdai" text="Daugirdai"/>
