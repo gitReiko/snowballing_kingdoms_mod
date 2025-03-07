@@ -289,6 +289,28 @@
   <string id="sb.cru_arnold_de_torroja" text="Арнольд ду Тарроха"/>
   <string id="sb.cru_bouillon" text="Бульён"/>
   <string id="sb.cru_guerin_de_montaigu" text="Гіран ду Монтэгю"/>
+  <string id="sb.lat_baudouin_ii_de_courtenay" text="Бадуа II ду Куртунэ"/>
+  <string id="sb.lat_boniface_de_montferrat" text="Боніфас ду Мунфера"/>
+  <string id="sb.lat_baudouin_i_de_constantinople" text="Бадуа I ду Констанцінопль"/>
+  <string id="sb.lat_henri_i_de_constantinople" text="Онры I ду Констанцінопль"/>
+  <string id="sb.lat_pierre_ii_de_constantinople" text="Пьер II ду Констанцінопль"/>
+  <string id="sb.lat_jean_de_constantinople" text="Жан ду Констанцінопль"/>
+  <string id="sb.lat_philippe_i_de_courtenay" text="Філіп I de Куртунэ"/>
+  <string id="sb.lat_gaillard_de_la_motte" text="Гайяр ду ля Мотт"/>
+  <string id="sb.lat_conon_de_bethune" text="Конан ду Бецюн"/>
+  <string id="sb.lat_charles_de_valois" text="Шарль ду Валуа"/>
+  <string id="sb.lat_catherine_de_valois_courtenay" text="Кацюрын ду Валуа-Куртунэ"/>
+  <string id="sb.lat_philippe_i_de_tarente" text="Філіп I de Tarente"/>
+  <string id="sb.lat_jacques_des_baux" text="Жак дзі Бу"/>
+  <string id="sb.lat_etienne_du_perche" text="Эцьен дзю Перш"/>
+  <string id="sb.lat_louis_de_blois" text="Луі ду Блуа"/>
+  <string id="sb.lat_thierry_de_loos" text="Цьеры ду Лос"/>
+  <string id="sb.lat_renier_de_trith" text="Рунье ду Трыт"/>
+  <string id="sb.lat_florent_de_hainaut" text="Флоран ду Эно"/>
+  <string id="sb.lat_thomas_ii_of_savoy_achaea" text="Тома II of Савуа-Ахея"/>
+  <string id="sb.lat_sanudo" text="Сануда"/>
+  <string id="sb.lat_candavene" text="Кандавенэ"/>
+  <string id="sb.lat_lemnos" text="Лемнос"/>
   <string id="sb.geo_abashidze" text="Абашыдзэ"/>
   <string id="sb.geo_agiashvili" text="Агяшвілі"/>
   <string id="sb.geo_avalishvili" text="Авалішвілі"/>
@@ -415,19 +437,34 @@
   <string id="sb.iri_regan" text="Рэган"/>
   <string id="sb.iri_corcoran" text="Каркоран"/>
   <string id="sb.iri_duggan" text="Дугган"/>
+  <string id="sb.ita_durazzo" text="Дурацца"/>
+  <string id="sb.ita_pallavicini" text="Паллавічыні"/>
+  <string id="sb.ita_cavanna" text="Каванна"/>
+  <string id="sb.ita_ceva_grimaldi" text="Чэва-Грымальдзі"/>
+  <string id="sb.ita_cybo" text="Чыба"/>
+  <string id="sb.ita_gagini" text="Гагіні"/>
+  <string id="sb.ita_spinola" text="Сьпінола"/>
+  <string id="sb.ita_gattilusio" text="Гацьцілузіё"/>
+  <string id="sb.ita_ghisolfi" text="Гісольфі"/>
+  <string id="sb.ita_malocelli" text="Малочэльлі"/>
+  <string id="sb.ita_costa" text="Коста"/>
+  <string id="sb.ita_boccanegra" text="Бокканегра"/>
+  <string id="sb.ita_fattinanti" text="Фацьцінанці"/>
+  <string id="sb.ita_fieschi" text="Фіэскі"/>
+  <string id="sb.ita_marchesato" text="Маркезата"/>
+  <string id="sb.ita_negrone" text="Негронэ"/>
+  <string id="sb.ita_orengo" text="Орэнга"/>
+  <string id="sb.ita_serra" text="Сэрра"/>
+  <string id="sb.ita_vento" text="Вента"/>
+  <string id="sb.ita_gentile" text="Джэнціле"/>
   <string id="sb.ita_accolti" text="Аккольці"/>
   <string id="sb.ita_alamanni" text="Аламаньні"/>
   <string id="sb.ita_albizzi" text="Альбіццы"/>
   <string id="sb.ita_appiani" text="Аппіані"/>
   <string id="sb.ita_bardi" text="Бардзі"/>
-  <string id="sb.ita_bettoni" text="Беттоні"/>
   <string id="sb.ita_capocci" text="Капоччы"/>
-  <string id="sb.ita_cornaro" text="Корнара"/>
   <string id="sb.ita_corsini" text="Корсіні"/>
-  <string id="sb.ita_gherardesca" text="Герардэска"/>
   <string id="sb.ita_dentice" text="Дэнтыче"/>
-  <string id="sb.ita_durazzo" text="Дурацца"/>
-  <string id="sb.ita_ezzelini" text="Эццэліні"/>
   <string id="sb.ita_farnese" text="Фарнэзе"/>
   <string id="sb.ita_fioravanti" text="Фіораванці"/>
   <string id="sb.ita_gabrielli" text="Габрыэльлі"/>
@@ -437,14 +474,33 @@
   <string id="sb.ita_mancini" text="Манчыні"/>
   <string id="sb.ita_ordelaffi" text="Ордэлаффі"/>
   <string id="sb.ita_orsucci" text="Орсуччы"/>
-  <string id="sb.ita_pallavicini" text="Паллавічыні"/>
   <string id="sb.ita_piccolomini" text="Пікколаміні"/>
-  <string id="sb.ita_pola" text="Пола"/>
   <string id="sb.ita_riario" text="Рыарыё"/>
   <string id="sb.ita_sacchetti" text="Саккецьці"/>
   <string id="sb.ita_strozzi" text="Строццы"/>
-  <string id="sb.ita_tocco" text="Токка"/>
+  <string id="sb.ita_gherardesca" text="Герардэска"/>
+  <string id="sb.ita_bettoni" text="Беттоні"/>
+  <string id="sb.ita_cornaro" text="Корнара"/>
+  <string id="sb.ita_ezzelini" text="Эццэліні"/>
+  <string id="sb.ita_pola" text="Пола"/>
   <string id="sb.ita_valmarana" text="Валмарана"/>
+  <string id="sb.ita_amizzo" text="Аміцца"/>
+  <string id="sb.ita_balbi" text="Балбі"/>
+  <string id="sb.ita_diedo" text="Дзіэда"/>
+  <string id="sb.ita_fonseca" text="Фонсека"/>
+  <string id="sb.ita_grisoni" text="Грысоні"/>
+  <string id="sb.ita_lando" text="Ланда"/>
+  <string id="sb.ita_manolesso" text="Манолесса"/>
+  <string id="sb.ita_navagero" text="Наваджэра"/>
+  <string id="sb.ita_orio" text="Орыё"/>
+  <string id="sb.ita_pizzamano" text="Піццамана"/>
+  <string id="sb.ita_quintavalle" text="Квінтавальле"/>
+  <string id="sb.ita_ruzzini" text="Руццыні"/>
+  <string id="sb.ita_selvo" text="Сэльва"/>
+  <string id="sb.ita_tagliapietra" text="Тальяпетра"/>
+  <string id="sb.ita_valaresso" text="Валарэсса"/>
+  <string id="sb.ita_zancaruol" text="Занкаруол"/>
+  <string id="sb.ita_duodo" text="Дуода"/>
   <string id="sb.jat_zelva" text="Зэльва"/>
   <string id="sb.jat_mscibava" text="Мсьцібава"/>
   <string id="sb.jat_radun" text="Радунь"/>
@@ -837,6 +893,7 @@
   <string id="sb.sic_naselli" text="Насэльлі"/>
   <string id="sb.sic_zito" text="Зіта"/>
   <string id="sb.sic_torre" text="Торрэ"/>
+  <string id="sb.sic_tocco" text="Токка"/>
   <string id="sb.arag_ramiro_i" text="Раміро I"/>
   <string id="sb.arag_ramiro_ii_el_monje" text="Раміро II эль Монхе"/>
   <string id="sb.arag_pedro_ii_el_catolico" text="Педро II эль Католіко"/>
@@ -912,6 +969,11 @@
   <string id="sb.tur_shybanids" text="Шыбаніды"/>
   <string id="sb.tur_girays" text="Гірэі"/>
   <string id="sb.tur_sibanids" text="Сібаніды"/>
+  <string id="sb.tur_hulegu" text="Хулегу"/>
+  <string id="sb.tur_ilkhanid" text="Ілханіды"/>
+  <string id="sb.tur_gawon" text="Гавон"/>
+  <string id="sb.tur_jalair" text="Джалаір"/>
+  <string id="sb.tur_oirat" text="Ойрат"/>
   <string id="sb.tur_bayat" text="Баят"/>
   <string id="sb.tur_kayi" text="Кайі"/>
   <string id="sb.tur_karaevli" text="Караэвлі"/>

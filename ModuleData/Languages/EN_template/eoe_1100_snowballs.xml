@@ -289,6 +289,28 @@
   <string id="sb.cru_arnold_de_torroja" text="Arnold de Torroja"/>
   <string id="sb.cru_bouillon" text="Bouillon"/>
   <string id="sb.cru_guerin_de_montaigu" text="Guerin de Montaigu"/>
+  <string id="sb.lat_baudouin_ii_de_courtenay" text="Baudouin II de Courtenay"/>
+  <string id="sb.lat_boniface_de_montferrat" text="Boniface de Montferrat"/>
+  <string id="sb.lat_baudouin_i_de_constantinople" text="Baudouin I de Constantinople"/>
+  <string id="sb.lat_henri_i_de_constantinople" text="Henri I de Constantinople"/>
+  <string id="sb.lat_pierre_ii_de_constantinople" text="Pierre II de Constantinople"/>
+  <string id="sb.lat_jean_de_constantinople" text="Jean de Constantinople"/>
+  <string id="sb.lat_philippe_i_de_courtenay" text="Philippe I de Courtenay"/>
+  <string id="sb.lat_gaillard_de_la_motte" text="Gaillard de la Motte"/>
+  <string id="sb.lat_conon_de_bethune" text="Conon de Bethune"/>
+  <string id="sb.lat_charles_de_valois" text="Charles de Valois"/>
+  <string id="sb.lat_catherine_de_valois_courtenay" text="Catherine de Valois-Courtenay"/>
+  <string id="sb.lat_philippe_i_de_tarente" text="Philippe I de Tarente"/>
+  <string id="sb.lat_jacques_des_baux" text="Jacques des Baux"/>
+  <string id="sb.lat_etienne_du_perche" text="Etienne du Perche"/>
+  <string id="sb.lat_louis_de_blois" text="Louis de Blois"/>
+  <string id="sb.lat_thierry_de_loos" text="Thierry de Loos"/>
+  <string id="sb.lat_renier_de_trith" text="Renier de Trith"/>
+  <string id="sb.lat_florent_de_hainaut" text="Florent de Hainaut"/>
+  <string id="sb.lat_thomas_ii_of_savoy_achaea" text="Thomas II of Savoy-Achaea"/>
+  <string id="sb.lat_sanudo" text="Sanudo"/>
+  <string id="sb.lat_candavene" text="Candavene"/>
+  <string id="sb.lat_lemnos" text="Lemnos"/>
   <string id="sb.geo_abashidze" text="Abashidze"/>
   <string id="sb.geo_agiashvili" text="Agiashvili"/>
   <string id="sb.geo_avalishvili" text="Avalishvili"/>
@@ -415,19 +437,34 @@
   <string id="sb.iri_regan" text="Regan"/>
   <string id="sb.iri_corcoran" text="Corcoran"/>
   <string id="sb.iri_duggan" text="Duggan"/>
+  <string id="sb.ita_durazzo" text="Durazzo"/>
+  <string id="sb.ita_pallavicini" text="Pallavicini"/>
+  <string id="sb.ita_cavanna" text="Cavanna"/>
+  <string id="sb.ita_ceva_grimaldi" text="Ceva Grimaldi"/>
+  <string id="sb.ita_cybo" text="Cybo"/>
+  <string id="sb.ita_gagini" text="Gagini"/>
+  <string id="sb.ita_spinola" text="Spinola"/>
+  <string id="sb.ita_gattilusio" text="Gattilusio"/>
+  <string id="sb.ita_ghisolfi" text="Ghisolfi"/>
+  <string id="sb.ita_malocelli" text="Malocelli"/>
+  <string id="sb.ita_costa" text="Costa"/>
+  <string id="sb.ita_boccanegra" text="Boccanegra"/>
+  <string id="sb.ita_fattinanti" text="Fattinanti"/>
+  <string id="sb.ita_fieschi" text="Fieschi"/>
+  <string id="sb.ita_marchesato" text="Marchesato"/>
+  <string id="sb.ita_negrone" text="Negrone"/>
+  <string id="sb.ita_orengo" text="Orengo"/>
+  <string id="sb.ita_serra" text="Serra"/>
+  <string id="sb.ita_vento" text="Vento"/>
+  <string id="sb.ita_gentile" text="Gentile"/>
   <string id="sb.ita_accolti" text="Accolti"/>
   <string id="sb.ita_alamanni" text="Alamanni"/>
   <string id="sb.ita_albizzi" text="Albizzi"/>
   <string id="sb.ita_appiani" text="Appiani"/>
   <string id="sb.ita_bardi" text="Bardi"/>
-  <string id="sb.ita_bettoni" text="Bettoni"/>
   <string id="sb.ita_capocci" text="Capocci"/>
-  <string id="sb.ita_cornaro" text="Cornaro"/>
   <string id="sb.ita_corsini" text="Corsini"/>
-  <string id="sb.ita_gherardesca" text="Gherardesca"/>
   <string id="sb.ita_dentice" text="Dentice"/>
-  <string id="sb.ita_durazzo" text="Durazzo"/>
-  <string id="sb.ita_ezzelini" text="Ezzelini"/>
   <string id="sb.ita_farnese" text="Farnese"/>
   <string id="sb.ita_fioravanti" text="Fioravanti"/>
   <string id="sb.ita_gabrielli" text="Gabrielli"/>
@@ -437,14 +474,33 @@
   <string id="sb.ita_mancini" text="Mancini"/>
   <string id="sb.ita_ordelaffi" text="Ordelaffi"/>
   <string id="sb.ita_orsucci" text="Orsucci"/>
-  <string id="sb.ita_pallavicini" text="Pallavicini"/>
   <string id="sb.ita_piccolomini" text="Piccolomini"/>
-  <string id="sb.ita_pola" text="Pola"/>
   <string id="sb.ita_riario" text="Riario"/>
   <string id="sb.ita_sacchetti" text="Sacchetti"/>
   <string id="sb.ita_strozzi" text="Strozzi"/>
-  <string id="sb.ita_tocco" text="Tocco"/>
+  <string id="sb.ita_gherardesca" text="Gherardesca"/>
+  <string id="sb.ita_bettoni" text="Bettoni"/>
+  <string id="sb.ita_cornaro" text="Cornaro"/>
+  <string id="sb.ita_ezzelini" text="Ezzelini"/>
+  <string id="sb.ita_pola" text="Pola"/>
   <string id="sb.ita_valmarana" text="Valmarana"/>
+  <string id="sb.ita_amizzo" text="Amizzo"/>
+  <string id="sb.ita_balbi" text="Balbi"/>
+  <string id="sb.ita_diedo" text="Diedo"/>
+  <string id="sb.ita_fonseca" text="Fonseca"/>
+  <string id="sb.ita_grisoni" text="Grisoni"/>
+  <string id="sb.ita_lando" text="Lando"/>
+  <string id="sb.ita_manolesso" text="Manolesso"/>
+  <string id="sb.ita_navagero" text="Navagero"/>
+  <string id="sb.ita_orio" text="Orio"/>
+  <string id="sb.ita_pizzamano" text="Pizzamano"/>
+  <string id="sb.ita_quintavalle" text="Quintavalle"/>
+  <string id="sb.ita_ruzzini" text="Ruzzini"/>
+  <string id="sb.ita_selvo" text="Selvo"/>
+  <string id="sb.ita_tagliapietra" text="Tagliapietra"/>
+  <string id="sb.ita_valaresso" text="Valaresso"/>
+  <string id="sb.ita_zancaruol" text="Zancaruol"/>
+  <string id="sb.ita_duodo" text="Duodo"/>
   <string id="sb.jat_zelva" text="Zelva"/>
   <string id="sb.jat_mscibava" text="Mścibava"/>
   <string id="sb.jat_radun" text="Raduń"/>
@@ -837,6 +893,7 @@
   <string id="sb.sic_naselli" text="Naselli"/>
   <string id="sb.sic_zito" text="Zito"/>
   <string id="sb.sic_torre" text="Torre"/>
+  <string id="sb.sic_tocco" text="Tocco"/>
   <string id="sb.arag_ramiro_i" text="Ramiro I"/>
   <string id="sb.arag_ramiro_ii_el_monje" text="Ramiro II el Monje"/>
   <string id="sb.arag_pedro_ii_el_catolico" text="Pedro II el Católico"/>
@@ -912,6 +969,11 @@
   <string id="sb.tur_shybanids" text="Shybanids"/>
   <string id="sb.tur_girays" text="Girays"/>
   <string id="sb.tur_sibanids" text="Sibanids"/>
+  <string id="sb.tur_hulegu" text="Hulegu"/>
+  <string id="sb.tur_ilkhanid" text="Ilkhanid"/>
+  <string id="sb.tur_gawon" text="Gawon"/>
+  <string id="sb.tur_jalair" text="Jalair"/>
+  <string id="sb.tur_oirat" text="Oirat"/>
   <string id="sb.tur_bayat" text="Bayat"/>
   <string id="sb.tur_kayi" text="Kayi"/>
   <string id="sb.tur_karaevli" text="Karaevli"/>

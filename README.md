@@ -69,8 +69,16 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 ## Update 1.0.5
 
 - 3 Baltic banners removed from EoE 1100
+- 5 Ilkhanid banners
+- Italian banners rework
+- 20 Italian - Genoa banners
+- 21 Italian - Papal banners
+- 1 Italian - Pisa banners
+- 20 Italian - Venice banners
+- 22 Latin banners
+- 1 Sicilian banner
 
-## Current banners (total 966)
+## Current banners (total 1051)
 
 - Andalusia 23
 - Aestian 18 
@@ -87,12 +95,18 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Estearn Rus – Radimian 10
 - French - French 20
 - French - Crusader 20 
+- French - Latin 22 
 - Georgian 20
 - German 26
 - German - Teutonic 17
 - German - Bohemia 23
 - Hungary 20 
+- Ilkhanid 5 
 - Irish 20 
+- Italian - Genoa 20
+- Italian - Papal 21
+- Italian - Pisa 1
+- Italian - Venice 20
 - Italian 30 
 - Jatvingian 11
 - Jatvingian Late 16
@@ -119,7 +133,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Scottish 20
 - Serbian - Serbian 21
 - Serbian - Illyrian 2
-- Sicilian 20
+- Sicilian 21
 - Spanish – Aragon 20
 - Spanish – Castile 20
 - Turkic - Cuman 11

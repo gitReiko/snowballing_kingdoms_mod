@@ -289,6 +289,28 @@
   <string id="sb.cru_arnold_de_torroja" text="Arnold du Tarrocha"/>
   <string id="sb.cru_bouillon" text="Buljon"/>
   <string id="sb.cru_guerin_de_montaigu" text="Hiran du Montehiu"/>
+  <string id="sb.lat_baudouin_ii_de_courtenay" text="Badua II du Kurtune"/>
+  <string id="sb.lat_boniface_de_montferrat" text="Bonifas du Munfiera"/>
+  <string id="sb.lat_baudouin_i_de_constantinople" text="Badua I du Konstancinopl"/>
+  <string id="sb.lat_henri_i_de_constantinople" text="Onry I du Konstancinopl"/>
+  <string id="sb.lat_pierre_ii_de_constantinople" text="Pjer II du Konstancinopl"/>
+  <string id="sb.lat_jean_de_constantinople" text="Žan du Konstancinopl"/>
+  <string id="sb.lat_philippe_i_de_courtenay" text="Filip I de Kurtune"/>
+  <string id="sb.lat_gaillard_de_la_motte" text="Hajjar du la Mott"/>
+  <string id="sb.lat_conon_de_bethune" text="Konan du Bieciun"/>
+  <string id="sb.lat_charles_de_valois" text="Šarl du Vałua"/>
+  <string id="sb.lat_catherine_de_valois_courtenay" text="Kaciuryn du Vałua-Kurtune"/>
+  <string id="sb.lat_philippe_i_de_tarente" text="Filip I de Tarente"/>
+  <string id="sb.lat_jacques_des_baux" text="Žak dzi Bu"/>
+  <string id="sb.lat_etienne_du_perche" text="Ećjen dziu Pierš"/>
+  <string id="sb.lat_louis_de_blois" text="Łui du Błua"/>
+  <string id="sb.lat_thierry_de_loos" text="Ćjery du Łos"/>
+  <string id="sb.lat_renier_de_trith" text="Ruńje du Tryt"/>
+  <string id="sb.lat_florent_de_hainaut" text="Fłoran du Eno"/>
+  <string id="sb.lat_thomas_ii_of_savoy_achaea" text="Toma II of Savua-Achieja"/>
+  <string id="sb.lat_sanudo" text="Sanuda"/>
+  <string id="sb.lat_candavene" text="Kandaviene"/>
+  <string id="sb.lat_lemnos" text="Lemnos"/>
   <string id="sb.geo_abashidze" text="Abašydze"/>
   <string id="sb.geo_agiashvili" text="Ahiašvili"/>
   <string id="sb.geo_avalishvili" text="Avališvili"/>
@@ -415,19 +437,34 @@
   <string id="sb.iri_regan" text="Rehan"/>
   <string id="sb.iri_corcoran" text="Karkoran"/>
   <string id="sb.iri_duggan" text="Duhhan"/>
+  <string id="sb.ita_durazzo" text="Duracca"/>
+  <string id="sb.ita_pallavicini" text="Pałłavičyni"/>
+  <string id="sb.ita_cavanna" text="Kavanna"/>
+  <string id="sb.ita_ceva_grimaldi" text="Čeva-Hrymaldzi"/>
+  <string id="sb.ita_cybo" text="Čyba"/>
+  <string id="sb.ita_gagini" text="Hahini"/>
+  <string id="sb.ita_spinola" text="Śpinoła"/>
+  <string id="sb.ita_gattilusio" text="Haćciłuzijo"/>
+  <string id="sb.ita_ghisolfi" text="Hisolfi"/>
+  <string id="sb.ita_malocelli" text="Małočelli"/>
+  <string id="sb.ita_costa" text="Kosta"/>
+  <string id="sb.ita_boccanegra" text="Bokkaniehra"/>
+  <string id="sb.ita_fattinanti" text="Faćcinanci"/>
+  <string id="sb.ita_fieschi" text="Fieski"/>
+  <string id="sb.ita_marchesato" text="Markiezata"/>
+  <string id="sb.ita_negrone" text="Niehrone"/>
+  <string id="sb.ita_orengo" text="Orenha"/>
+  <string id="sb.ita_serra" text="Serra"/>
+  <string id="sb.ita_vento" text="Vienta"/>
+  <string id="sb.ita_gentile" text="Džencile"/>
   <string id="sb.ita_accolti" text="Akkolci"/>
   <string id="sb.ita_alamanni" text="Ałamańni"/>
   <string id="sb.ita_albizzi" text="Albiccy"/>
   <string id="sb.ita_appiani" text="Appiani"/>
   <string id="sb.ita_bardi" text="Bardzi"/>
-  <string id="sb.ita_bettoni" text="Biettoni"/>
   <string id="sb.ita_capocci" text="Kapoččy"/>
-  <string id="sb.ita_cornaro" text="Kornara"/>
   <string id="sb.ita_corsini" text="Korsini"/>
-  <string id="sb.ita_gherardesca" text="Hierardeska"/>
   <string id="sb.ita_dentice" text="Dentyčie"/>
-  <string id="sb.ita_durazzo" text="Duracca"/>
-  <string id="sb.ita_ezzelini" text="Eccelini"/>
   <string id="sb.ita_farnese" text="Farnezie"/>
   <string id="sb.ita_fioravanti" text="Fioravanci"/>
   <string id="sb.ita_gabrielli" text="Habryelli"/>
@@ -437,14 +474,33 @@
   <string id="sb.ita_mancini" text="Mančyni"/>
   <string id="sb.ita_ordelaffi" text="Ordełaffi"/>
   <string id="sb.ita_orsucci" text="Orsuččy"/>
-  <string id="sb.ita_pallavicini" text="Pałłavičyni"/>
   <string id="sb.ita_piccolomini" text="Pikkołamini"/>
-  <string id="sb.ita_pola" text="Poła"/>
   <string id="sb.ita_riario" text="Ryaryjo"/>
   <string id="sb.ita_sacchetti" text="Sakkiećci"/>
   <string id="sb.ita_strozzi" text="Stroccy"/>
-  <string id="sb.ita_tocco" text="Tokka"/>
+  <string id="sb.ita_gherardesca" text="Hierardeska"/>
+  <string id="sb.ita_bettoni" text="Biettoni"/>
+  <string id="sb.ita_cornaro" text="Kornara"/>
+  <string id="sb.ita_ezzelini" text="Eccelini"/>
+  <string id="sb.ita_pola" text="Poła"/>
   <string id="sb.ita_valmarana" text="Vałmarana"/>
+  <string id="sb.ita_amizzo" text="Amicca"/>
+  <string id="sb.ita_balbi" text="Bałbi"/>
+  <string id="sb.ita_diedo" text="Dzieda"/>
+  <string id="sb.ita_fonseca" text="Fonsieka"/>
+  <string id="sb.ita_grisoni" text="Hrysoni"/>
+  <string id="sb.ita_lando" text="Łanda"/>
+  <string id="sb.ita_manolesso" text="Manolessa"/>
+  <string id="sb.ita_navagero" text="Navadžera"/>
+  <string id="sb.ita_orio" text="Oryjo"/>
+  <string id="sb.ita_pizzamano" text="Piccamana"/>
+  <string id="sb.ita_quintavalle" text="Kvintavalle"/>
+  <string id="sb.ita_ruzzini" text="Ruccyni"/>
+  <string id="sb.ita_selvo" text="Selva"/>
+  <string id="sb.ita_tagliapietra" text="Taljapietra"/>
+  <string id="sb.ita_valaresso" text="Vałaressa"/>
+  <string id="sb.ita_zancaruol" text="Zankaruoł"/>
+  <string id="sb.ita_duodo" text="Duoda"/>
   <string id="sb.jat_zelva" text="Zelva"/>
   <string id="sb.jat_mscibava" text="Mścibava"/>
   <string id="sb.jat_radun" text="Raduń"/>
@@ -837,6 +893,7 @@
   <string id="sb.sic_naselli" text="Naselli"/>
   <string id="sb.sic_zito" text="Zita"/>
   <string id="sb.sic_torre" text="Torre"/>
+  <string id="sb.sic_tocco" text="Tokka"/>
   <string id="sb.arag_ramiro_i" text="Ramiro I"/>
   <string id="sb.arag_ramiro_ii_el_monje" text="Ramiro II el Monchie"/>
   <string id="sb.arag_pedro_ii_el_catolico" text="Piedro II el Katoliko"/>
@@ -912,6 +969,11 @@
   <string id="sb.tur_shybanids" text="Šybanidy"/>
   <string id="sb.tur_girays" text="Hirei"/>
   <string id="sb.tur_sibanids" text="Sibanidy"/>
+  <string id="sb.tur_hulegu" text="Chulehu"/>
+  <string id="sb.tur_ilkhanid" text="Iłchanidy"/>
+  <string id="sb.tur_gawon" text="Havon"/>
+  <string id="sb.tur_jalair" text="Džałair"/>
+  <string id="sb.tur_oirat" text="Ojrat"/>
   <string id="sb.tur_bayat" text="Bajat"/>
   <string id="sb.tur_kayi" text="Kajji"/>
   <string id="sb.tur_karaevli" text="Karaevli"/>
