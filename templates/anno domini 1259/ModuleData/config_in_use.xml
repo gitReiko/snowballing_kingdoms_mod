@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SnowConfigs>
+
+	<!-- 
+
+	Only the first SnowConfig will work. Do not create other exemplars to avoid confusion.
+
+	===
+
+	1. clan_creation_factor 
+
+	Determines how many settlements each clan should have. Once the limit is exceeded, a new clan will be created for the kingdom.
+
+	Should be a number. Use a dot to specify the decimal separator.
+
+	example / default value: clan_creation_factor="2.0"
+
+	===
+
+	2. create_every_days
+	
+	New clans will be created after a specified number of days.
+
+	The value is an integer (1 to 65535).
+
+	example / default value: create_every_days="10"
+
+	===
+
+	3. only_player_expand 
+
+	Allow clans creation only for a player.
+
+	Boolean value true or false.
+
+	example / default value: only_player_expand="false"
+
+	If you enable options only_player_expand and only_ai_expand at the same time, all will expand!!!
+
+	===
+
+	4. only_ai_expand 
+
+	Allow clans creation only for an ai.
+
+	Boolean value true or false.
+
+	example / default value: only_ai_expand="false"
+
+	If you enable options only_player_expand and only_ai_expand at the same time, all will expand!!!
+
+	===
+	
+	-->
+
+	<SnowConfig id="config"
+			  clan_creation_factor="2.0"
+			  create_every_days="10"
+			  only_player_expand="false"
+			  only_ai_expand="false"
+
+	/>
+
+</SnowConfigs>
