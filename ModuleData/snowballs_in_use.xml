@@ -870,11 +870,6 @@
 			  culture="dregovian"
 			  banner="11.134.19.1836.1836.768.788.1.0.-30.104.149.116.429.429.764.764.0.0.0" 
 	/>
-	<Snowball id="dre_sluck"
-			  name="{=sb.dre_sluck}Słuck"
-			  culture="dregovian"
-			  banner="11.14.19.1836.1836.768.788.1.0.-30.129.40.116.400.400.773.734.0.0.0.302.40.116.141.141.831.570.0.0.194.510.40.116.63.84.821.622.0.0.206.503.14.116.63.84.723.640.0.0.206" 
-	/>
 	<Snowball id="dre_kallavury"
 			  name="{=sb.dre_kallavury}Kałłavury"
 			  culture="dregovian"
