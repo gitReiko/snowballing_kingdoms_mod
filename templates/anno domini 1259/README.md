@@ -41,8 +41,9 @@ If turned off, no new clans will be created. But created clans will remain with 
 
 1. Harmony https://www.nexusmods.com/mountandblade2bannerlord/mods/2006 
 2. Native, Sandbox, SandBox Core, Story Mode 
-3. Empires of Europe 1100 https://www.nexusmods.com/mountandblade2bannerlord/mods/4867
-4. Snowballing Kingdoms https://www.nexusmods.com/mountandblade2bannerlord/mods/7715
+3. Europe Campaign Map https://www.nexusmods.com/mountandblade2bannerlord/mods/3758 
+3. Anno Domini 1259 continued https://www.nexusmods.com/mountandblade2bannerlord/mods/6723 
+4. Snowballing Kingdoms 
 
 ## Compatibility with Erik's Troops 
 
