@@ -41,9 +41,13 @@ If turned off, no new clans will be created. But created clans will remain with 
 
 1. Harmony https://www.nexusmods.com/mountandblade2bannerlord/mods/2006 
 2. Native, Sandbox, SandBox Core, Story Mode 
-3. Europe Campaign Map https://www.nexusmods.com/mountandblade2bannerlord/mods/3758 
-3. Anno Domini 1259 continued https://www.nexusmods.com/mountandblade2bannerlord/mods/6723 
-4. Snowballing Kingdoms 
+
+3. Banner Color Persistence (with BannerPaste) https://www.nexusmods.com/mountandblade2bannerlord/mods/2637
+set variable "preventNPCBannerColorChanges": true
+
+4. Europe Campaign Map https://www.nexusmods.com/mountandblade2bannerlord/mods/3758 
+5. Anno Domini 1259 continued https://www.nexusmods.com/mountandblade2bannerlord/mods/6723 
+6. Snowballing Kingdoms 
 
 ## Compatibility with Erik's Troops 
 
