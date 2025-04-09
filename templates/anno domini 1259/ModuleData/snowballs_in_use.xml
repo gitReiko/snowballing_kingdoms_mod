@@ -12,6 +12,8 @@
 	If a snowball has no name or banner, it will not be created.
 
 	No validation of banner code.
+
+	default priority 1
 	
 	-->
 

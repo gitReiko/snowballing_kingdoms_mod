@@ -71,10 +71,9 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.6
+## Update 1.0.7
 
-- removed 1 Dregovian banner
-- adaptation for Anno Domini 1259
+- added priority of banner creation (default 1)
 
 ## Current banners (total 1051)
 
@@ -83,14 +82,20 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Aestian Teutonic 4
 - Arab 30
 - Armenian 16
+- Baltic - Jatvingian 11
+- Baltic - Jatvingian Late 16
+- Baltic - Latgalian 11
+- Baltic - Lithuania 11
+- Baltic - Lithuanian Late 21
+- Baltic - Prussia 10
+- Baltic - Samogitia 11
+- Baltic - Teutonic 5
+- Baltic - Zemgalian 11
 - Berber 23
 - Bulgarian 20
 - Byzantine 24
 - Dregovian 30
 - English 20 
-- Estearn Rus – Moscow 21
-- Estearn Rus – Novgorod 10
-- Estearn Rus – Radimian 10
 - French - French 20
 - French - Crusader 20 
 - French - Latin 22 
@@ -106,22 +111,15 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Italian - Pisa 1
 - Italian - Venice 20
 - Italian 30 
-- Jatvingian 11
-- Jatvingian Late 16
 - Kryvian – Połack 25
 - Kryvian – Smolensk 10
 - Kryvian – Other duchies 4
 - Kryvian – Late 4
-- Latvian - Latgalian 11
-- Latvian - Zemgalian 11
-- Latvian - Teutonic 5
-- Lithuanian - Lithuania 11
-- Lithuanian - Prussia 10
-- Lithuanian - Samogitia 11
-- Lithuanian - Late 21
+- Kryvian – Radimian 10
 - Nordic - Denmark 26
 - Nordic - Norway 22
 - Nordic - Sweden 26
+- Novgorod 10
 - Persian 22 
 - Polish 31
 - Portuguese 22
@@ -134,6 +132,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Sicilian 21
 - Spanish – Aragon 20
 - Spanish – Castile 20
+- Suzdalian – Moscow 21
 - Turkic - Cuman 11
 - Turkic - Mongolian 24
 - Turkic - Oghuz 24
