@@ -1,6 +1,6 @@
 <Tasks>
     <GetItem>
-        <ItemId Value="xxx"/>
+        <ItemId Value="3441443434"/>
         <!-- Can be found in the URL of your workshop item -->
     </GetItem>
     <UpdateItem>
