@@ -70,14 +70,18 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 
 - added priority of banner creation (default 1)
 - id changes for the new version of Europe 1100
+- 7 new banners for Curonia
+- 5 new banners for Finland
+- 10 new banners for Karelia
+- 10 new banners for Tavastia
+- 2 new banners for Novgorod
 
-## Current banners (total 1051)
+## Current banners (total 1084)
 
 - Andalusia 23
-- Aestian 18 
-- Aestian Teutonic 4
 - Arab 30
 - Armenian 16
+- Baltic - Curonian 7
 - Baltic - Jatvingian 11
 - Baltic - Jatvingian Late 16
 - Baltic - Latgalian 11
@@ -92,6 +96,11 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Byzantine 24
 - Dregovian 30
 - English 20 
+- Finnish - Aestian 18 
+- Finnish - Aestian Teutonic 4
+- Finnish - Finnish 5 
+- Finnish - Karelian 10 
+- Finnish - Tavastian 10 
 - French - French 20
 - French - Crusader 20 
 - French - Latin 22 
@@ -115,7 +124,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Nordic - Denmark 26
 - Nordic - Norway 22
 - Nordic - Sweden 26
-- Novgorod 10
+- Novgorod 12
 - Persian 22 
 - Polish 31
 - Portuguese 22
