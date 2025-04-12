@@ -23,6 +23,31 @@
   <string id="sb.est_reval" text="Reval"/>
   <string id="sb.est_parnu" text="Pärnu"/>
   <string id="sb.est_viljandi" text="Viljandi"/>
+  <string id="sb.fin_somero" text="Somero"/>
+  <string id="sb.fin_pöylän" text="Pöylän"/>
+  <string id="sb.fin_ulvila" text="Ulvila"/>
+  <string id="sb.fin_veitakkalan" text="Veitakkalan"/>
+  <string id="sb.fin_pöytiön" text="Pöytiön"/>
+  <string id="sb.fin_lahdenpohja" text="Lahdenpohja"/>
+  <string id="sb.fin_hamina" text="Hamina"/>
+  <string id="sb.fin_ilomantsi" text="Ilomantsi"/>
+  <string id="sb.fin_kitee" text="Kitee"/>
+  <string id="sb.fin_koskenala" text="Koskenala"/>
+  <string id="sb.fin_matoksi" text="Matoksi"/>
+  <string id="sb.fin_olavinlinna" text="Olavinlinna"/>
+  <string id="sb.fin_puudosi" text="Puudosi"/>
+  <string id="sb.fin_pyhäjärvi" text="Pyhäjärvi"/>
+  <string id="sb.fin_salmi" text="Salmi"/>
+  <string id="sb.fin_hollola" text="Hollola"/>
+  <string id="sb.fin_pyhtää" text="Pyhtää"/>
+  <string id="sb.fin_nastola" text="Nastola"/>
+  <string id="sb.fin_renko" text="Renko"/>
+  <string id="sb.fin_helsinki" text="Helsinki"/>
+  <string id="sb.fin_jämsä" text="Jämsä"/>
+  <string id="sb.fin_hakoisten" text="Hakoisten"/>
+  <string id="sb.fin_hattula" text="Hattula"/>
+  <string id="sb.fin_janakkala" text="Janakkala"/>
+  <string id="sb.fin_vanaja" text="Vanaja"/>
   <string id="sb.ara_muhammad_abu_normay" text="Muhammad Abu Normay"/>
   <string id="sb.ara_ayyubid" text="Ayyubid"/>
   <string id="sb.ara_salah_ad_din" text="Salah ad-Din"/>
@@ -163,7 +188,6 @@
   <string id="sb.dre_kamianiec_litouski" text="Kamianiec-Litoŭski"/>
   <string id="sb.dre_pinsk" text="Pinsk"/>
   <string id="sb.dre_mazyr" text="Mazyr"/>
-  <string id="sb.dre_sluck" text="Słuck"/>
   <string id="sb.dre_kallavury" text="Kałłavury"/>
   <string id="sb.dre_lyckouskija" text="Łyčkoŭskija"/>
   <string id="sb.dre_pinskija" text="Pinskija"/>
@@ -188,6 +212,7 @@
   <string id="sb.dre_lahisyn" text="Łahišyn"/>
   <string id="sb.dre_niasviz" text="Niaśviž"/>
   <string id="sb.dre_vysokaje" text="Vysokaje"/>
+  <string id="sb.dre_sluck" text="Słuck"/>
   <string id="sb.eng_selby" text="Selby"/>
   <string id="sb.eng_john_everingham" text="John Everingham"/>
   <string id="sb.eng_roger_de_butterley" text="Roger de Butterley"/>
@@ -239,6 +264,8 @@
   <string id="sb.nov_russa" text="Russa"/>
   <string id="sb.nov_roxia" text="Roxia"/>
   <string id="sb.nov_stephan_pavlovic" text="Stephan Pavlovič"/>
+  <string id="sb.nov_stroganovy" text="Stroganovy"/>
+  <string id="sb.nov_seslaviny" text="Seslaviny"/>
   <string id="sb.rad_kazakievicy" text="Kazakievičy"/>
   <string id="sb.rad_cavusy" text="Čavusy"/>
   <string id="sb.rad_mscislau" text="Mścisłaŭ"/>
@@ -528,6 +555,13 @@
   <string id="sb.jat_sylinhi" text="Šylinhi"/>
   <string id="sb.jat_lubcy" text="Lubčy"/>
   <string id="sb.jat_lida" text="Lida"/>
+  <string id="sb.bal_bandava" text="Bandava"/>
+  <string id="sb.bal_ceklis" text="Ceklis"/>
+  <string id="sb.bal_duvzare" text="Duvzare"/>
+  <string id="sb.bal_pilsats" text="Pilsats"/>
+  <string id="sb.bal_vanema" text="Vanema"/>
+  <string id="sb.bal_apuole" text="Apuole"/>
+  <string id="sb.bal_kuldiga" text="Kuldiga"/>
   <string id="sb.kry_vidbiesk" text="Vidbiesk"/>
   <string id="sb.kry_miensk" text="Mieńsk"/>
   <string id="sb.kry_zaslaul" text="Žasłaŭl"/>
