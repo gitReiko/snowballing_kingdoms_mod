@@ -71,15 +71,9 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.7
+## Update 1.0.8
 
-- added priority of banner creation (default 1)
-- id changes for the new version of Europe 1100
-- 7 new banners for Curonia
-- 5 new banners for Finland
-- 10 new banners for Karelia
-- 10 new banners for Tavastia
-- 2 new banners for Novgorod
+- id changes for new version of AD1259 (1.2.12)
 
 ## Current banners (total 1084)
 
