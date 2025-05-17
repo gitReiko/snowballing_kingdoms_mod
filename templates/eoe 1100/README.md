@@ -66,17 +66,13 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.7
+## Update 1.0.9
 
-- added priority of banner creation (default 1)
-- id changes for the new version of Europe 1100
-- 7 new banners for Curonia
-- 5 new banners for Finland
-- 10 new banners for Karelia
-- 10 new banners for Tavastia
-- 2 new banners for Novgorod
+- Mongolian & Ilkhanid banners rework
+- 18 Ilkhanid banners
+- 15 Mongolian banners
 
-## Current banners (total 1084)
+## Current banners (total 1088)
 
 - Andalusia 23
 - Arab 30
@@ -109,7 +105,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - German - Teutonic 17
 - German - Bohemia 23
 - Hungary 20 
-- Ilkhanid 5 
+- Ilkhanid 18 
 - Irish 20 
 - Italian - Genoa 20
 - Italian - Papal 21
@@ -139,7 +135,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Spanish – Castile 20
 - Suzdalian – Moscow 21
 - Turkic - Cuman 11
-- Turkic - Mongolian 24
+- Turkic - Mongolian 15
 - Turkic - Oghuz 24
 - Turkic - Pecheneg 11
 - Volhynian 20

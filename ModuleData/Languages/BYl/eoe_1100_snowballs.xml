@@ -985,29 +985,32 @@
   <string id="sb.tur_batu" text="Batyj"/>
   <string id="sb.tur_mengu_timur" text="Mienhu-Cimur"/>
   <string id="sb.tur_talabuga" text="Tałabuha"/>
-  <string id="sb.tur_chagatai" text="Džahataj"/>
-  <string id="sb.tur_chagataidi" text="Džahatai"/>
-  <string id="sb.tur_kazan_timurids" text="Kazanskija Cimurydy"/>
-  <string id="sb.tur_duwa" text="Duva"/>
-  <string id="sb.tur_alghu" text="Ałhu"/>
-  <string id="sb.tur_guyuk" text="Hujuk"/>
-  <string id="sb.tur_gujuk" text="Hүjuh"/>
-  <string id="sb.tur_kaidu" text="Chajdu"/>
-  <string id="sb.tur_ogedei" text="Uhiedej"/>
-  <string id="sb.tur_ogodeids" text="Ohadei"/>
-  <string id="sb.tur_ugedeids" text="Ohadai"/>
-  <string id="sb.tur_ogedeidss" text="Uhiedei"/>
-  <string id="sb.tur_ali_khans" text="Ali Chany"/>
-  <string id="sb.tur_mongke" text="Munke"/>
   <string id="sb.tur_ariq_boke" text="Aryh-Buha"/>
   <string id="sb.tur_shybanids" text="Šybanidy"/>
   <string id="sb.tur_girays" text="Hirei"/>
   <string id="sb.tur_sibanids" text="Sibanidy"/>
+  <string id="sb.tur_tode_mangu" text="Tuda-Mienhu"/>
+  <string id="sb.tur_toqtu" text="Tokte"/>
+  <string id="sb.tur_uzbek" text="Uźbiek"/>
+  <string id="sb.tur_toktamish" text="Tachtamyš"/>
   <string id="sb.tur_hulegu" text="Chulehu"/>
   <string id="sb.tur_ilkhanid" text="Iłchanidy"/>
   <string id="sb.tur_gawon" text="Havon"/>
   <string id="sb.tur_jalair" text="Džałair"/>
   <string id="sb.tur_oirat" text="Ojrat"/>
+  <string id="sb.tur_mahmud_ghazan" text="Hazan"/>
+  <string id="sb.tur_chagatai" text="Džahataj"/>
+  <string id="sb.tur_qara_hulegu" text="Kara-Chulehu"/>
+  <string id="sb.tur_timurids" text="Cimuryd"/>
+  <string id="sb.tur_duwa" text="Duva"/>
+  <string id="sb.tur_alghu" text="Ałhu"/>
+  <string id="sb.tur_guyuk" text="Hujuk"/>
+  <string id="sb.tur_gujuk" text="Hujuh"/>
+  <string id="sb.tur_kaidu" text="Chajdu"/>
+  <string id="sb.tur_ugedei" text="Uhiedej"/>
+  <string id="sb.tur_godan" text="Hodan"/>
+  <string id="sb.tur_khashyn" text="Chašyn"/>
+  <string id="sb.tur_korachan" text="Koračan"/>
   <string id="sb.tur_bayat" text="Bajat"/>
   <string id="sb.tur_kayi" text="Kajji"/>
   <string id="sb.tur_karaevli" text="Karaevli"/>

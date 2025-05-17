@@ -985,29 +985,32 @@
   <string id="sb.tur_batu" text="Батый"/>
   <string id="sb.tur_mengu_timur" text="Менгу-Цімур"/>
   <string id="sb.tur_talabuga" text="Талабуга"/>
-  <string id="sb.tur_chagatai" text="Джагатай"/>
-  <string id="sb.tur_chagataidi" text="Джагатаі"/>
-  <string id="sb.tur_kazan_timurids" text="Казанскія Цімурыды"/>
-  <string id="sb.tur_duwa" text="Дува"/>
-  <string id="sb.tur_alghu" text="Алгу"/>
-  <string id="sb.tur_guyuk" text="Гуюк"/>
-  <string id="sb.tur_gujuk" text="Гүюг"/>
-  <string id="sb.tur_kaidu" text="Хайду"/>
-  <string id="sb.tur_ogedei" text="Угедэй"/>
-  <string id="sb.tur_ogodeids" text="Огадэі"/>
-  <string id="sb.tur_ugedeids" text="Огадаі"/>
-  <string id="sb.tur_ogedeidss" text="Угедэі"/>
-  <string id="sb.tur_ali_khans" text="Алі Ханы"/>
-  <string id="sb.tur_mongke" text="Мункэ"/>
   <string id="sb.tur_ariq_boke" text="Арыг-Буга"/>
   <string id="sb.tur_shybanids" text="Шыбаніды"/>
   <string id="sb.tur_girays" text="Гірэі"/>
   <string id="sb.tur_sibanids" text="Сібаніды"/>
+  <string id="sb.tur_tode_mangu" text="Туда-Менгу"/>
+  <string id="sb.tur_toqtu" text="Токтэ"/>
+  <string id="sb.tur_uzbek" text="Узьбек"/>
+  <string id="sb.tur_toktamish" text="Тахтамыш"/>
   <string id="sb.tur_hulegu" text="Хулегу"/>
   <string id="sb.tur_ilkhanid" text="Ілханіды"/>
   <string id="sb.tur_gawon" text="Гавон"/>
   <string id="sb.tur_jalair" text="Джалаір"/>
   <string id="sb.tur_oirat" text="Ойрат"/>
+  <string id="sb.tur_mahmud_ghazan" text="Газан"/>
+  <string id="sb.tur_chagatai" text="Джагатай"/>
+  <string id="sb.tur_qara_hulegu" text="Кара-Хулегу"/>
+  <string id="sb.tur_timurids" text="Цімурыд"/>
+  <string id="sb.tur_duwa" text="Дува"/>
+  <string id="sb.tur_alghu" text="Алгу"/>
+  <string id="sb.tur_guyuk" text="Гуюк"/>
+  <string id="sb.tur_gujuk" text="Гуюг"/>
+  <string id="sb.tur_kaidu" text="Хайду"/>
+  <string id="sb.tur_ugedei" text="Угедэй"/>
+  <string id="sb.tur_godan" text="Годан"/>
+  <string id="sb.tur_khashyn" text="Хашын"/>
+  <string id="sb.tur_korachan" text="Корачан"/>
   <string id="sb.tur_bayat" text="Баят"/>
   <string id="sb.tur_kayi" text="Кайі"/>
   <string id="sb.tur_karaevli" text="Караэвлі"/>
