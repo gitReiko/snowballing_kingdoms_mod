@@ -54,10 +54,23 @@
 	-->
 
 	<SnowConfig id="config"
-			  clan_creation_factor="2.0"
-			  create_every_days="10"
-			  only_player_expand="false"
-			  only_ai_expand="false"
+		clan_creation_factor_less_then_3_settlements="1.5"
+		clan_creation_factor_less_then_6_settlements="2.0"
+		clan_creation_factor_less_then_10_settlements="2.3"
+		clan_creation_factor_less_then_20_settlements="2.5"
+		clan_creation_factor_less_then_30_settlements="3"
+		clan_creation_factor_less_then_40_settlements="3"
+		clan_creation_factor_less_then_50_settlements="3.3"
+		clan_creation_factor_less_then_60_settlements="3.3"
+		clan_creation_factor_less_then_70_settlements="3.5"
+		clan_creation_factor_less_then_80_settlements="3.5"
+		clan_creation_factor_less_then_90_settlements="3.5"
+		clan_creation_factor_more_then_90_settlements="4"
+
+		create_every_days="10"
+		only_player_expand="false"
+		only_ai_expand="false"
+		add_new_member_after_clan_tier_increase="true"
 
 	/>
 

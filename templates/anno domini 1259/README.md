@@ -76,6 +76,22 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Mongolian & Ilkhanid banners rework
 - 18 Ilkhanid banners
 - 15 Mongolian banners
+- add new member to clan after tier increased
+- larger kingdoms require more settlements necessary to create a new clan. This will balance out the number of clans. In the game will be less clans with a small number of settlements. It will also optimize the CPU load. Also creating your own kingdom will be easier now.
+
+Ratios
+clan_creation_factor_less_then_3_settlements="1.5"
+clan_creation_factor_less_then_6_settlements="2.0"
+clan_creation_factor_less_then_10_settlements="2.3"
+clan_creation_factor_less_then_20_settlements="2.5"
+clan_creation_factor_less_then_30_settlements="3"
+clan_creation_factor_less_then_40_settlements="3"
+clan_creation_factor_less_then_50_settlements="3.3"
+clan_creation_factor_less_then_60_settlements="3.3"
+clan_creation_factor_less_then_70_settlements="3.5"
+clan_creation_factor_less_then_80_settlements="3.5"
+clan_creation_factor_less_then_90_settlements="3.5"
+clan_creation_factor_more_then_90_settlements="4"
 
 ## Current banners (total 1088)
 
