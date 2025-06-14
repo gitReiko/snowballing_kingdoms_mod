@@ -66,29 +66,15 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.9
+## Update 1.0.10
 
-- Mongolian & Ilkhanid banners rework
-- 18 Ilkhanid banners
-- 15 Mongolian banners
-- add new member to clan after tier increased
-- larger kingdoms require more settlements necessary to create a new clan. This will balance out the number of clans. In the game will be less clans with a small number of settlements. It will also optimize the CPU load. Also creating your own kingdom will be easier now.
+- 21 new Bretagne banners
+- 6 new Chernigov banners
+- 10 new Kyiv banners
+- 5 new Pereiaslav banner
+- 4 new Volhynia banners
 
-Ratios
-clan_creation_factor_less_then_3_settlements="1.5"
-clan_creation_factor_less_then_6_settlements="2.0"
-clan_creation_factor_less_then_10_settlements="2.3"
-clan_creation_factor_less_then_20_settlements="2.5"
-clan_creation_factor_less_then_30_settlements="3"
-clan_creation_factor_less_then_40_settlements="3"
-clan_creation_factor_less_then_50_settlements="3.3"
-clan_creation_factor_less_then_60_settlements="3.3"
-clan_creation_factor_less_then_70_settlements="3.5"
-clan_creation_factor_less_then_80_settlements="3.5"
-clan_creation_factor_less_then_90_settlements="3.5"
-clan_creation_factor_more_then_90_settlements="4"
-
-## Current banners (total 1088)
+## Current banners (total 1133)
 
 - Andalusia 23
 - Arab 30
@@ -115,6 +101,7 @@ clan_creation_factor_more_then_90_settlements="4"
 - Finnish - Tavastian 10 
 - French - French 20
 - French - Crusader 20 
+- French - Bretagne 21 
 - French - Latin 22 
 - Georgian 20
 - German 26
@@ -140,9 +127,9 @@ clan_creation_factor_more_then_90_settlements="4"
 - Persian 22 
 - Polish 31
 - Portuguese 22
-- Rus - Chernigov 12
-- Rus - Kyiv 10
-- Rus - Pereiaslav 9
+- Rus - Chernigov 17
+- Rus - Kyiv 20
+- Rus - Pereiaslav 14
 - Scottish 20
 - Serbian - Serbian 21
 - Serbian - Illyrian 2
@@ -154,7 +141,7 @@ clan_creation_factor_more_then_90_settlements="4"
 - Turkic - Mongolian 15
 - Turkic - Oghuz 24
 - Turkic - Pecheneg 11
-- Volhynian 20
+- Volhynian 24
 - Welsh 21
 
 ## Further plans

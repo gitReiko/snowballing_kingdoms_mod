@@ -6,7 +6,7 @@
     <UpdateItem>
         <ModuleFolder Value="C:\Program Files (x86)\Steam\steamapps\common\Mount &amp; Blade II Bannerlord\Modules\snowballing_kingdoms_mod"/>
         <!-- A direct path of your module -->   
-        <ChangeNotes Value="Update to version 1.0.8." />
+        <ChangeNotes Value="Update to version 1.0.10." />
         <!-- Insert patch notes -->
         <Tags> 
             <!-- You can use the following tags: -->

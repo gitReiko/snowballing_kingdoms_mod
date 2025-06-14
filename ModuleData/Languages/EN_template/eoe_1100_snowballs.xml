@@ -338,6 +338,27 @@
   <string id="sb.lat_sanudo" text="Sanudo"/>
   <string id="sb.lat_candavene" text="Candavene"/>
   <string id="sb.lat_lemnos" text="Lemnos"/>
+  <string id="sb.fre_bre_bro_zol" text="Bro-Zol"/>
+  <string id="sb.fre_bre_guy_de_thouars" text="Guy de Thouars"/>
+  <string id="sb.fre_bre_jean_i_de_bretagne" text="Jean I de Bretagne"/>
+  <string id="sb.fre_bre_jean_ii_de_bretagne" text="Jean II de Bretagne"/>
+  <string id="sb.fre_bre_pierre_de_dreux" text="Pierre de Dreux"/>
+  <string id="sb.fre_bre_jean_iii_de_bretagne" text="Jean III de Bretagne"/>
+  <string id="sb.fre_bre_jean_de_montfort" text="Jean de Montfort"/>
+  <string id="sb.fre_bre_charles_de_blois" text="Charles de Blois"/>
+  <string id="sb.fre_bre_vitre" text="Vitré"/>
+  <string id="sb.fre_bre_chastel" text="Chastel"/>
+  <string id="sb.fre_bre_goyon" text="Goyon"/>
+  <string id="sb.fre_bre_rieux" text="Rieux"/>
+  <string id="sb.fre_bre_rouge" text="Rougé"/>
+  <string id="sb.fre_bre_bruc" text="Bruc"/>
+  <string id="sb.fre_bre_audren_de_kerdrel" text="Audren de Kerdrel"/>
+  <string id="sb.fre_bre_cambout_de_coislin" text="Cambout de Coislin"/>
+  <string id="sb.fre_bre_saint_pern" text="Saint-Pern"/>
+  <string id="sb.fre_bre_serent" text="Sérent"/>
+  <string id="sb.fre_bre_robien" text="Robien"/>
+  <string id="sb.fre_bre_rohan" text="Rohan"/>
+  <string id="sb.fre_bre_le_lou" text="Le Lou"/>
   <string id="sb.geo_abashidze" text="Abashidze"/>
   <string id="sb.geo_agiashvili" text="Agiashvili"/>
   <string id="sb.geo_avalishvili" text="Avalishvili"/>
@@ -833,37 +854,57 @@
   <string id="sb.por_corte_real" text="Corte-Real"/>
   <string id="sb.por_ataide" text="Ataíde"/>
   <string id="sb.por_abrantes" text="Abrantes"/>
-  <string id="sb.rus_mstyslav_volodymyrovych_the_brave" text="Mstyslav Volodymyrovych the Brave"/>
-  <string id="sb.rus_smolyn" text="Smolyn"/>
-  <string id="sb.rus_shestovytsia" text="Shestovytsia"/>
-  <string id="sb.rus_blystova" text="Blystova"/>
-  <string id="sb.rus_sedniv" text="Sedniv"/>
-  <string id="sb.rus_listven" text="Listven"/>
-  <string id="sb.rus_lyubech" text="Lyubech"/>
-  <string id="sb.rus_vorhol" text="Vorhol"/>
-  <string id="sb.rus_lenkiv" text="Lenkiv"/>
-  <string id="sb.rus_lgov" text="Lgov"/>
-  <string id="sb.rus_rylsk" text="Rylsk"/>
-  <string id="sb.rus_tovstodubove" text="Tovstodubove"/>
-  <string id="sb.rus_iziaslav_i_iaroslavych" text="Iziaslav I Iaroslavych"/>
-  <string id="sb.rus_sviatoslav_i_igorovich_the_brave" text="Sviatoslav I Igorovich the Brave"/>
-  <string id="sb.rus_volodymyr_i_sviatoslavych_the_great" text="Volodymyr I Sviatoslavych the Great"/>
-  <string id="sb.rus_iaroslav_i_volodymyrovych_the_wise" text="Iaroslav I Volodymyrovych the Wise"/>
-  <string id="sb.rus_kyiv" text="Kyiv"/>
-  <string id="sb.rus_bila_tserkva" text="Bila Tserkva"/>
-  <string id="sb.rus_vyshhorod" text="Vyshhorod"/>
-  <string id="sb.rus_snitynka" text="Snitynka"/>
-  <string id="sb.rus_bohuslav" text="Bohuslav"/>
-  <string id="sb.rus_korsun" text="Korsun"/>
-  <string id="sb.rus_sviatopolk_mstyslavych" text="Sviatopolk Mstyslavych"/>
-  <string id="sb.rus_iziaslav_ii_mstyslavych" text="Iziaslav II Mstyslavych"/>
-  <string id="sb.rus_rostyslav_i_mstyslavych" text="Rostyslav I Mstyslavych"/>
-  <string id="sb.rus_oster" text="Oster"/>
-  <string id="sb.rus_nizhyn" text="Nizhyn"/>
-  <string id="sb.rus_pryluka" text="Pryluka"/>
-  <string id="sb.rus_voin" text="Voin"/>
-  <string id="sb.rus_vsevolod_i_iaroslavych" text="Vsevolod I Iaroslavych"/>
-  <string id="sb.rus_romny" text="Romny"/>
+  <string id="sb.rus_che_mstyslav_volodymyrovych_the_brave" text="Mstyslav Volodymyrovych the Brave"/>
+  <string id="sb.rus_che_smolyn" text="Smolyn"/>
+  <string id="sb.rus_che_shestovytsia" text="Shestovytsia"/>
+  <string id="sb.rus_che_blystova" text="Blystova"/>
+  <string id="sb.rus_che_sedniv" text="Sedniv"/>
+  <string id="sb.rus_che_listven" text="Listven"/>
+  <string id="sb.rus_che_lyubech" text="Lyubech"/>
+  <string id="sb.rus_che_vorhol" text="Vorhol"/>
+  <string id="sb.rus_che_lenkiv" text="Lenkiv"/>
+  <string id="sb.rus_che_lgov" text="Lgov"/>
+  <string id="sb.rus_che_rylsk" text="Rylsk"/>
+  <string id="sb.rus_che_tovstodubove" text="Tovstodubove"/>
+  <string id="sb.rus_che_novhorod_siverskyi" text="Novhorod-Siverskyi"/>
+  <string id="sb.rus_che_nizhyn" text="Nizhyn"/>
+  <string id="sb.rus_che_baturyn" text="Baturyn"/>
+  <string id="sb.rus_che_kozelets" text="Kozelets"/>
+  <string id="sb.rus_che_horodnia_chernihivska" text="Horodnia Chernihivska"/>
+  <string id="sb.rus_kyi_iziaslav_i_iaroslavych" text="Iziaslav I Iaroslavych"/>
+  <string id="sb.rus_kyi_sviatoslav_i_igorovich_the_brave" text="Sviatoslav I Igorovich the Brave"/>
+  <string id="sb.rus_kyi_volodymyr_i_sviatoslavych_the_great" text="Volodymyr I Sviatoslavych the Great"/>
+  <string id="sb.rus_kyi_iaroslav_i_volodymyrovych_the_wise" text="Iaroslav I Volodymyrovych the Wise"/>
+  <string id="sb.rus_kyi_kyiv" text="Kyiv"/>
+  <string id="sb.rus_kyi_bila_tserkva" text="Bila Tserkva"/>
+  <string id="sb.rus_kyi_vyshhorod" text="Vyshhorod"/>
+  <string id="sb.rus_kyi_snitynka" text="Snitynka"/>
+  <string id="sb.rus_kyi_motyzhyn" text="Motyzhyn"/>
+  <string id="sb.rus_kyi_korsun" text="Korsun"/>
+  <string id="sb.rus_kyi_zhytomyr" text="Zhytomyr"/>
+  <string id="sb.rus_kyi_khmilnyk" text="Khmilnyk"/>
+  <string id="sb.rus_kyi_moshny" text="Moshny"/>
+  <string id="sb.rus_kyi_chyhyryn" text="Chyhyryn"/>
+  <string id="sb.rus_kyi_medzhybizh" text="Medzhybizh"/>
+  <string id="sb.rus_kyi_tetiiv" text="Tetiiv"/>
+  <string id="sb.rus_kyi_skvyra" text="Skvyra"/>
+  <string id="sb.rus_kyi_bohuslav" text="Bohuslav"/>
+  <string id="sb.rus_kyi_lysianka" text="Lysianka"/>
+  <string id="sb.rus_kyi_korostyshiv" text="Korostyshiv"/>
+  <string id="sb.rus_per_sviatopolk_mstyslavych" text="Sviatopolk Mstyslavych"/>
+  <string id="sb.rus_per_iziaslav_ii_mstyslavych" text="Iziaslav II Mstyslavych"/>
+  <string id="sb.rus_per_rostyslav_i_mstyslavych" text="Rostyslav I Mstyslavych"/>
+  <string id="sb.rus_per_zhovnine" text="Zhovnine"/>
+  <string id="sb.rus_per_sary" text="Sary"/>
+  <string id="sb.rus_per_snityn" text="Snityn"/>
+  <string id="sb.rus_per_voin" text="Voin"/>
+  <string id="sb.rus_per_vsevolod_i_iaroslavych" text="Vsevolod I Iaroslavych"/>
+  <string id="sb.rus_per_romny" text="Romny"/>
+  <string id="sb.rus_per_myrhorod" text="Myrhorod"/>
+  <string id="sb.rus_per_lubny" text="Lubny"/>
+  <string id="sb.rus_per_pyriatyn" text="Pyriatyn"/>
+  <string id="sb.rus_per_oster" text="Oster"/>
+  <string id="sb.rus_per_pryluki" text="Pryluki"/>
   <string id="sb.sco_fairfax" text="Fairfax"/>
   <string id="sb.sco_boswell" text="Boswell"/>
   <string id="sb.sco_maclellan" text="MacLellan"/>
@@ -1067,6 +1108,10 @@
   <string id="sb.vol_kostyushkovych" text="Kostyushkovych"/>
   <string id="sb.vol_moshynski" text="Moshynski"/>
   <string id="sb.vol_dashkevych" text="Dashkevych"/>
+  <string id="sb.vol_horodok_halytskyi" text="Horodok Halytskyi "/>
+  <string id="sb.vol_sudova_vyshnia" text="Sudova Vyshnia"/>
+  <string id="sb.vol_belz" text="Belz"/>
+  <string id="sb.vol_zhydachiv" text="Zhydachiv"/>
   <string id="sb.wel_gwynedd" text="Gwynedd"/>
   <string id="sb.wel_powys" text="Powys"/>
   <string id="sb.wel_powys_fadog" text="Powys Fadog"/>

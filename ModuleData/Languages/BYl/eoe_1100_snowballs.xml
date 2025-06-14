@@ -338,6 +338,27 @@
   <string id="sb.lat_sanudo" text="Sanuda"/>
   <string id="sb.lat_candavene" text="Kandaviene"/>
   <string id="sb.lat_lemnos" text="Lemnos"/>
+  <string id="sb.fre_bre_bro_zol" text="Bro-Zoł"/>
+  <string id="sb.fre_bre_guy_de_thouars" text="Hij du Tuar"/>
+  <string id="sb.fre_bre_jean_i_de_bretagne" text="Žoan I du Brutań"/>
+  <string id="sb.fre_bre_jean_ii_de_bretagne" text="Žoan II du Brutań"/>
+  <string id="sb.fre_bre_pierre_de_dreux" text="Pjer du Dru"/>
+  <string id="sb.fre_bre_jean_iii_de_bretagne" text="Žoan III du Brutań"/>
+  <string id="sb.fre_bre_jean_de_montfort" text="Žoan du Munfor"/>
+  <string id="sb.fre_bre_charles_de_blois" text="Šarle du Błua"/>
+  <string id="sb.fre_bre_vitre" text="Vitre"/>
+  <string id="sb.fre_bre_chastel" text="Šastel"/>
+  <string id="sb.fre_bre_goyon" text="Huajon"/>
+  <string id="sb.fre_bre_rieux" text="Ryju"/>
+  <string id="sb.fre_bre_rouge" text="Ružy"/>
+  <string id="sb.fre_bre_bruc" text="Bruk"/>
+  <string id="sb.fre_bre_audren_de_kerdrel" text="Odren du Kierdrel"/>
+  <string id="sb.fre_bre_cambout_de_coislin" text="Kambu du Kojślin"/>
+  <string id="sb.fre_bre_saint_pern" text="San-Piern"/>
+  <string id="sb.fre_bre_serent" text="Siro"/>
+  <string id="sb.fre_bre_robien" text="Robjen"/>
+  <string id="sb.fre_bre_rohan" text="Roan"/>
+  <string id="sb.fre_bre_le_lou" text="Lo Lu"/>
   <string id="sb.geo_abashidze" text="Abašydze"/>
   <string id="sb.geo_agiashvili" text="Ahiašvili"/>
   <string id="sb.geo_avalishvili" text="Avališvili"/>
@@ -833,37 +854,57 @@
   <string id="sb.por_corte_real" text="Kort-Ryjał"/>
   <string id="sb.por_ataide" text="Ataide"/>
   <string id="sb.por_abrantes" text="Abranteš"/>
-  <string id="sb.rus_mstyslav_volodymyrovych_the_brave" text="Mstysłav Vołodymyrovič Advažny"/>
-  <string id="sb.rus_smolyn" text="Smołyn"/>
-  <string id="sb.rus_shestovytsia" text="Šestovycia"/>
-  <string id="sb.rus_blystova" text="Błystova"/>
-  <string id="sb.rus_sedniv" text="Siedniv"/>
-  <string id="sb.rus_listven" text="Listvien"/>
-  <string id="sb.rus_lyubech" text="Lubieč"/>
-  <string id="sb.rus_vorhol" text="Vorhał"/>
-  <string id="sb.rus_lenkiv" text="Lenkiv"/>
-  <string id="sb.rus_lgov" text="Lhov"/>
-  <string id="sb.rus_rylsk" text="Rylsk"/>
-  <string id="sb.rus_tovstodubove" text="Tovstadubovie"/>
-  <string id="sb.rus_iziaslav_i_iaroslavych" text="Iziasłav I Jarosłavyč"/>
-  <string id="sb.rus_sviatoslav_i_igorovich_the_brave" text="Śviatosłav I Ihorovyč Advažny"/>
-  <string id="sb.rus_volodymyr_i_sviatoslavych_the_great" text="Vołodymyr I Śviatosłavyč Vialiki"/>
-  <string id="sb.rus_iaroslav_i_volodymyrovych_the_wise" text="Jarosłav I Vołodymyrovyč Mudry"/>
-  <string id="sb.rus_kyiv" text="Kyiv"/>
-  <string id="sb.rus_bila_tserkva" text="Biła Cierkva"/>
-  <string id="sb.rus_vyshhorod" text="Vyšhorod"/>
-  <string id="sb.rus_snitynka" text="Śnitynka"/>
-  <string id="sb.rus_bohuslav" text="Bohusłav"/>
-  <string id="sb.rus_korsun" text="Korsuń"/>
-  <string id="sb.rus_sviatopolk_mstyslavych" text="Śviatopołk Mstysłavyč"/>
-  <string id="sb.rus_iziaslav_ii_mstyslavych" text="Iziasłav II Mstysłavyč"/>
-  <string id="sb.rus_rostyslav_i_mstyslavych" text="Rostysłav I Mstysłavyč"/>
-  <string id="sb.rus_oster" text="Oster"/>
-  <string id="sb.rus_nizhyn" text="Nižyn"/>
-  <string id="sb.rus_pryluka" text="Pryłuka"/>
-  <string id="sb.rus_voin" text="Voin"/>
-  <string id="sb.rus_vsevolod_i_iaroslavych" text="Vsievołod I Jarosłavyč"/>
-  <string id="sb.rus_romny" text="Romny"/>
+  <string id="sb.rus_che_mstyslav_volodymyrovych_the_brave" text="Mstysłav Vołodymyrovič Advažny"/>
+  <string id="sb.rus_che_smolyn" text="Smołyn"/>
+  <string id="sb.rus_che_shestovytsia" text="Šestovycia"/>
+  <string id="sb.rus_che_blystova" text="Błystova"/>
+  <string id="sb.rus_che_sedniv" text="Siedniv"/>
+  <string id="sb.rus_che_listven" text="Listvien"/>
+  <string id="sb.rus_che_lyubech" text="Lubieč"/>
+  <string id="sb.rus_che_vorhol" text="Vorhał"/>
+  <string id="sb.rus_che_lenkiv" text="Lenkiv"/>
+  <string id="sb.rus_che_lgov" text="Lhov"/>
+  <string id="sb.rus_che_rylsk" text="Rylsk"/>
+  <string id="sb.rus_che_tovstodubove" text="Tovstadubovie"/>
+  <string id="sb.rus_che_novhorod_siverskyi" text="Noŭharad-Sivierski"/>
+  <string id="sb.rus_che_nizhyn" text="Nižyn"/>
+  <string id="sb.rus_che_baturyn" text="Baturyn"/>
+  <string id="sb.rus_che_kozelets" text="Kozielec"/>
+  <string id="sb.rus_che_horodnia_chernihivska" text="Harodnia Čarnihaŭskaja"/>
+  <string id="sb.rus_kyi_iziaslav_i_iaroslavych" text="Iziasłav I Jarosłavyč"/>
+  <string id="sb.rus_kyi_sviatoslav_i_igorovich_the_brave" text="Śviatosłav I Ihorovyč Advažny"/>
+  <string id="sb.rus_kyi_volodymyr_i_sviatoslavych_the_great" text="Vołodymyr I Śviatosłavyč Vialiki"/>
+  <string id="sb.rus_kyi_iaroslav_i_volodymyrovych_the_wise" text="Jarosłav I Vołodymyrovyč Mudry"/>
+  <string id="sb.rus_kyi_kyiv" text="Kyiv"/>
+  <string id="sb.rus_kyi_bila_tserkva" text="Biła Cierkva"/>
+  <string id="sb.rus_kyi_vyshhorod" text="Vyšhorod"/>
+  <string id="sb.rus_kyi_snitynka" text="Śnitynka"/>
+  <string id="sb.rus_kyi_motyzhyn" text="Motyžyn"/>
+  <string id="sb.rus_kyi_korsun" text="Korsuń"/>
+  <string id="sb.rus_kyi_zhytomyr" text="Žytomyr"/>
+  <string id="sb.rus_kyi_khmilnyk" text="Chmilnik"/>
+  <string id="sb.rus_kyi_moshny" text="Mošny"/>
+  <string id="sb.rus_kyi_chyhyryn" text="Čyhyryn"/>
+  <string id="sb.rus_kyi_medzhybizh" text="Miedžybiž"/>
+  <string id="sb.rus_kyi_tetiiv" text="Cieciiv"/>
+  <string id="sb.rus_kyi_skvyra" text="Skvyra"/>
+  <string id="sb.rus_kyi_bohuslav" text="Bohusłav"/>
+  <string id="sb.rus_kyi_lysianka" text="Łysianka"/>
+  <string id="sb.rus_kyi_korostyshiv" text="Korastyšin"/>
+  <string id="sb.rus_per_sviatopolk_mstyslavych" text="Śviatopołk Mstysłavyč"/>
+  <string id="sb.rus_per_iziaslav_ii_mstyslavych" text="Iziasłav II Mstysłavyč"/>
+  <string id="sb.rus_per_rostyslav_i_mstyslavych" text="Rostysłav I Mstysłavyč"/>
+  <string id="sb.rus_per_zhovnine" text="Žovnine"/>
+  <string id="sb.rus_per_sary" text="Sary"/>
+  <string id="sb.rus_per_snityn" text="Śnityn"/>
+  <string id="sb.rus_per_voin" text="Voin"/>
+  <string id="sb.rus_per_vsevolod_i_iaroslavych" text="Vsievołod I Jarosłavyč"/>
+  <string id="sb.rus_per_romny" text="Romny"/>
+  <string id="sb.rus_per_myrhorod" text="Myrhorad"/>
+  <string id="sb.rus_per_lubny" text="Łubny"/>
+  <string id="sb.rus_per_pyriatyn" text="Pyratyn"/>
+  <string id="sb.rus_per_oster" text="Oster"/>
+  <string id="sb.rus_per_pryluki" text="Pryłuki"/>
   <string id="sb.sco_fairfax" text="Ferfaks"/>
   <string id="sb.sco_boswell" text="Bosveł"/>
   <string id="sb.sco_maclellan" text="MakLełłan"/>
@@ -985,6 +1026,7 @@
   <string id="sb.tur_batu" text="Batyj"/>
   <string id="sb.tur_mengu_timur" text="Mienhu-Cimur"/>
   <string id="sb.tur_talabuga" text="Tałabuha"/>
+  <string id="sb.tur_mongke" text="Munkie"/>
   <string id="sb.tur_ariq_boke" text="Aryh-Buha"/>
   <string id="sb.tur_shybanids" text="Šybanidy"/>
   <string id="sb.tur_girays" text="Hirei"/>
@@ -1066,6 +1108,10 @@
   <string id="sb.vol_kostyushkovych" text="Kościuŭkovyč"/>
   <string id="sb.vol_moshynski" text="Mošynski"/>
   <string id="sb.vol_dashkevych" text="Daškievyč"/>
+  <string id="sb.vol_horodok_halytskyi" text="Haradok Hałycki "/>
+  <string id="sb.vol_sudova_vyshnia" text="Sudova Vyšnia"/>
+  <string id="sb.vol_belz" text="Bielz"/>
+  <string id="sb.vol_zhydachiv" text="Žydačiv"/>
   <string id="sb.wel_gwynedd" text="Hvined"/>
   <string id="sb.wel_powys" text="Povis"/>
   <string id="sb.wel_powys_fadog" text="Povis Fadoh"/>
