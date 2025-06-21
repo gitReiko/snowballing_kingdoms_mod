@@ -832,6 +832,33 @@
   <string id="sb.pol_zabawski" text="Zabawski"/>
   <string id="sb.pol_labunski" text="Łabuński"/>
   <string id="sb.pol_wroblewski" text="Wroblewski"/>
+  <string id="sb.pol_mas_dobieslaw_sowka" text="Dobiesław Sówka"/>
+  <string id="sb.pol_mas_bartlomiej_belski" text="Bartłomiej Belski"/>
+  <string id="sb.pol_mas_mikolaj_waz_bogacki" text="Mikołaj Wąż Bogacki"/>
+  <string id="sb.pol_mas_andrzej_ciechomski" text="Andrzej Ciechomski"/>
+  <string id="sb.pol_mas_wigand_ciolek" text="Wigand Ciołek"/>
+  <string id="sb.pol_mas_jakub_glowinski" text="Jakub Głowiński"/>
+  <string id="sb.pol_mas_jakub_golynski" text="Jakub Gołyński"/>
+  <string id="sb.pol_mas_klemens_pierzchala" text="Klemens Pierzchała"/>
+  <string id="sb.pol_mas_piotr_pilik" text="Piotr Pilik"/>
+  <string id="sb.pol_mas_czersk" text="Czersk"/>
+  <string id="sb.pol_mas_warszawa" text="Warszawa"/>
+  <string id="sb.pol_mas_jan_wysoki" text="Jan Wysoki"/>
+  <string id="sb.pol_pom_szczecin" text="Szczecin"/>
+  <string id="sb.pol_pom_wolgast" text="Wolgast"/>
+  <string id="sb.pol_pom_stargard" text="Stargard"/>
+  <string id="sb.pol_pom_vizlav" text="Vizlav"/>
+  <string id="sb.pol_pom_borko" text="Borko"/>
+  <string id="sb.pol_pom_flemming" text="Flemming"/>
+  <string id="sb.pol_pom_lancken" text="Lancken"/>
+  <string id="sb.pol_pom_normann" text="Normann"/>
+  <string id="sb.pol_pom_platen" text="Platen"/>
+  <string id="sb.pol_pom_randow" text="Randow"/>
+  <string id="sb.pol_pom_schwerin" text="Schwerin"/>
+  <string id="sb.pol_pom_vangerow" text="Vangerow"/>
+  <string id="sb.pol_pom_dewitz" text="Dewitz"/>
+  <string id="sb.pol_pom_gristow" text="Gristow"/>
+  <string id="sb.pol_pom_hertzberg" text="Hertzberg"/>
   <string id="sb.por_avis" text="Avis"/>
   <string id="sb.por_borgonha" text="Borgonha"/>
   <string id="sb.por_braganca" text="Bragança"/>
