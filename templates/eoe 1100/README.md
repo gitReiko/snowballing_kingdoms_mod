@@ -70,6 +70,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 
 - 35 reworked & added Połack banners
 - 22 reworked & added Novgorod banners
+- 13 new Smolensk banners
 
 ## Current banners (total 1160)
 
@@ -113,7 +114,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Italian - Venice 20
 - Italian 30 
 - Kryvian – Połack 35
-- Kryvian – Smolensk 10
+- Kryvian – Smolensk 23
 - Kryvian – Other duchies 4
 - Kryvian – Radimian 10
 - Nordic - Denmark 26
