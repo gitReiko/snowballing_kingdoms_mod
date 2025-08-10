@@ -70,9 +70,10 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 
 - 35 reworked & added Połack banners
 - 22 reworked & added Novgorod banners
+- 9 reworked Radimian banners
 - 13 new Smolensk banners
 
-## Current banners (total 1160)
+## Current banners (total 1188)
 
 - Andalusia 23
 - Arab 30
@@ -116,7 +117,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Kryvian – Połack 35
 - Kryvian – Smolensk 23
 - Kryvian – Other duchies 4
-- Kryvian – Radimian 10
+- Kryvian – Radimian 9
 - Nordic - Denmark 26
 - Nordic - Norway 22
 - Nordic - Sweden 26
