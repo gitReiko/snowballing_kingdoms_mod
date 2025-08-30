@@ -71,6 +71,7 @@
 		only_player_expand="false"
 		only_ai_expand="false"
 		add_new_member_after_clan_tier_increase="true"
+		new_members_limit_after_clan_tier_increase="8"
 
 	/>
 

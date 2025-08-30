@@ -71,12 +71,9 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.12
+## Update 1.0.13
 
-- 35 reworked & added Połack banners
-- 22 reworked & added Novgorod banners
-- 9 reworked Radimian banners
-- 13 new Smolensk banners
+- added a configurable limit for new members after increasing the clan level
 
 ## Current banners (total 1188)
 
