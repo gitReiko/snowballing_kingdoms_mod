@@ -79,8 +79,9 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 ## Update 1.0.13
 
 - added a configurable limit for new members after increasing the clan level
+- 10 new England banners
 
-## Current banners (total 1188)
+## Current banners (total 1198)
 
 - Andalusia 23
 - Arab 30
@@ -99,7 +100,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Bulgarian 20
 - Byzantine 24
 - Dregovian 30
-- English 20 
+- English 30 
 - Finnish - Aestian 18 
 - Finnish - Aestian Teutonic 4
 - Finnish - Finnish 5 
