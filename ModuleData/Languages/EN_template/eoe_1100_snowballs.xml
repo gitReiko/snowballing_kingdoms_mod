@@ -140,6 +140,26 @@
   <string id="sb.anda_velez_malaga" text="Vélez-Málaga"/>
   <string id="sb.anda_loja" text="Loja"/>
   <string id="sb.anda_preigo" text="Preigo"/>
+  <string id="sb.bos_tvartkovich" text="Tvartkovich"/>
+  <string id="sb.bos_kastrioti" text="Kastrioti"/>
+  <string id="sb.bos_zlatonosovic" text="Zlatonosović"/>
+  <string id="sb.bos_nikolic" text="Nikolić"/>
+  <string id="sb.bos_hrvatinic" text="Hrvatinić"/>
+  <string id="sb.bos_dinjcic" text="Dinjčić"/>
+  <string id="sb.bos_kosacic" text="Kosačić"/>
+  <string id="sb.bos_berislavic" text="Berislavić"/>
+  <string id="sb.bos_kristic" text="Kristić"/>
+  <string id="sb.bos_ostojic" text="Ostojić"/>
+  <string id="sb.bos_alaupovic" text="Alaupović"/>
+  <string id="sb.bos_bilosevic" text="Bilošević"/>
+  <string id="sb.bos_jamometic" text="Jamometić"/>
+  <string id="sb.bos_radijelovic" text="Radijelović"/>
+  <string id="sb.bos_kovacic" text="Kovačić"/>
+  <string id="sb.bos_vukotic" text="Vukotić"/>
+  <string id="sb.bos_vojkovic" text="Vojković"/>
+  <string id="sb.bos_tasovcic" text="Tasovčić"/>
+  <string id="sb.bos_predojevic" text="Predojević"/>
+  <string id="sb.bos_kopcic" text="Kopčić"/>
   <string id="sb.bul_dulo" text="Dulo"/>
   <string id="sb.bul_asenid" text="Asenid"/>
   <string id="sb.bul_sratsimir" text="Sratsimir"/>
@@ -1009,8 +1029,6 @@
   <string id="sb.ser_hrebeljanovic" text="Hrebeljanović"/>
   <string id="sb.ser_jugovic" text="Jugović"/>
   <string id="sb.ser_kotromanic" text="Kotromanić"/>
-  <string id="sb.ser_tvartkovich" text="Tvartkovich"/>
-  <string id="sb.ser_kastrioti" text="Kastrioti"/>
   <string id="sb.sic_galletti" text="Galletti"/>
   <string id="sb.sic_manno" text="Manno"/>
   <string id="sb.sic_paladini" text="Paladini"/>
