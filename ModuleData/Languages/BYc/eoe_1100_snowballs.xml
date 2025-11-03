@@ -160,6 +160,26 @@
   <string id="sb.bos_tasovcic" text="Тасовчыч"/>
   <string id="sb.bos_predojevic" text="Прэдоевіч"/>
   <string id="sb.bos_kopcic" text="Копчыч"/>
+  <string id="sb.cro_babonic" text="Бабоніч"/>
+  <string id="sb.cro_crijevic" text="Крыевіч"/>
+  <string id="sb.cro_gorjanski" text="Горанскі"/>
+  <string id="sb.cro_gucetic" text="Гучэтыч"/>
+  <string id="sb.cro_gundulic" text="Гундуліч"/>
+  <string id="sb.cro_kabuzic" text="Кабужыч"/>
+  <string id="sb.cro_konjski" text="Коньскі"/>
+  <string id="sb.cro_mencetic" text="Менчэтыч"/>
+  <string id="sb.cro_mlinaric" text="Млынарыч"/>
+  <string id="sb.cro_palmotic" text="Палмотыч"/>
+  <string id="sb.cro_saraka" text="Сарака"/>
+  <string id="sb.cro_sorkocevic" text="Соркачэвіч"/>
+  <string id="sb.cro_tudisevic" text="Тудышэвіч"/>
+  <string id="sb.cro_vlasic" text="Влашыч"/>
+  <string id="sb.cro_vrancic" text="Вранчыч"/>
+  <string id="sb.cro_franic" text="Франіч"/>
+  <string id="sb.cro_cubretic" text="Чубрэтыч"/>
+  <string id="sb.cro_ruzerevic" text="Ружэрэвіч"/>
+  <string id="sb.cro_nasic" text="Нашыч"/>
+  <string id="sb.cro_bibic" text="Бібіч"/>
   <string id="sb.bul_dulo" text="Дуло"/>
   <string id="sb.bul_asenid" text="Асэніды"/>
   <string id="sb.bul_sratsimir" text="Срацімір"/>

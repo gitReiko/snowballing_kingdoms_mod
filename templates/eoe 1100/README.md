@@ -69,6 +69,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 ## Update 1.0.15
 
 - 20 new Bosnian banners
+- 20 new Croatian banners
 
 ## Current banners (total 1216)
 
@@ -89,6 +90,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Berber 23
 - Bulgarian 20
 - Byzantine 24
+- Croatian 20
 - Dregovian 30
 - English 30 
 - Finnish - Aestian 18 

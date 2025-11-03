@@ -160,6 +160,26 @@
   <string id="sb.bos_tasovcic" text="Tasovčić"/>
   <string id="sb.bos_predojevic" text="Predojević"/>
   <string id="sb.bos_kopcic" text="Kopčić"/>
+  <string id="sb.cro_babonic" text="Babonić"/>
+  <string id="sb.cro_crijevic" text="Crijević"/>
+  <string id="sb.cro_gorjanski" text="Gorjanski"/>
+  <string id="sb.cro_gucetic" text="Gučetić"/>
+  <string id="sb.cro_gundulic" text="Gundulić"/>
+  <string id="sb.cro_kabuzic" text="Kabužić"/>
+  <string id="sb.cro_konjski" text="Konjski"/>
+  <string id="sb.cro_mencetic" text="Menčetić"/>
+  <string id="sb.cro_mlinaric" text="Mlinarić"/>
+  <string id="sb.cro_palmotic" text="Palmotić"/>
+  <string id="sb.cro_saraka" text="Saraka"/>
+  <string id="sb.cro_sorkocevic" text="Sorkočević"/>
+  <string id="sb.cro_tudisevic" text="Tudišević"/>
+  <string id="sb.cro_vlasic" text="Vlašić"/>
+  <string id="sb.cro_vrancic" text="Vrančić"/>
+  <string id="sb.cro_franic" text="Franić"/>
+  <string id="sb.cro_cubretic" text="Čubretić"/>
+  <string id="sb.cro_ruzerevic" text="Ružerević"/>
+  <string id="sb.cro_nasic" text="Našić"/>
+  <string id="sb.cro_bibic" text="Bibić"/>
   <string id="sb.bul_dulo" text="Dulo"/>
   <string id="sb.bul_asenid" text="Asenid"/>
   <string id="sb.bul_sratsimir" text="Sratsimir"/>
