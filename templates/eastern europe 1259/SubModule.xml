@@ -1,15 +1,15 @@
 <Module>
 	<Name value="Snowballing Kingdoms - EE 1259"/>
 	<Id value="SnowballingKingdoms - EE 1259"/>
-	<Version value="v1.0.15"/>
+	<Version value="v1.0.16"/>
 	<DefaultModule value="false"/>
 	<ModuleCategory value="Singleplayer"/>
 	<Official value="false"/>
 	<DependedModules>
-		<DependedModule Id="Native" DependentVersion="v1.2.12"/>
-		<DependedModule Id="SandBoxCore" DependentVersion="v1.2.12"/>
-		<DependedModule Id="Sandbox" DependentVersion="v1.2.12"/>
-		<DependedModule Id="StoryMode" DependentVersion="v1.2.12"/>
+		<DependedModule Id="Native" DependentVersion="v1.3.14"/>
+		<DependedModule Id="SandBoxCore" DependentVersion="v1.3.14"/>
+		<DependedModule Id="Sandbox" DependentVersion="v1.3.14"/>
+		<DependedModule Id="StoryMode" DependentVersion="v1.3.14"/>
 	</DependedModules>
 
     <SubModules>

@@ -66,10 +66,9 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.15
+## Update 1.0.16
 
-- 20 new Bosnian banners
-- 20 new Croatian banners
+- stability update (14 years without crashes in test run)
 
 ## Current banners (total 1216)
 
