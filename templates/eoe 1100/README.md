@@ -68,7 +68,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 
 ## Update 1.0.17
 
-- pomerania, poland, bohemia banners tune for expanded 1100
+- bohemia, bretagne, croatia, pomerania, poland, portugal, wales banners tune for expanded 1100
 
 ## Current banners (total 1216)
 
