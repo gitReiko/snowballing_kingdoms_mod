@@ -76,11 +76,22 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.16
+## Update 1.0.17
 
-- stability update (14 years without crashes in test run)
+- Bohemia, Bretagne, Croatia, Pomerania, Poland, Portugal, Wales banners tune for expanded 1100
+- 21 new German - Bavaria banners
+- 1 new German - Carinthia banners
+- 8 new German - Franconia banners
+- 14 new German - Lotharingia banners
+- 20 new German - Netherlands banners
+- 22 new German - Saxony banners
+- 21 new German - Swabia banners
+- 4 new German - Teutonic Estonians banners
+- 15 new German - Teutonic Germans banners
+- 5 new German - Teutonic Latvians banners
+- 17 new German - Wends banners
 
-## Current banners (total 1216)
+## Current banners (total 1326)
 
 - Andalusia 23
 - Arab 30
@@ -95,6 +106,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Baltic - Samogitia 11
 - Baltic - Teutonic 5
 - Baltic - Zemgalian 11
+- Bohemia 23
 - Bosnian 20
 - Berber 23
 - Bulgarian 20
@@ -112,9 +124,17 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - French - Bretagne 21 
 - French - Latin 22 
 - Georgian 20
-- German 26
-- German - Teutonic 17
-- German - Bohemia 23
+- German - Bavaria 21
+- German - Carinthia 1
+- German - Franconia 8
+- German - Lotharingia 14
+- German - Netherlands 20
+- German - Saxony 22
+- German - Swabia 21
+- German - Teutonic Estonians 4
+- German - Teutonic Germans 15
+- German - Teutonic Latvians 5
+- German - Wends 17
 - Hungary 20 
 - Ilkhanid 18 
 - Irish 20 
