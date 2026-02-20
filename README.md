@@ -1,33 +1,30 @@
 
-## Localization
+## Summary
 
-Belarusian, English
+Spawns new clans for kingdoms that conquer new settlements. This allows you to play for your favorite kingdom or create your own. Just capture settlements. Other kingdoms are also strengthening (this creates challenge even at late stage).
 
-Translation template is available inside the mod. You can translate mod into another language. I can add your translation into this mod or you can make your own separate mod with translation.
+## Default clans spawn
+
+2  settlements spawns 2  clans  ||  48  settlements spawns 16 clans
+5  settlements spawns 3  clans  ||  57  settlements spawns 17 clans
+8  settlements spawns 4  clans  ||  60  settlements spawns 18 clans
+12 settlements spawns 5  clans  ||  63  settlements spawns 19 clans
+14 settlements spawns 6  clans  ||  66  settlements spawns 20 clans
+17 settlements spawns 7  clans  ||  74  settlements spawns 21 clans
+19 settlements spawns 8  clans  ||  77  settlements spawns 22 clans
+23 settlements spawns 9  clans  ||  81  settlements spawns 23 clans
+25 settlements spawns 10 clans  ||  84  settlements spawns 24 clans
+28 settlements spawns 11 clans  ||  88  settlements spawns 25 clans
+36 settlements spawns 12 clans  ||  104 settlements spawns 26 clans
+39 settlements spawns 13 clans  ||  108 settlements spawns 27 clans
+42 settlements spawns 14 clans  ||  112 settlements spawns 28 clans
+45 settlements spawns 15 clans  ||  spawns new clan for every 4 new settlements
 
 ## Banners codes
 
 Players only. If you are a modder, contact me.
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=3427239636 
-
-## What is it?
-
-This mod adds new clans from pre-made templates to all kingdoms every 10 days if the kingdom has enough settlements.
-
-If there are more than X settlements per kingdom clan (only cities and castles are counted), a new clan will be created.
-
-The pre-made templates have name and banner. Clan members are randomly generated in several ways.
-
-(The settlement ratio and number of days can be changed in the mod config.)
-
-## What that gives?
-
-1. You can create your own kingdom, such as Wales, and Welsh clans will join you. Just create kingdom with Welsh culture and capture new settlements. All cultures are supported at this moment.
-
-2. Join your favorite kingdom and play. It will automatically expand as you capture settlements. You don't need to be a king for this. The new clans will fit the culture of the kingdom and sometimes the kingdom itself. For example, Aragon will only get Aragon clans at first.
-
-3. Theoretically the game will throw challenges at every stage, even in the endgame. Since there will always be very powerful kingdoms.
 
 ## When possible enable/disable mod?
 
@@ -174,6 +171,12 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 Fix. Save and load the game. Or wait a few weeks.
 
 Most likely this bug cannot be fixed, something with the code of the game itself.
+
+## Localization
+
+Belarusian, English
+
+Translation template is available inside the mod. You can translate mod into another language. I can add your translation into this mod or you can make your own separate mod with translation.
 
 ## Thanks
 
