@@ -70,6 +70,8 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 
 ## Update 1.0.17
 
+Lscd88 gave permission to use his works. Therefore, the new collection of banners is super high quality and beautiful, especially the lions and other animals. Improvements to all banners are planned.
+
 - Bohemia, Bretagne, Croatia, Pomerania, Poland, Portugal, Wales banners tune for expanded 1100
 - 21 new German - Bavaria banners
 - 1 new German - Carinthia banners
@@ -116,17 +118,17 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - French - Bretagne 21 
 - French - Latin 22 
 - Georgian 20
-- German - Bavaria 21
-- German - Carinthia 1
-- German - Franconia 8
-- German - Lotharingia 14
-- German - Netherlands 20
-- German - Saxony 22
-- German - Swabia 21
-- German - Teutonic Estonians 4
-- German - Teutonic Germans 15
-- German - Teutonic Latvians 5
-- German - Wends 17
+- German - Bavaria 21 (quality+)
+- German - Carinthia 1 (quality+)
+- German - Franconia 8 (quality+)
+- German - Lotharingia 14 (quality+)
+- German - Netherlands 20 (quality+)
+- German - Saxony 22 (quality+)
+- German - Swabia 21 (quality+)
+- German - Teutonic Estonians 4 (quality+)
+- German - Teutonic Germans 15 (quality+)
+- German - Teutonic Latvians 5 (quality+)
+- German - Wends 17 (quality+)
 - Hungary 20 
 - Ilkhanid 18 
 - Irish 20 
@@ -166,8 +168,10 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 
 ## Further plans
 
-- Adaptations for mods with medieval Europe settings
-- More banners
+- create banners for all kingdoms of EoE 1100 Expanded
+- recolor and enhance all banners with Lscd88 help
+- adaptations for other mods
+- more banners
 
 ## Known bugs
 
@@ -185,6 +189,7 @@ Translation template is available inside the mod. You can translate mod into ano
 
 ## Thanks
 
+- Lscd88 for permission to use his beautiful banners
 - Litauen for the good documentation about modding in Bannerlord
 - Helokero13 for Random Clan Invasion mod, which helped me understand the code
 - AxelCawe for Spawn More Clans mod, which helped me understand the code
