@@ -475,12 +475,12 @@
   <string id="ger_net_vlaanderen" text="Фляндэрэн"/>
   <string id="ger_net_brederode" text="Брэдарод"/>
   <string id="ger_net_wassenaer" text="Вассэнаер"/>
-  <string id="ger_net_groenenvelt" text="Груненвелт"/>
+  <string id="ger_net_groenenvelt" text="Грунэнвельт"/>
   <string id="ger_net_duivenvoorde" text="Дзёйвенвордэ"/>
   <string id="ger_net_arkel" text="Аркел"/>
   <string id="ger_net_leede" text="Леэдэ"/>
   <string id="ger_net_bronckhorst" text="Бронкхорст"/>
-  <string id="ger_net_beveren" text="Бевэрэн"/>
+  <string id="ger_net_beveren" text="Беверэн"/>
   <string id="ger_net_borssele" text="Борсэле"/>
   <string id="ger_net_barsdorpe" text="Барсдорпэ"/>
   <string id="ger_sax_baer" text="Бер"/>
@@ -501,15 +501,15 @@
   <string id="ger_sax_stolberg" text="Штольберг"/>
   <string id="ger_sax_landsberg" text="Ландсьберг"/>
   <string id="ger_sax_beichlingen" text="Байхлінген"/>
-  <string id="ger_sax_mansfeld" text="Мансфельд"/>
+  <string id="ger_sax_mansfeld" text="Мансьфельд"/>
   <string id="ger_sax_reuss" text="Рэйс"/>
   <string id="ger_sax_gleichen" text="Глайхен"/>
   <string id="ger_sax_tecklenburg" text="Тэкленбург"/>
   <string id="ger_fra_giletffy" text="Гілетфі"/>
-  <string id="ger_fra_hohenlohe" text="Хохенлохе"/>
+  <string id="ger_fra_hohenlohe" text="Гогенлоге"/>
   <string id="ger_fra_guttenberg" text="Гуттэнберг"/>
-  <string id="ger_fra_loon" text="Лоон"/>
-  <string id="ger_fra_rieneck" text="Рынек"/>
+  <string id="ger_fra_loon" text="Лон"/>
+  <string id="ger_fra_rieneck" text="Рынэк"/>
   <string id="ger_fra_rotenhan" text="Ротэнхан"/>
   <string id="ger_fra_thungen" text="Цюнген"/>
   <string id="ger_fra_dietz" text="Дыц"/>
@@ -561,7 +561,7 @@
   <string id="ger_wen_rugen" text="Руген"/>
   <string id="ger_wen_mecklenburg_werle" text="Мекленбург-Верлэ"/>
   <string id="ger_wen_wolgast" text="Вольгаст"/>
-  <string id="ger_wen_stettin" text="Штэтын"/>
+  <string id="ger_wen_stettin" text="Шчэцін"/>
   <string id="ger_wen_bulow" text="Бюлоў"/>
   <string id="ger_wen_dewitz" text="Дэвіц"/>
   <string id="ger_wen_eickstedt" text="Айкштэт"/>

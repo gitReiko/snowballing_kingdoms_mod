@@ -475,12 +475,12 @@
   <string id="ger_net_vlaanderen" text="Flanderen"/>
   <string id="ger_net_brederode" text="Bredarod"/>
   <string id="ger_net_wassenaer" text="Vassenajer"/>
-  <string id="ger_net_groenenvelt" text="Hrunienviełt"/>
+  <string id="ger_net_groenenvelt" text="Hrunenvielt"/>
   <string id="ger_net_duivenvoorde" text="Dziojvienvorde"/>
   <string id="ger_net_arkel" text="Arkieł"/>
   <string id="ger_net_leede" text="Leede"/>
   <string id="ger_net_bronckhorst" text="Bronkchorst"/>
-  <string id="ger_net_beveren" text="Bieveren"/>
+  <string id="ger_net_beveren" text="Bievieren"/>
   <string id="ger_net_borssele" text="Borsele"/>
   <string id="ger_net_barsdorpe" text="Barsdorpe"/>
   <string id="ger_sax_baer" text="Bier"/>
@@ -501,15 +501,15 @@
   <string id="ger_sax_stolberg" text="Štolbierh"/>
   <string id="ger_sax_landsberg" text="Łandśbierh"/>
   <string id="ger_sax_beichlingen" text="Bajchlinhien"/>
-  <string id="ger_sax_mansfeld" text="Mansfield"/>
+  <string id="ger_sax_mansfeld" text="Manśfield"/>
   <string id="ger_sax_reuss" text="Rejs"/>
   <string id="ger_sax_gleichen" text="Hłajchien"/>
   <string id="ger_sax_tecklenburg" text="Teklenburh"/>
   <string id="ger_fra_giletffy" text="Hiletfi"/>
-  <string id="ger_fra_hohenlohe" text="Chochienłochie"/>
+  <string id="ger_fra_hohenlohe" text="Hohienłohie"/>
   <string id="ger_fra_guttenberg" text="Huttenbierh"/>
-  <string id="ger_fra_loon" text="Łoon"/>
-  <string id="ger_fra_rieneck" text="Ryniek"/>
+  <string id="ger_fra_loon" text="Łon"/>
+  <string id="ger_fra_rieneck" text="Rynek"/>
   <string id="ger_fra_rotenhan" text="Rotenchan"/>
   <string id="ger_fra_thungen" text="Ciunhien"/>
   <string id="ger_fra_dietz" text="Dyc"/>
@@ -561,7 +561,7 @@
   <string id="ger_wen_rugen" text="Ruhien"/>
   <string id="ger_wen_mecklenburg_werle" text="Mieklenburh-Vierłe"/>
   <string id="ger_wen_wolgast" text="Volhast"/>
-  <string id="ger_wen_stettin" text="Štetyn"/>
+  <string id="ger_wen_stettin" text="Ščecin"/>
   <string id="ger_wen_bulow" text="Biułoŭ"/>
   <string id="ger_wen_dewitz" text="Devic"/>
   <string id="ger_wen_eickstedt" text="Ajkštet"/>

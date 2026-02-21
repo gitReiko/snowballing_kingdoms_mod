@@ -24,7 +24,7 @@ Spawns new clans for kingdoms that conquer new settlements. This allows you to p
 
 Players only. If you are a modder, contact me.
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=3427239636 
+[url=https://drive.google.com/file/d/1lvZ2dpT1VzAb_GHsmHNkbItU8DA6acMM/view?usp=sharing]German Banners (download to see images)[/url]
 
 ## When possible enable/disable mod?
 
