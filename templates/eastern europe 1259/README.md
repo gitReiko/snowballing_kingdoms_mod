@@ -193,9 +193,13 @@ Belarusian, English
 
 Translation template is available inside the mod. You can translate mod into another language. I can add your translation into this mod or you can make your own separate mod with translation.
 
+## Authors
+
+Reiko17
+Lscd88
+
 ## Thanks
 
-- Lscd88 for permission to use his beautiful banners
 - Litauen for the good documentation about modding in Bannerlord
 - Helokero13 for Random Clan Invasion mod, which helped me understand the code
 - AxelCawe for Spawn More Clans mod, which helped me understand the code
