@@ -200,6 +200,9 @@ Translation template is available inside the mod. You can translate mod into ano
 - Reiko17
 - Lscd88
 
+[url=https://github.com/gitReiko/SnowballingKingdoms]C# GitHub[/url]
+[url=https://github.com/gitReiko/snowballing_kingdoms_mod]Bannerlord Module GitHub[/url]
+
 ## Thanks
 
 - Litauen for the good documentation about modding in Bannerlord
