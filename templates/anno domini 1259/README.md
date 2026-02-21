@@ -56,17 +56,13 @@ Yes, but will create clans inappropriate for cultures since other mods have othe
 
 You will also need to enable the BannerPaste mod to display banners correctly. And set "preventNPCBannerColorChanges": true .
 
-## Historicity 
+## Historicity
 
-This mod is not historical. Rather history-based.
+This mod is not historical. Rather based on history and archaeology.
 
-But I tried to make all banners and their names based on historical or archaeological data. Some banners are distorted by the limitations of the banners editor and my skills, but I tried to keep the essence of the banners.
+There is no single timeline. However, the main focus is on the middle ages. Different cultures may use banners from different centuries.
 
-Different banners from different time periods are used for different cultures.
-
-Since there are a lot of banners. A lot of errors have been created.
-
-I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
+I did not intend to offend anyone with any of designs or names. I know nothing about families and their banners. I just take collections from public sources. The grouping by cultures is approximate and rough. I hope nothing here is inappropriate or offensive — the intention was opposite.
 
 ## Update 1.0.17
 
