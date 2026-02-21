@@ -77,7 +77,8 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 
 Lscd88 gave permission to use his works. Therefore, the new collection of banners is super high quality and beautiful, especially the lions and other animals. Improvements to all banners are planned.
 
-- Bohemia, Bretagne, Croatia, Pomerania, Poland, Portugal, Wales banners tune for expanded 1100
+- Bohemia, Bretagne, Croatia, Pomerania, Poland, Portugal, Wales banners tune for EoE 1100 Expanded
+- Sweden banners tune for Eastern Europe 1259
 - 21 new German - Bavaria banners
 - 1 new German - Carinthia banners
 - 8 new German - Franconia banners
@@ -123,17 +124,17 @@ Lscd88 gave permission to use his works. Therefore, the new collection of banner
 - French - Bretagne 21 
 - French - Latin 22 
 - Georgian 20
-- German - Bavaria 21 (quality+)
-- German - Carinthia 1 (quality+)
-- German - Franconia 8 (quality+)
-- German - Lotharingia 14 (quality+)
-- German - Netherlands 20 (quality+)
-- German - Saxony 22 (quality+)
-- German - Swabia 21 (quality+)
-- German - Teutonic Estonians 4 (quality+)
-- German - Teutonic Germans 15 (quality+)
-- German - Teutonic Latvians 5 (quality+)
-- German - Wends 17 (quality+)
+- German - Bavaria 21 (HQ)
+- German - Carinthia 1 (HQ)
+- German - Franconia 8 (HQ)
+- German - Lotharingia 14 (HQ)
+- German - Netherlands 20 (HQ)
+- German - Saxony 22 (HQ)
+- German - Swabia 21 (HQ)
+- German - Teutonic Estonians 4 (HQ)
+- German - Teutonic Germans 15 (HQ)
+- German - Teutonic Latvians 5 (HQ)
+- German - Wends 17 (HQ)
 - Hungary 20 
 - Ilkhanid 18 
 - Irish 20 
