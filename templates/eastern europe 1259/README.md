@@ -26,6 +26,8 @@ Players only. If you are a modder, contact me.
 
 [url=https://drive.google.com/file/d/1lvZ2dpT1VzAb_GHsmHNkbItU8DA6acMM/view?usp=sharing]German Banners (download to see images)[/url]
 
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3427239636]Steam Guide[/url]
+
 ## When possible enable/disable mod?
 
 At any stage of the game.
