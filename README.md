@@ -187,8 +187,8 @@ Translation template is available inside the mod. You can translate mod into ano
 
 ## Authors
 
-Reiko17
-Lscd88
+- Reiko17
+- Lscd88
 
 ## Thanks
 
