@@ -19,10 +19,6 @@
   <string id="sb.est_saaremaa" text="Saaremaa"/>
   <string id="sb.est_ridala" text="Ridala"/>
   <string id="sb.est_varbola" text="Varbola"/>
-  <string id="sb.est_baranoff" text="Baranoff"/>
-  <string id="sb.est_reval" text="Reval"/>
-  <string id="sb.est_parnu" text="Pärnu"/>
-  <string id="sb.est_viljandi" text="Viljandi"/>
   <string id="sb.fin_somero" text="Somero"/>
   <string id="sb.fin_pöylän" text="Pöylän"/>
   <string id="sb.fin_ulvila" text="Ulvila"/>
@@ -437,49 +433,147 @@
   <string id="sb.geo_tumanishvili" text="Tumanishvili"/>
   <string id="sb.geo_vachnadze" text="Vachnadze"/>
   <string id="sb.geo_chkhetidze" text="Chkhetidze"/>
-  <string id="sb.ger_baer" text="Baer"/>
-  <string id="sb.ger_buren" text="Buren"/>
-  <string id="sb.ger_piesport" text="Piesport"/>
-  <string id="sb.ger_indermaur" text="Indermaur"/>
-  <string id="sb.ger_diepholz" text="Diepholz"/>
-  <string id="sb.ger_gail" text="Gail"/>
-  <string id="sb.ger_hoya" text="Hoya"/>
-  <string id="sb.ger_hohenberg" text="Hohenberg"/>
-  <string id="sb.ger_hutten" text="Hutten"/>
-  <string id="sb.ger_kessel" text="Kessel"/>
-  <string id="sb.ger_moers" text="Moers"/>
-  <string id="sb.ger_orlamunde" text="Orlamünde"/>
-  <string id="sb.ger_pallant" text="Pallant"/>
-  <string id="sb.ger_salis" text="Salis"/>
-  <string id="sb.ger_schonforst" text="Schönforst"/>
-  <string id="sb.ger_tecklenburg" text="Tecklenburg"/>
-  <string id="sb.ger_voorst" text="Voorst"/>
-  <string id="sb.ger_schinne" text="Schinne"/>
-  <string id="sb.ger_westerburg" text="Westerburg"/>
-  <string id="sb.ger_wisch" text="Wisch"/>
-  <string id="sb.ger_kirchberg" text="Kirchberg"/>
-  <string id="sb.ger_dietz" text="Dietz"/>
-  <string id="sb.ger_delmenhorst" text="Delmenhorst"/>
-  <string id="sb.ger_batenburg" text="Batenburg"/>
-  <string id="sb.ger_sickingen" text="Sickingen"/>
-  <string id="sb.ger_hohenzollern" text="Hohenzollern"/>
-  <string id="sb.ger_ludwig_von_erlichshausen" text="Ludwig von Erlichshausen"/>
-  <string id="sb.ger_herman_bartt" text="Herman Bartt"/>
-  <string id="sb.ger_poppo_von_osterna" text="Poppo von Osterna"/>
-  <string id="sb.ger_fersen" text="Fersen"/>
-  <string id="sb.ger_bruiningk" text="Bruiningk"/>
-  <string id="sb.ger_hagemeister" text="Hagemeister"/>
-  <string id="sb.ger_derfelden" text="Derfelden"/>
-  <string id="sb.ger_siegfried_von_feuchtwangen" text="Siegfried von Feuchtwangen"/>
-  <string id="sb.ger_aderkas" text="Aderkas"/>
-  <string id="sb.ger_knabenau" text="Knabenau"/>
-  <string id="sb.ger_sievers" text="Sievers"/>
-  <string id="sb.ger_gottfried_von_hohenlohe" text="Gottfried von Hohenlohe"/>
-  <string id="sb.ger_anno_von_sangershausen" text="Anno von Sangershausen"/>
-  <string id="sb.ger_ludolf_konig_von_wattzau" text="Ludolf König von Wattzau"/>
-  <string id="sb.ger_konrad_von_jungingen" text="Konrad von Jungingen"/>
-  <string id="sb.ger_michael_kuchmeister_von_sternberg" text="Michael Küchmeister von Sternberg"/>
-  <string id="sb.ger_burchard_von_schwanden" text="Burchard von Schwanden"/>
+  <string id="ger_bav_hutten" text="Hutten"/>
+  <string id="ger_bav_welf" text="Welf"/>
+  <string id="ger_bav_andechs" text="Andechs"/>
+  <string id="ger_bav_spanheim" text="Spanheim"/>
+  <string id="ger_bav_dieben" text="Dießen"/>
+  <string id="ger_bav_scheyern" text="Scheyern"/>
+  <string id="ger_bav_lechsgemund" text="Lechsgemünd"/>
+  <string id="ger_bav_sulzbach" text="Sulzbach"/>
+  <string id="ger_bav_eppenstein" text="Eppenstein"/>
+  <string id="ger_bav_abensberg" text="Abensberg"/>
+  <string id="ger_bav_preysing" text="Preysing"/>
+  <string id="ger_bav_seinsheim" text="Seinsheim"/>
+  <string id="ger_bav_torring" text="Törring"/>
+  <string id="ger_bav_schaunberg" text="Schaunberg"/>
+  <string id="ger_bav_laiming" text="Laiming"/>
+  <string id="ger_bav_degenberg" text="Degenberg"/>
+  <string id="ger_bav_trostberg" text="Trostberg"/>
+  <string id="ger_bav_leuchtenberg" text="Leuchtenberg"/>
+  <string id="ger_bav_ortenberg" text="Ortenberg"/>
+  <string id="ger_bav_seiboldsdorf" text="Seiboldsdorf"/>
+  <string id="ger_bav_indermaur" text="Indermaur"/>
+  <string id="ger_car_gail" text="Gail"/>
+  <string id="ger_lot_piesport" text="Piesport"/>
+  <string id="ger_lot_moers" text="Moers"/>
+  <string id="ger_lot_pallant" text="Pallant"/>
+  <string id="ger_lot_schonforst" text="Schönforst"/>
+  <string id="ger_lot_westerburg" text="Westerburg"/>
+  <string id="ger_lot_sickingen" text="Sickingen"/>
+  <string id="ger_lot_limburg" text="Limburg"/>
+  <string id="ger_lot_metz" text="Metz"/>
+  <string id="ger_net_buren" text="Buren"/>
+  <string id="ger_net_kessel" text="Kessel"/>
+  <string id="ger_net_voorst" text="Voorst"/>
+  <string id="ger_net_wisch" text="Wisch"/>
+  <string id="ger_net_batenburg" text="Batenburg"/>
+  <string id="ger_net_leuven" text="Leuven"/>
+  <string id="ger_net_holland" text="Holland"/>
+  <string id="ger_net_gelre" text="Gelre"/>
+  <string id="ger_net_frisian_freedom" text="Frisian Freedom"/>
+  <string id="ger_net_vlaanderen" text="Vlaanderen"/>
+  <string id="ger_net_brederode" text="Brederode"/>
+  <string id="ger_net_wassenaer" text="Wassenaer"/>
+  <string id="ger_net_groenenvelt" text="Groenenvelt"/>
+  <string id="ger_net_duivenvoorde" text="Duivenvoorde"/>
+  <string id="ger_net_arkel" text="Arkel"/>
+  <string id="ger_net_leede" text="Leede"/>
+  <string id="ger_net_bronckhorst" text="Bronckhorst"/>
+  <string id="ger_net_beveren" text="Beveren"/>
+  <string id="ger_net_borssele" text="Borssele"/>
+  <string id="ger_net_barsdorpe" text="Barsdorpe"/>
+  <string id="ger_sax_baer" text="Baer"/>
+  <string id="ger_sax_diepholz" text="Diepholz"/>
+  <string id="ger_sax_hoya" text="Hoya"/>
+  <string id="ger_sax_orlamunde" text="Orlamünde"/>
+  <string id="ger_sax_schinne" text="Schinne"/>
+  <string id="ger_sax_delmenhorst" text="Delmenhorst"/>
+  <string id="ger_sax_billung" text="Billung"/>
+  <string id="ger_sax_ascania" text="Ascania"/>
+  <string id="ger_sax_ludovingians" text="Ludovingians"/>
+  <string id="ger_sax_wernigerode" text="Wernigerode"/>
+  <string id="ger_sax_udonid" text="Udonid"/>
+  <string id="ger_sax_wettin" text="Wettin"/>
+  <string id="ger_sax_gruningen" text="Grüningen"/>
+  <string id="ger_sax_supplinburg" text="Supplinburg"/>
+  <string id="ger_sax_hohnstein" text="Hohnstein"/>
+  <string id="ger_sax_stolberg" text="Stolberg"/>
+  <string id="ger_sax_landsberg" text="Landsberg"/>
+  <string id="ger_sax_beichlingen" text="Beichlingen"/>
+  <string id="ger_sax_mansfeld" text="Mansfeld"/>
+  <string id="ger_sax_reuss" text="Reuss"/>
+  <string id="ger_sax_gleichen" text="Gleichen"/>
+  <string id="ger_sax_tecklenburg" text="Tecklenburg"/>
+  <string id="ger_fra_giletffy" text="Giletffy"/>
+  <string id="ger_fra_hohenlohe" text="Hohenlohe"/>
+  <string id="ger_fra_guttenberg" text="Guttenberg"/>
+  <string id="ger_fra_loon" text="Loon"/>
+  <string id="ger_fra_rieneck" text="Rieneck"/>
+  <string id="ger_fra_rotenhan" text="Rotenhan"/>
+  <string id="ger_fra_thungen" text="Thüngen"/>
+  <string id="ger_fra_dietz" text="Dietz"/>
+  <string id="ger_teu_est_reval" text="Reval"/>
+  <string id="ger_teu_est_baranoff" text="Baranoff"/>
+  <string id="ger_teu_est_parnu" text="Pärnu"/>
+  <string id="ger_teu_est_viljandi" text="Viljandi"/>
+  <string id="ger_teu_ger_ludwig" text="Ludwig von Erlichshausen"/>
+  <string id="ger_teu_ger_bartt" text="Herman Bartt"/>
+  <string id="ger_teu_ger_osterna" text="Poppo von Osterna"/>
+  <string id="ger_teu_ger_fersen" text="Fersen"/>
+  <string id="ger_teu_ger_bruiningk" text="Bruiningk"/>
+  <string id="ger_teu_ger_derfelden" text="Derfelden"/>
+  <string id="ger_teu_ger_feuchtwangen" text="Siegfried von Feuchtwangen"/>
+  <string id="ger_teu_ger_knabenau" text="Knabenau"/>
+  <string id="ger_teu_ger_sievers" text="Sievers"/>
+  <string id="ger_teu_ger_sangershausen" text="Anno von Sangershausen"/>
+  <string id="ger_teu_ger_wattzau" text="Ludolf König von Wattzau"/>
+  <string id="ger_teu_ger_jungingen" text="Konrad von Jungingen"/>
+  <string id="ger_teu_ger_sternberg" text="Michael Küchmeister von Sternberg"/>
+  <string id="ger_teu_ger_schwanden" text="Burchard von Schwanden"/>
+  <string id="ger_teu_lat_liveni" text="Līveni"/>
+  <string id="ger_teu_lat_soltani" text="Soltāni"/>
+  <string id="ger_teu_lat_riga" text="Riga"/>
+  <string id="ger_teu_lat_straupe" text="Straupe"/>
+  <string id="ger_teu_lat_valmiera" text="Valmiera"/>
+  <string id="ger_swa_hohenberg" text="Hohenberg"/>
+  <string id="ger_swa_kirchberg" text="Kirchberg"/>
+  <string id="ger_swa_hohenzollern" text="Hohenzollern"/>
+  <string id="ger_swa_hohenstaufen" text="Hohenstaufen"/>
+  <string id="ger_swa_babenberg" text="Babenberg"/>
+  <string id="ger_swa_zahringen" text="Zähringen"/>
+  <string id="ger_swa_dillingen" text="Dillingen"/>
+  <string id="ger_swa_bregenz" text="Bregenz"/>
+  <string id="ger_swa_styria" text="Styria"/>
+  <string id="ger_swa_tubingen" text="Tübingen"/>
+  <string id="ger_swa_werdenberg" text="Werdenberg"/>
+  <string id="ger_swa_tubingen_boblingen" text="Tübingen-Böblingen"/>
+  <string id="ger_swa_rappoltstein" text="Rappoltstein"/>
+  <string id="ger_swa_freyberg" text="Freyberg"/>
+  <string id="ger_swa_teck" text="Teck"/>
+  <string id="ger_swa_gundelfingen" text="Gundelfingen"/>
+  <string id="ger_swa_geroldseck" text="Geroldseck"/>
+  <string id="ger_swa_veldenz" text="Veldenz"/>
+  <string id="ger_swa_koppenstein" text="Koppenstein"/>
+  <string id="ger_swa_kuenring" text="Kuenring"/>
+  <string id="ger_swa_salis" text="Salis"/>
+  <string id="ger_wen_mecklenburg" text="Mecklenburg"/>
+  <string id="ger_wen_rugen" text="Rügen"/>
+  <string id="ger_wen_mecklenburg_werle" text="Mecklenburg-Werle"/>
+  <string id="ger_wen_wolgast" text="Wolgast"/>
+  <string id="ger_wen_stettin" text="Stettin"/>
+  <string id="ger_wen_bulow" text="Bulow"/>
+  <string id="ger_wen_dewitz" text="Dewitz"/>
+  <string id="ger_wen_eickstedt" text="Eickstedt"/>
+  <string id="ger_wen_kleist" text="Kleist"/>
+  <string id="ger_wen_lutzow" text="Lützow"/>
+  <string id="ger_wen_kottwitz" text="Kottwitz"/>
+  <string id="ger_wen_putbus" text="Putbus"/>
+  <string id="ger_wen_hagen" text="Hagen"/>
+  <string id="ger_wen_nakonids" text="Nakonids"/>
+  <string id="ger_wen_hevelli" text="Hevelli"/>
+  <string id="ger_wen_redarii" text="Redarii"/>
+  <string id="ger_wen_tollenser" text="Tollenser"/>
   <string id="sb.boh_plichtovi_z_adlaru" text="Plichtovi z Adlaru"/>
   <string id="sb.boh_bechynove_z_lazan" text="Bechyňové z Lažan"/>
   <string id="sb.boh_colloredove_z_wallsee" text="Colloredové z Wallsee"/>
@@ -724,10 +818,6 @@
   <string id="sb.lat_skare" text="Skare"/>
   <string id="sb.lat_dumpji" text="Dumpji"/>
   <string id="sb.lat_dobene" text="Dobene"/>
-  <string id="sb.lat_liveni" text="Līveni"/>
-  <string id="sb.lat_soltani" text="Soltāni"/>
-  <string id="sb.lat_riga" text="Riga"/>
-  <string id="sb.lat_straupe" text="Straupe"/>
   <string id="sb.lit_asmiany" text="Ašmiany"/>
   <string id="sb.lit_ukmerge" text="Ukmergė"/>
   <string id="sb.lit_dubingiai" text="Dubingiai"/>

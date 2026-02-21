@@ -19,10 +19,6 @@
   <string id="sb.est_saaremaa" text="Saarema"/>
   <string id="sb.est_ridala" text="Rydała"/>
   <string id="sb.est_varbola" text="Varboła"/>
-  <string id="sb.est_baranoff" text="Baranoff"/>
-  <string id="sb.est_reval" text="Reval"/>
-  <string id="sb.est_parnu" text="Parnu"/>
-  <string id="sb.est_viljandi" text="Viljandzi"/>
   <string id="sb.fin_somero" text="Samiero"/>
   <string id="sb.fin_pöylän" text="Pejulan"/>
   <string id="sb.fin_ulvila" text="Ułviła"/>
@@ -437,49 +433,147 @@
   <string id="sb.geo_tumanishvili" text="Tumanišvili"/>
   <string id="sb.geo_vachnadze" text="Vachnadze"/>
   <string id="sb.geo_chkhetidze" text="Chiecidze"/>
-  <string id="sb.ger_baer" text="Bajer"/>
-  <string id="sb.ger_buren" text="Buren"/>
-  <string id="sb.ger_piesport" text="Pisport"/>
-  <string id="sb.ger_indermaur" text="Indemaŭr"/>
-  <string id="sb.ger_diepholz" text="Dzipcholc"/>
-  <string id="sb.ger_gail" text="Hajł"/>
-  <string id="sb.ger_hoya" text="Choja"/>
-  <string id="sb.ger_hohenberg" text="Chochienbierh"/>
-  <string id="sb.ger_hutten" text="Chutten"/>
-  <string id="sb.ger_kessel" text="Kiessel"/>
-  <string id="sb.ger_moers" text="Moers"/>
-  <string id="sb.ger_orlamunde" text="Orłamunde"/>
-  <string id="sb.ger_pallant" text="Pałłant"/>
-  <string id="sb.ger_salis" text="Salis"/>
-  <string id="sb.ger_schonforst" text="Šanforst"/>
-  <string id="sb.ger_tecklenburg" text="Teklenburh"/>
-  <string id="sb.ger_voorst" text="Vorst"/>
-  <string id="sb.ger_schinne" text="Šynne"/>
-  <string id="sb.ger_westerburg" text="Vesterburh"/>
-  <string id="sb.ger_wisch" text="Viš"/>
-  <string id="sb.ger_kirchberg" text="Kirchbierh"/>
-  <string id="sb.ger_dietz" text="Dzic"/>
-  <string id="sb.ger_delmenhorst" text="Delmienchorst"/>
-  <string id="sb.ger_batenburg" text="Batenburh"/>
-  <string id="sb.ger_sickingen" text="Zikinhien"/>
-  <string id="sb.ger_hohenzollern" text="Hohiencollern"/>
-  <string id="sb.ger_ludwig_von_erlichshausen" text="Ludvih fon Erlichschaŭzen"/>
-  <string id="sb.ger_herman_bartt" text="Hierman Bart"/>
-  <string id="sb.ger_poppo_von_osterna" text="Poppa fon Osterna"/>
-  <string id="sb.ger_fersen" text="Fiersen"/>
-  <string id="sb.ger_bruiningk" text="Brujnink"/>
-  <string id="sb.ger_hagemeister" text="Chahiemajstar"/>
-  <string id="sb.ger_derfelden" text="Derfelden"/>
-  <string id="sb.ger_siegfried_von_feuchtwangen" text="Zihfryd fon Fojchtvahien"/>
-  <string id="sb.ger_aderkas" text="Aderkas"/>
-  <string id="sb.ger_knabenau" text="Knabienaŭ"/>
-  <string id="sb.ger_sievers" text="Siviers"/>
-  <string id="sb.ger_gottfried_von_hohenlohe" text="Hotfryd fon Chachienłoe"/>
-  <string id="sb.ger_anno_von_sangershausen" text="Anno fon Zanhierschaŭzen"/>
-  <string id="sb.ger_ludolf_konig_von_wattzau" text="Ludolf Kionih fon Vatcaŭ"/>
-  <string id="sb.ger_konrad_von_jungingen" text="Konrad fon Junhinhien"/>
-  <string id="sb.ger_michael_kuchmeister_von_sternberg" text="Michael Kuchmajstar fon Šternbierh"/>
-  <string id="sb.ger_burchard_von_schwanden" text="Burchard fon Švanden"/>
+  <string id="ger_bav_hutten" text="Chutten"/>
+  <string id="ger_bav_welf" text="Velf"/>
+  <string id="ger_bav_andechs" text="Andechs"/>
+  <string id="ger_bav_spanheim" text="Španchajm"/>
+  <string id="ger_bav_dieben" text="Dysen"/>
+  <string id="ger_bav_scheyern" text="Šajern"/>
+  <string id="ger_bav_lechsgemund" text="Lechshiemund"/>
+  <string id="ger_bav_sulzbach" text="Zulcbach"/>
+  <string id="ger_bav_eppenstein" text="Eppienštajn"/>
+  <string id="ger_bav_abensberg" text="Abienśbierh"/>
+  <string id="ger_bav_preysing" text="Prajzinh"/>
+  <string id="ger_bav_seinsheim" text="Zajncchajm"/>
+  <string id="ger_bav_torring" text="Ciorrynh"/>
+  <string id="ger_bav_schaunberg" text="Šaŭnbierh"/>
+  <string id="ger_bav_laiming" text="Łajminh"/>
+  <string id="ger_bav_degenberg" text="Dehienbierh"/>
+  <string id="ger_bav_trostberg" text="Trostbierh"/>
+  <string id="ger_bav_leuchtenberg" text="Łojchtenbierh"/>
+  <string id="ger_bav_ortenberg" text="Ortenbierh"/>
+  <string id="ger_bav_seiboldsdorf" text="Zajboldsdorf"/>
+  <string id="ger_bav_indermaur" text="Indermaŭr"/>
+  <string id="ger_car_gail" text="Hajł"/>
+  <string id="ger_lot_piesport" text="Pisport"/>
+  <string id="ger_lot_moers" text="Miors"/>
+  <string id="ger_lot_pallant" text="Pałłant"/>
+  <string id="ger_lot_schonforst" text="Šonfarst"/>
+  <string id="ger_lot_westerburg" text="Viesterburh"/>
+  <string id="ger_lot_sickingen" text="Zikinhien"/>
+  <string id="ger_lot_limburg" text="Limburh"/>
+  <string id="ger_lot_metz" text="Miec"/>
+  <string id="ger_net_buren" text="Buren"/>
+  <string id="ger_net_kessel" text="Kiesseł"/>
+  <string id="ger_net_voorst" text="Furst"/>
+  <string id="ger_net_wisch" text="Viš"/>
+  <string id="ger_net_batenburg" text="Batenburh"/>
+  <string id="ger_net_leuven" text="Loven"/>
+  <string id="ger_net_holland" text="Hołłand"/>
+  <string id="ger_net_gelre" text="Helre"/>
+  <string id="ger_net_frisian_freedom" text="Fryzkaja Svaboda"/>
+  <string id="ger_net_vlaanderen" text="Flanderen"/>
+  <string id="ger_net_brederode" text="Bredarod"/>
+  <string id="ger_net_wassenaer" text="Vassenajer"/>
+  <string id="ger_net_groenenvelt" text="Hrunienviełt"/>
+  <string id="ger_net_duivenvoorde" text="Dziojvienvorde"/>
+  <string id="ger_net_arkel" text="Arkieł"/>
+  <string id="ger_net_leede" text="Leede"/>
+  <string id="ger_net_bronckhorst" text="Bronkchorst"/>
+  <string id="ger_net_beveren" text="Bieveren"/>
+  <string id="ger_net_borssele" text="Borsele"/>
+  <string id="ger_net_barsdorpe" text="Barsdorpe"/>
+  <string id="ger_sax_baer" text="Bier"/>
+  <string id="ger_sax_diepholz" text="Dipcholc"/>
+  <string id="ger_sax_hoya" text="Choja"/>
+  <string id="ger_sax_orlamunde" text="Orłamiunde"/>
+  <string id="ger_sax_schinne" text="Šyne"/>
+  <string id="ger_sax_delmenhorst" text="Delmienchorst"/>
+  <string id="ger_sax_billung" text="Biłłunh"/>
+  <string id="ger_sax_ascania" text="Askanija"/>
+  <string id="ger_sax_ludovingians" text="Ludavihi"/>
+  <string id="ger_sax_wernigerode" text="Viernihierod"/>
+  <string id="ger_sax_udonid" text="Udonid"/>
+  <string id="ger_sax_wettin" text="Viećcin"/>
+  <string id="ger_sax_gruningen" text="Hruninhien"/>
+  <string id="ger_sax_supplinburg" text="Zuplinburh"/>
+  <string id="ger_sax_hohnstein" text="Honštajn"/>
+  <string id="ger_sax_stolberg" text="Štolbierh"/>
+  <string id="ger_sax_landsberg" text="Łandśbierh"/>
+  <string id="ger_sax_beichlingen" text="Bajchlinhien"/>
+  <string id="ger_sax_mansfeld" text="Mansfield"/>
+  <string id="ger_sax_reuss" text="Rejs"/>
+  <string id="ger_sax_gleichen" text="Hłajchien"/>
+  <string id="ger_sax_tecklenburg" text="Teklenburh"/>
+  <string id="ger_fra_giletffy" text="Hiletfi"/>
+  <string id="ger_fra_hohenlohe" text="Chochienłochie"/>
+  <string id="ger_fra_guttenberg" text="Huttenbierh"/>
+  <string id="ger_fra_loon" text="Łoon"/>
+  <string id="ger_fra_rieneck" text="Ryniek"/>
+  <string id="ger_fra_rotenhan" text="Rotenchan"/>
+  <string id="ger_fra_thungen" text="Ciunhien"/>
+  <string id="ger_fra_dietz" text="Dyc"/>
+  <string id="ger_teu_est_reval" text="Reval"/>
+  <string id="ger_teu_est_baranoff" text="Baranof"/>
+  <string id="ger_teu_est_parnu" text="Parnu"/>
+  <string id="ger_teu_est_viljandi" text="Viljandzi"/>
+  <string id="ger_teu_ger_ludwig" text="Ludvih fon Erlichschaŭzen"/>
+  <string id="ger_teu_ger_bartt" text="Chierman Bartt"/>
+  <string id="ger_teu_ger_osterna" text="Popa fon Osterna"/>
+  <string id="ger_teu_ger_fersen" text="Fierzen"/>
+  <string id="ger_teu_ger_bruiningk" text="Brojninhk"/>
+  <string id="ger_teu_ger_derfelden" text="Derfielden"/>
+  <string id="ger_teu_ger_feuchtwangen" text="Zihfryd fon Fojchtvanhien"/>
+  <string id="ger_teu_ger_knabenau" text="Knabienaŭ"/>
+  <string id="ger_teu_ger_sievers" text="Ziviers"/>
+  <string id="ger_teu_ger_sangershausen" text="Anno fon Zanhierschaŭzen"/>
+  <string id="ger_teu_ger_wattzau" text="Ludolf Kionih fon Vatcaŭ"/>
+  <string id="ger_teu_ger_jungingen" text="Konrad fon Junhinhien"/>
+  <string id="ger_teu_ger_sternberg" text="Michael Kiuchmajster fon Šternbierh"/>
+  <string id="ger_teu_ger_schwanden" text="Burchard fon Švanden"/>
+  <string id="ger_teu_lat_liveni" text="Livieni"/>
+  <string id="ger_teu_lat_soltani" text="Sołtani"/>
+  <string id="ger_teu_lat_riga" text="Ryha"/>
+  <string id="ger_teu_lat_straupe" text="Straŭpe"/>
+  <string id="ger_teu_lat_valmiera" text="Valmira"/>
+  <string id="ger_swa_hohenberg" text="Hohienbierh"/>
+  <string id="ger_swa_kirchberg" text="Kirchbierh"/>
+  <string id="ger_swa_hohenzollern" text="Hohiencolern"/>
+  <string id="ger_swa_hohenstaufen" text="Hohienštaŭfen"/>
+  <string id="ger_swa_babenberg" text="Babienbierh"/>
+  <string id="ger_swa_zahringen" text="Cerynhien"/>
+  <string id="ger_swa_dillingen" text="Dylinhien"/>
+  <string id="ger_swa_bregenz" text="Brehienc"/>
+  <string id="ger_swa_styria" text="Štyryja"/>
+  <string id="ger_swa_tubingen" text="Ciubinhien"/>
+  <string id="ger_swa_werdenberg" text="Vierdenbierh"/>
+  <string id="ger_swa_tubingen_boblingen" text="Ciubinhien-Bioblinhien"/>
+  <string id="ger_swa_rappoltstein" text="Rapoltštajn"/>
+  <string id="ger_swa_freyberg" text="Frajbierh"/>
+  <string id="ger_swa_teck" text="Tek"/>
+  <string id="ger_swa_gundelfingen" text="Hundelfinhien"/>
+  <string id="ger_swa_geroldseck" text="Hieroldzek"/>
+  <string id="ger_swa_veldenz" text="Fieldenc"/>
+  <string id="ger_swa_koppenstein" text="Kopienštajn"/>
+  <string id="ger_swa_kuenring" text="Kiunrynh"/>
+  <string id="ger_swa_salis" text="Zalis"/>
+  <string id="ger_wen_mecklenburg" text="Mieklenburh"/>
+  <string id="ger_wen_rugen" text="Ruhien"/>
+  <string id="ger_wen_mecklenburg_werle" text="Mieklenburh-Vierłe"/>
+  <string id="ger_wen_wolgast" text="Volhast"/>
+  <string id="ger_wen_stettin" text="Štetyn"/>
+  <string id="ger_wen_bulow" text="Biułoŭ"/>
+  <string id="ger_wen_dewitz" text="Devic"/>
+  <string id="ger_wen_eickstedt" text="Ajkštet"/>
+  <string id="ger_wen_kleist" text="Klajst"/>
+  <string id="ger_wen_lutzow" text="Lucoŭ"/>
+  <string id="ger_wen_kottwitz" text="Kotvic"/>
+  <string id="ger_wen_putbus" text="Putbus"/>
+  <string id="ger_wen_hagen" text="Chahien"/>
+  <string id="ger_wen_nakonids" text="Nakonidy"/>
+  <string id="ger_wen_hevelli" text="Havieły"/>
+  <string id="ger_wen_redarii" text="Redary"/>
+  <string id="ger_wen_tollenser" text="Dolency"/>
   <string id="sb.boh_plichtovi_z_adlaru" text="Plichtovy z Adłaru"/>
   <string id="sb.boh_bechynove_z_lazan" text="Bechiniove z Łažan"/>
   <string id="sb.boh_colloredove_z_wallsee" text="Kałłaredove z Vałłse"/>
@@ -724,10 +818,6 @@
   <string id="sb.lat_skare" text="Skare"/>
   <string id="sb.lat_dumpji" text="Dumpi"/>
   <string id="sb.lat_dobene" text="Dobiene"/>
-  <string id="sb.lat_liveni" text="Liveni"/>
-  <string id="sb.lat_soltani" text="Sołtani"/>
-  <string id="sb.lat_riga" text="Ryha"/>
-  <string id="sb.lat_straupe" text="Straŭpie"/>
   <string id="sb.lit_asmiany" text="Ašmiany"/>
   <string id="sb.lit_ukmerge" text="Ukmierhie"/>
   <string id="sb.lit_dubingiai" text="Dubinhiaj"/>
