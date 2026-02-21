@@ -5,20 +5,20 @@ Spawns new clans for kingdoms that conquer new settlements. This allows you to p
 
 ## Default clans spawn
 
-2  settlements spawns 2  clans  ||  48  settlements spawns 16 clans
-5  settlements spawns 3  clans  ||  57  settlements spawns 17 clans
-8  settlements spawns 4  clans  ||  60  settlements spawns 18 clans
-12 settlements spawns 5  clans  ||  63  settlements spawns 19 clans
-14 settlements spawns 6  clans  ||  66  settlements spawns 20 clans
-17 settlements spawns 7  clans  ||  74  settlements spawns 21 clans
-19 settlements spawns 8  clans  ||  77  settlements spawns 22 clans
-23 settlements spawns 9  clans  ||  81  settlements spawns 23 clans
-25 settlements spawns 10 clans  ||  84  settlements spawns 24 clans
-28 settlements spawns 11 clans  ||  88  settlements spawns 25 clans
-36 settlements spawns 12 clans  ||  104 settlements spawns 26 clans
-39 settlements spawns 13 clans  ||  108 settlements spawns 27 clans
-42 settlements spawns 14 clans  ||  112 settlements spawns 28 clans
-45 settlements spawns 15 clans  ||  spawns new clan for every 4 new settlements
+- 2  settlements spawns 2  clans  ||  48  settlements spawns 16 clans
+- 5  settlements spawns 3  clans  ||  57  settlements spawns 17 clans
+- 8  settlements spawns 4  clans  ||  60  settlements spawns 18 clans
+- 12 settlements spawns 5  clans  ||  63  settlements spawns 19 clans
+- 14 settlements spawns 6  clans  ||  66  settlements spawns 20 clans
+- 17 settlements spawns 7  clans  ||  74  settlements spawns 21 clans
+- 19 settlements spawns 8  clans  ||  77  settlements spawns 22 clans
+- 23 settlements spawns 9  clans  ||  81  settlements spawns 23 clans
+- 25 settlements spawns 10 clans  ||  84  settlements spawns 24 clans
+- 28 settlements spawns 11 clans  ||  88  settlements spawns 25 clans
+- 36 settlements spawns 12 clans  ||  104 settlements spawns 26 clans
+- 39 settlements spawns 13 clans  ||  108 settlements spawns 27 clans
+- 42 settlements spawns 14 clans  ||  112 settlements spawns 28 clans
+- 45 settlements spawns 15 clans  ||  spawns new clan for every 4 new settlements
 
 ## Banners codes
 
