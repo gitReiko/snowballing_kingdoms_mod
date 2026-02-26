@@ -75,23 +75,9 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.17
+## Update 1.0.18
 
-Lscd88 gave permission to use his works. Therefore, the new collection of banners is super high quality and beautiful, especially the lions and other animals. Improvements to all banners are planned.
-
-- Bohemia, Bretagne, Croatia, Pomerania, Poland, Portugal, Wales banners tune for EoE 1100 Expanded
-- Sweden banners tune for Eastern Europe 1259
-- 21 new German - Bavaria banners
-- 1 new German - Carinthia banners
-- 8 new German - Franconia banners
-- 14 new German - Lotharingia banners
-- 20 new German - Netherlands banners
-- 22 new German - Saxony banners
-- 21 new German - Swabia banners
-- 4 new German - Teutonic Estonians banners
-- 15 new German - Teutonic Germans banners
-- 5 new German - Teutonic Latvians banners
-- 17 new German - Wends banners
+- Mecklenburg-Werle banner improvement
 
 ## Current banners (total 1326)
 
