@@ -69,6 +69,9 @@ I did not intend to offend anyone with any of designs or names. I know nothing a
 ## Update 1.0.18
 
 - Mecklenburg-Werle banner improvement
+- Female names fix
+- Lord skills fix
+- Attempt to fix skills in ongoing games (in new game skills will be fixed. But in ongoing I'll try to kill broken clans).
 
 ## Current banners (total 1326)
 
