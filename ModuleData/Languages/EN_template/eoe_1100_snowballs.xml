@@ -330,89 +330,130 @@
   <string id="sb.rad_paplauskija" text="Papłaŭskija"/>
   <string id="sb.rad_slucanouskija" text="Słučanoŭskija"/>
   <string id="sb.rad_chadasovicy" text="Chadasovičy"/>
-  <string id="sb.fre_pierre_i_of_bourbon" text="Pierre I de Bourbon"/>
-  <string id="sb.fre_jacques_de_bourbon" text="Jacques de Bourbon"/>
-  <string id="sb.fre_jean_d_artois" text="Jean d’Artois"/>
-  <string id="sb.fre_bishop_of_chalons" text="Bishop of Chalons"/>
-  <string id="sb.fre_jean_i_de_bourbon" text="Jean I de Bourbon"/>
-  <string id="sb.fre_arnould_de_wesmael" text="Arnould de Wesmael"/>
-  <string id="sb.fre_conte_de_salm_en_ardenne" text="Conte de Salm"/>
-  <string id="sb.fre_regnaut_d_aubigny" text="Regnaut d’Aubigny"/>
-  <string id="sb.fre_bernard_de_ventadour" text="Bernard de Ventadour"/>
-  <string id="sb.fre_amaury_iv_de_craon" text="Amaury IV de Craon"/>
-  <string id="sb.fre_guillaume_de_saveuse" text="Guillaume de Saveuse"/>
-  <string id="sb.fre_guillaume_d_erneville" text="Guillaume d’Erneville"/>
-  <string id="sb.fre_viconte_de_melun" text="Viconte de Melun"/>
-  <string id="sb.fre_mahieu_de_rouvroy" text="Mahieu de Rouvroy"/>
-  <string id="sb.fre_guy_iv_de_damas" text="Guy IV de Damas"/>
-  <string id="sb.fre_robert_iii_d_harcourt" text="Robert III d’Harcourt"/>
-  <string id="sb.fre_gauthier_de_brienne" text="Gauthier de Brienne"/>
-  <string id="sb.fre_jean_de_goussencourt" text="Jean de Goussencourt"/>
-  <string id="sb.fre_jean_de_cambray" text="Jean de Cambray"/>
-  <string id="sb.fre_viconte_de_touarc" text="Viconte de Touarc"/>
-  <string id="sb.cru_jacques_de_molay" text="Jacques de Molay"/>
-  <string id="sb.cru_le_puy" text="Le Puy"/>
-  <string id="sb.cru_robert_de_craon" text="Robert de Craon"/>
-  <string id="sb.cru_saint_gilles" text="Saint-Gilles"/>
-  <string id="sb.cru_bertrand_de_blanquefort" text="Bertrand de Blanquefort"/>
-  <string id="sb.cru_gerard_tenque" text="Gerard Tenque"/>
-  <string id="sb.cru_guines" text="Guines"/>
-  <string id="sb.cru_ibelin" text="Ibelin"/>
-  <string id="sb.cru_guy_de_blanchefort" text="Guy de Blanchefort"/>
-  <string id="sb.cru_gerard_de_ridefort" text="Gerard de Ridefort"/>
-  <string id="sb.cru_joubert_de_syrie" text="Joubert de Syrie"/>
-  <string id="sb.cru_chatillon" text="Chatillon"/>
-  <string id="sb.cru_avesnes" text="Avesnes"/>
-  <string id="sb.cru_grez" text="Grez"/>
-  <string id="sb.cru_agnan_de_mareul" text="Agnan de Mareul"/>
-  <string id="sb.cru_guillaume_de_villaret" text="Guillaume de Villaret"/>
-  <string id="sb.cru_adam_de_veau" text="Adam de Veau"/>
-  <string id="sb.cru_arnold_de_torroja" text="Arnold de Torroja"/>
-  <string id="sb.cru_bouillon" text="Bouillon"/>
-  <string id="sb.cru_guerin_de_montaigu" text="Guerin de Montaigu"/>
-  <string id="sb.lat_baudouin_ii_de_courtenay" text="Baudouin II de Courtenay"/>
-  <string id="sb.lat_boniface_de_montferrat" text="Boniface de Montferrat"/>
-  <string id="sb.lat_baudouin_i_de_constantinople" text="Baudouin I de Constantinople"/>
-  <string id="sb.lat_henri_i_de_constantinople" text="Henri I de Constantinople"/>
-  <string id="sb.lat_pierre_ii_de_constantinople" text="Pierre II de Constantinople"/>
-  <string id="sb.lat_jean_de_constantinople" text="Jean de Constantinople"/>
-  <string id="sb.lat_philippe_i_de_courtenay" text="Philippe I de Courtenay"/>
-  <string id="sb.lat_gaillard_de_la_motte" text="Gaillard de la Motte"/>
-  <string id="sb.lat_conon_de_bethune" text="Conon de Bethune"/>
-  <string id="sb.lat_charles_de_valois" text="Charles de Valois"/>
-  <string id="sb.lat_catherine_de_valois_courtenay" text="Catherine de Valois-Courtenay"/>
-  <string id="sb.lat_philippe_i_de_tarente" text="Philippe I de Tarente"/>
-  <string id="sb.lat_jacques_des_baux" text="Jacques des Baux"/>
-  <string id="sb.lat_etienne_du_perche" text="Etienne du Perche"/>
-  <string id="sb.lat_louis_de_blois" text="Louis de Blois"/>
-  <string id="sb.lat_thierry_de_loos" text="Thierry de Loos"/>
-  <string id="sb.lat_renier_de_trith" text="Renier de Trith"/>
-  <string id="sb.lat_florent_de_hainaut" text="Florent de Hainaut"/>
-  <string id="sb.lat_thomas_ii_of_savoy_achaea" text="Thomas II of Savoy-Achaea"/>
-  <string id="sb.lat_sanudo" text="Sanudo"/>
-  <string id="sb.lat_candavene" text="Candavene"/>
-  <string id="sb.lat_lemnos" text="Lemnos"/>
-  <string id="sb.fre_bre_bro_zol" text="Bro-Zol"/>
-  <string id="sb.fre_bre_guy_de_thouars" text="Guy de Thouars"/>
-  <string id="sb.fre_bre_jean_i_de_bretagne" text="Jean I de Bretagne"/>
-  <string id="sb.fre_bre_jean_ii_de_bretagne" text="Jean II de Bretagne"/>
-  <string id="sb.fre_bre_pierre_de_dreux" text="Pierre de Dreux"/>
-  <string id="sb.fre_bre_jean_iii_de_bretagne" text="Jean III de Bretagne"/>
-  <string id="sb.fre_bre_jean_de_montfort" text="Jean de Montfort"/>
-  <string id="sb.fre_bre_charles_de_blois" text="Charles de Blois"/>
-  <string id="sb.fre_bre_vitre" text="Vitré"/>
-  <string id="sb.fre_bre_chastel" text="Chastel"/>
-  <string id="sb.fre_bre_goyon" text="Goyon"/>
-  <string id="sb.fre_bre_rieux" text="Rieux"/>
-  <string id="sb.fre_bre_rouge" text="Rougé"/>
-  <string id="sb.fre_bre_bruc" text="Bruc"/>
-  <string id="sb.fre_bre_audren_de_kerdrel" text="Audren de Kerdrel"/>
-  <string id="sb.fre_bre_cambout_de_coislin" text="Cambout de Coislin"/>
-  <string id="sb.fre_bre_saint_pern" text="Saint-Pern"/>
-  <string id="sb.fre_bre_serent" text="Sérent"/>
-  <string id="sb.fre_bre_robien" text="Robien"/>
-  <string id="sb.fre_bre_rohan" text="Rohan"/>
-  <string id="sb.fre_bre_le_lou" text="Le Lou"/>
+  <string id="fre_aqu_poitiers" text="Poitiers"/>
+  <string id="fre_aqu_taillefer" text="Taillefer"/>
+  <string id="fre_aqu_auvergne" text="Auvergne"/>
+  <string id="fre_aqu_lusignan" text="Lusignan"/>
+  <string id="fre_aqu_thouars" text="Thouars"/>
+  <string id="fre_aqu_perigord" text="Perigord"/>
+  <string id="fre_aqu_bearn" text="Bearn"/>
+  <string id="fre_aqu_limoges" text="Limoges"/>
+  <string id="fre_aqu_valois_angouleme" text="Valois-Angoulême"/>
+  <string id="fre_aqu_albret" text="Albret"/>
+  <string id="fre_aqu_comminges" text="Comminges"/>
+  <string id="fre_aqu_lomagne_batx" text="Lomagne-Batx"/>
+  <string id="fre_aqu_durfort_de_duras" text="Durfort de Duras"/>
+  <string id="fre_aqu_parthenay" text="Parthenay"/>
+  <string id="fre_aqu_talleyrand_perigord" text="Talleyrand-Périgord"/>
+  <string id="fre_aqu_la_tremoille" text="La Trémoille"/>
+  <string id="fre_aqu_montmorency" text="Montmorency"/>
+  <string id="fre_aqu_de_pons" text="de Pons"/>
+  <string id="fre_aqu_st_maur_of_north_molton" text="St. Maur of North Molton"/>
+  <string id="fre_aqu_st_maur_of_rode" text="St. Maur of Rode"/>
+  <string id="fre_bri_cornouaille" text="Cornouaille"/>
+  <string id="fre_bri_rohan" text="Rohan"/>
+  <string id="fre_bri_penthievre" text="Penthievre"/>
+  <string id="fre_bri_porhoet" text="Porhoët"/>
+  <string id="fre_bri_leon" text="Leon"/>
+  <string id="fre_bri_bro_zol" text="Bro-Zol"/>
+  <string id="fre_bri_guy_de_thouars" text="Guy de Thouars"/>
+  <string id="fre_bri_jean_i_de_bretagne" text="Jean I de Bretagne"/>
+  <string id="fre_bri_pierre_de_dreux" text="Pierre de Dreux"/>
+  <string id="fre_bri_jean_ii_de_bretagne" text="Jean II de Bretagne"/>
+  <string id="fre_bri_jean_iii_de_bretagne" text="Jean III de Bretagne"/>
+  <string id="fre_bri_jean_de_montfort" text="Jean de Montfort"/>
+  <string id="fre_bri_charles_de_blois" text="Charles de Blois"/>
+  <string id="fre_bri_chateau_de_vitre" text="Château de Vitré"/>
+  <string id="fre_bri_du_chastel" text="Du Chastel"/>
+  <string id="fre_bri_goyon" text="Goyon"/>
+  <string id="fre_bri_chateau_de_rieux" text="Château de Rieux"/>
+  <string id="fre_bri_rouge" text="Rougé"/>
+  <string id="fre_bri_de_bruc" text="De Bruc"/>
+  <string id="fre_bri_audren_de_kerdrel" text="Audren de Kerdrel"/>
+  <string id="fre_bri_cambout_de_coislin" text="Cambout de Coislin"/>
+  <string id="fre_bri_de_saint_pern" text="De Saint-Pern"/>
+  <string id="fre_bri_serent" text="Sérent"/>
+  <string id="fre_bri_de_robien" text="De Robien"/>
+  <string id="fre_bri_le_lou" text="Le Lou"/>
+  <string id="fre_cru_jacques_de_molay" text="Jacques de Molay"/>
+  <string id="fre_cru_le_puy" text="Le Puy"/>
+  <string id="fre_cru_robert_de_craon" text="Robert de Craon"/>
+  <string id="fre_cru_louis_de_bar" text="Louis de Bar"/>
+  <string id="fre_cru_raoul_i" text="Raoul I"/>
+  <string id="fre_cru_simon_ii_de_clermont" text="Simon II de Clermont"/>
+  <string id="fre_cru_jean_de_chambly" text="Jean de Chambly"/>
+  <string id="fre_cru_aymery_i" text="Aymery I"/>
+  <string id="fre_cru_hugues_de_salignac" text="Hugues de Salignac"/>
+  <string id="fre_cru_riou_de_loheac" text="Riou de Lohéac"/>
+  <string id="fre_cru_guiffray_de_virieu" text="Guiffray de Virieu"/>
+  <string id="fre_cru_renaud_de_la_guiche" text="Renaud de la Guiche"/>
+  <string id="fre_cru_mathieu_de_jaucourt" text="Mathieu de Jaucourt"/>
+  <string id="fre_cru_guillaume_de_visdelou" text="Guillaume de Visdelou"/>
+  <string id="fre_cru_amblard_de_plas" text="Amblard de Plas"/>
+  <string id="fre_cru_philippe_de_montgommery" text="Philippe de Montgommery"/>
+  <string id="fre_cru_archeric_de_corsant" text="Archeric de Corsant"/>
+  <string id="fre_cru_bernard_de_david" text="Bernard de David"/>
+  <string id="fre_cru_renaud_de_briey" text="Renaud de Briey"/>
+  <string id="fre_cru_isnard" text="Isnard"/>
+  <string id="fre_lat_baudouin_ii_de_courtenay" text="Baudouin II de Courtenay"/>
+  <string id="fre_lat_florent_de_hainaut" text="Florent de Hainaut"/>
+  <string id="fre_lat_boniface_de_montferrat" text="Boniface de Montferrat"/>
+  <string id="fre_lat_baudouin_i_de_constantinople" text="Baudouin I de Constantinople"/>
+  <string id="fre_lat_henri_i_de_constantinople" text="Henri I de Constantinople"/>
+  <string id="fre_lat_pierre_ii_de_constantinople" text="Pierre II de Constantinople"/>
+  <string id="fre_lat_jean_de_constantinople" text="Jean de Constantinople"/>
+  <string id="fre_lat_philippe_i_de_courtenay" text="Philippe I de Courtenay"/>
+  <string id="fre_lat_gaillard_de_la_motte" text="Gaillard de la Motte"/>
+  <string id="fre_lat_conon_de_bethune" text="Conon de Bethune"/>
+  <string id="fre_lat_charles_de_valois" text="Charles de Valois"/>
+  <string id="fre_lat_catherine_de_valois_courtenay" text="Catherine de Valois-Courtenay"/>
+  <string id="fre_lat_philippe_i_de_tarente" text="Philippe I de Tarente"/>
+  <string id="fre_lat_jacques_des_baux" text="Jacques des Baux"/>
+  <string id="fre_lat_etienne_du_perche" text="Étienne du Perche"/>
+  <string id="fre_lat_thierry_de_loos" text="Thierry de Loos"/>
+  <string id="fre_lat_thomas_ii_of_savoy_achaea" text="Thomas II of Savoy-Achaea"/>
+  <string id="fre_lat_sanudo" text="Sanudo"/>
+  <string id="fre_lat_hugues_iv_candavene" text="Hugues IV Candavène"/>
+  <string id="fre_lat_lemnos" text="Lemnos"/>
+  <string id="fre_tou_toulouse" text="Toulouse"/>
+  <string id="fre_tou_trencavel" text="Trencavel"/>
+  <string id="fre_tou_comborn" text="Comborn"/>
+  <string id="fre_tou_melgueil" text="Melgueil"/>
+  <string id="fre_tou_lautrec" text="Lautrec"/>
+  <string id="fre_tou_narbonne" text="Narbonne"/>
+  <string id="fre_tou_bernard_aton_iv" text="Bernard Aton IV"/>
+  <string id="fre_tou_couserans" text="Couserans"/>
+  <string id="fre_tou_millau" text="Millau"/>
+  <string id="fre_tou_carlat" text="Carlat"/>
+  <string id="fre_tou_anduze" text="Anduze"/>
+  <string id="fre_tou_uzes" text="Uzès"/>
+  <string id="fre_tou_sabran" text="Sabran"/>
+  <string id="fre_tou_baux" text="Baux"/>
+  <string id="fre_tou_levis" text="Levis"/>
+  <string id="fre_tou_levis_caylus" text="Lévis-Caylus"/>
+  <string id="fre_tou_chateauneuf_de_randon" text="Châteauneuf de Randon"/>
+  <string id="fre_tou_crussol" text="Crussol"/>
+  <string id="fre_tou_potier" text="Potier"/>
+  <string id="fre_fra_capet" text="Capet"/>
+  <string id="fre_fra_anjou" text="Anjou"/>
+  <string id="fre_fra_bourgogne" text="Bourgogne"/>
+  <string id="fre_fra_blois_champagne" text="Blois-Champagne"/>
+  <string id="fre_fra_boulogne" text="Boulogne"/>
+  <string id="fre_fra_blois" text="Blois"/>
+  <string id="fre_fra_vermandois" text="Vermandois"/>
+  <string id="fre_fra_bourbon" text="Bourbon"/>
+  <string id="fre_fra_evreux" text="Évreux"/>
+  <string id="fre_fra_alencon" text="Alençon"/>
+  <string id="fre_fra_coucy" text="Coucy"/>
+  <string id="fre_fra_nesle" text="Nesle"/>
+  <string id="fre_fra_pierrepont" text="Pierrepont"/>
+  <string id="fre_fra_abbeville" text="Abbeville"/>
+  <string id="fre_fra_la_roche_guyon" text="La Roche-Guyon"/>
+  <string id="fre_fra_boves" text="Boves"/>
+  <string id="fre_fra_puiset" text="Puiset"/>
+  <string id="fre_fra_la_ferte_arnaud" text="La Ferté-Arnaud"/>
+  <string id="fre_fra_melun" text="Melun"/>
+  <string id="fre_fra_montdidier" text="Montdidier"/>
   <string id="sb.geo_abashidze" text="Abashidze"/>
   <string id="sb.geo_agiashvili" text="Agiashvili"/>
   <string id="sb.geo_avalishvili" text="Avalishvili"/>

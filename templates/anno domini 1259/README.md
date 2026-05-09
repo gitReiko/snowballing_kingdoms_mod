@@ -24,7 +24,9 @@ Spawns new clans for kingdoms that conquer new settlements. This allows you to p
 
 Players only. If you are a modder, contact me.
 
-[url=https://drive.google.com/file/d/1lvZ2dpT1VzAb_GHsmHNkbItU8DA6acMM/view?usp=sharing]German Banners (download to see images)[/url]
+[url=https://drive.google.com/file/d/1awu-jncUS-OTIUTsMDoMa92zRoWMEtSk/view?usp=sharing]German Banners (download to see images)[/url]
+
+[url=https://drive.google.com/file/d/1RaY7FSOpFuI8EMg_0DxpH-aJ3g2iJSTa/view?usp=sharing]French Banners (download to see images)[/url]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3427239636]Steam Guide[/url]
 
@@ -66,14 +68,18 @@ There is no single timeline. However, the main focus is on the middle ages. Diff
 
 I did not intend to offend anyone with any of designs or names. I know nothing about families and their banners. I just take collections from public sources. The grouping by cultures is approximate and rough. I hope nothing here is inappropriate or offensive — the intention was opposite.
 
-## Update 1.0.18
+## Update 1.0.19
 
-- Mecklenburg-Werle banner improvement
-- Female names fix
-- Lord skills fix
-- Attempt to fix skills in ongoing games (in new game skills will be fixed. But in ongoing I'll try to kill broken clans).
+- Anno Domini 1259 id correction
+- French banners rework
+- 20 Aquitaine banners
+- 25 Brittany banners
+- 20 Crusaders banners
+- 20 Latin Empire banners
+- 20 Toulouse banners
+- 20 France banners
 
-## Current banners (total 1326)
+## Current banners (total 1368)
 
 - Andalusia 23
 - Arab 30
@@ -101,10 +107,12 @@ I did not intend to offend anyone with any of designs or names. I know nothing a
 - Finnish - Finnish 5 
 - Finnish - Karelian 10 
 - Finnish - Tavastian 10 
-- French - French 20
-- French - Crusader 20 
-- French - Bretagne 21 
-- French - Latin 22 
+- French - Aquitaine 20 (HQ)
+- French - Brittany 25 (HQ)
+- French - Crusaders 20 (HQ)
+- French - France 20 (HQ)
+- French - Latin Empire 22 (HQ)
+- French - Toulouse 20 (HQ)
 - Georgian 20
 - German - Bavaria 21 (HQ)
 - German - Carinthia 1 (HQ)

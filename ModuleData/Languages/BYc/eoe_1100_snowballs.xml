@@ -330,89 +330,130 @@
   <string id="sb.rad_paplauskija" text="Паплаўскія"/>
   <string id="sb.rad_slucanouskija" text="Случаноўскія"/>
   <string id="sb.rad_chadasovicy" text="Хадасовічы"/>
-  <string id="sb.fre_pierre_i_of_bourbon" text="Пьер I ду Бурбон"/>
-  <string id="sb.fre_jacques_de_bourbon" text="Жак ду Бурбон"/>
-  <string id="sb.fre_jean_d_artois" text="Жан д'Артуа"/>
-  <string id="sb.fre_bishop_of_chalons" text="Біскуп Шалонскі"/>
-  <string id="sb.fre_jean_i_de_bourbon" text="Жан I ду Бурбон"/>
-  <string id="sb.fre_arnould_de_wesmael" text="Арнульд ду Вэсмаль"/>
-  <string id="sb.fre_conte_de_salm_en_ardenne" text="Конт ду Сальм"/>
-  <string id="sb.fre_regnaut_d_aubigny" text="Руньё д'Убіні"/>
-  <string id="sb.fre_bernard_de_ventadour" text="Бернард ду Вентадур"/>
-  <string id="sb.fre_amaury_iv_de_craon" text="Аморы IV ду Краон"/>
-  <string id="sb.fre_guillaume_de_saveuse" text="Гіём ду Савуз"/>
-  <string id="sb.fre_guillaume_d_erneville" text="Гіём д'Эрнувіль"/>
-  <string id="sb.fre_viconte_de_melun" text="Віконт ду Мюлян"/>
-  <string id="sb.fre_mahieu_de_rouvroy" text="Маё ду Рувруа"/>
-  <string id="sb.fre_guy_iv_de_damas" text="Гій IV ду Дамас"/>
-  <string id="sb.fre_robert_iii_d_harcourt" text="Робер III д'Аркур"/>
-  <string id="sb.fre_gauthier_de_brienne" text="Гоцье ду Брыенн"/>
-  <string id="sb.fre_jean_de_goussencourt" text="Жан ду Гуссэнкур"/>
-  <string id="sb.fre_jean_de_cambray" text="Жан ду Камбрэй"/>
-  <string id="sb.fre_viconte_de_touarc" text="Віконт ду Туарк"/>
-  <string id="sb.cru_jacques_de_molay" text="Жак ду Молэй"/>
-  <string id="sb.cru_le_puy" text="Лю Пюі"/>
-  <string id="sb.cru_robert_de_craon" text="Робер ду Краон"/>
-  <string id="sb.cru_saint_gilles" text="Сэн-Жыль"/>
-  <string id="sb.cru_bertrand_de_blanquefort" text="Бертран ду Бланкуфор"/>
-  <string id="sb.cru_gerard_tenque" text="Жырар Тэнке"/>
-  <string id="sb.cru_guines" text="Гінэс"/>
-  <string id="sb.cru_ibelin" text="Ібэлін"/>
-  <string id="sb.cru_guy_de_blanchefort" text="Гій ду Бляншэфор"/>
-  <string id="sb.cru_gerard_de_ridefort" text="Жырар ду Рыдэфор"/>
-  <string id="sb.cru_joubert_de_syrie" text="Жубер ду Сірый"/>
-  <string id="sb.cru_chatillon" text="Шаціён"/>
-  <string id="sb.cru_avesnes" text="Авен"/>
-  <string id="sb.cru_grez" text="Грэз"/>
-  <string id="sb.cru_agnan_de_mareul" text="Аньё ду Мароль"/>
-  <string id="sb.cru_guillaume_de_villaret" text="Гіём ду Віларэ"/>
-  <string id="sb.cru_adam_de_veau" text="Адам ду Ву"/>
-  <string id="sb.cru_arnold_de_torroja" text="Арнольд ду Тарроха"/>
-  <string id="sb.cru_bouillon" text="Бульён"/>
-  <string id="sb.cru_guerin_de_montaigu" text="Гіран ду Монтэгю"/>
-  <string id="sb.lat_baudouin_ii_de_courtenay" text="Бадуа II ду Куртунэ"/>
-  <string id="sb.lat_boniface_de_montferrat" text="Боніфас ду Мунфера"/>
-  <string id="sb.lat_baudouin_i_de_constantinople" text="Бадуа I ду Констанцінопль"/>
-  <string id="sb.lat_henri_i_de_constantinople" text="Онры I ду Констанцінопль"/>
-  <string id="sb.lat_pierre_ii_de_constantinople" text="Пьер II ду Констанцінопль"/>
-  <string id="sb.lat_jean_de_constantinople" text="Жан ду Констанцінопль"/>
-  <string id="sb.lat_philippe_i_de_courtenay" text="Філіп I ду Куртунэ"/>
-  <string id="sb.lat_gaillard_de_la_motte" text="Гайяр ду ля Мотт"/>
-  <string id="sb.lat_conon_de_bethune" text="Конан ду Бецюн"/>
-  <string id="sb.lat_charles_de_valois" text="Шарль ду Валуа"/>
-  <string id="sb.lat_catherine_de_valois_courtenay" text="Кацюрын ду Валуа-Куртунэ"/>
-  <string id="sb.lat_philippe_i_de_tarente" text="Філіп I ду Таронт"/>
-  <string id="sb.lat_jacques_des_baux" text="Жак дзі Бу"/>
-  <string id="sb.lat_etienne_du_perche" text="Эцьен дзю Перш"/>
-  <string id="sb.lat_louis_de_blois" text="Луі ду Блуа"/>
-  <string id="sb.lat_thierry_de_loos" text="Цьеры ду Лос"/>
-  <string id="sb.lat_renier_de_trith" text="Рунье ду Трыт"/>
-  <string id="sb.lat_florent_de_hainaut" text="Флоран ду Эно"/>
-  <string id="sb.lat_thomas_ii_of_savoy_achaea" text="Тома II of Савуа-Ахея"/>
-  <string id="sb.lat_sanudo" text="Сануда"/>
-  <string id="sb.lat_candavene" text="Кандавенэ"/>
-  <string id="sb.lat_lemnos" text="Лемнос"/>
-  <string id="sb.fre_bre_bro_zol" text="Бро-Зол"/>
-  <string id="sb.fre_bre_guy_de_thouars" text="Гій ду Туар"/>
-  <string id="sb.fre_bre_jean_i_de_bretagne" text="Жоан I ду Брутань"/>
-  <string id="sb.fre_bre_jean_ii_de_bretagne" text="Жоан II ду Брутань"/>
-  <string id="sb.fre_bre_pierre_de_dreux" text="Пьер ду Дру"/>
-  <string id="sb.fre_bre_jean_iii_de_bretagne" text="Жоан III ду Брутань"/>
-  <string id="sb.fre_bre_jean_de_montfort" text="Жоан ду Мунфор"/>
-  <string id="sb.fre_bre_charles_de_blois" text="Шарле ду Блуа"/>
-  <string id="sb.fre_bre_vitre" text="Вітрэ"/>
-  <string id="sb.fre_bre_chastel" text="Шастэль"/>
-  <string id="sb.fre_bre_goyon" text="Гуаён"/>
-  <string id="sb.fre_bre_rieux" text="Рыю"/>
-  <string id="sb.fre_bre_rouge" text="Ружы"/>
-  <string id="sb.fre_bre_bruc" text="Брук"/>
-  <string id="sb.fre_bre_audren_de_kerdrel" text="Одрэн ду Кердрэль"/>
-  <string id="sb.fre_bre_cambout_de_coislin" text="Камбу ду Койсьлін"/>
-  <string id="sb.fre_bre_saint_pern" text="Сан-Перн"/>
-  <string id="sb.fre_bre_serent" text="Сіро"/>
-  <string id="sb.fre_bre_robien" text="Робьен"/>
-  <string id="sb.fre_bre_rohan" text="Роан"/>
-  <string id="sb.fre_bre_le_lou" text="Лё Лю"/>
+  <string id="fre_aqu_poitiers" text="Пуацье"/>
+  <string id="fre_aqu_taillefer" text="Тайлефер"/>
+  <string id="fre_aqu_auvergne" text="Авернь"/>
+  <string id="fre_aqu_lusignan" text="Люзіньян"/>
+  <string id="fre_aqu_thouars" text="Туар"/>
+  <string id="fre_aqu_perigord" text="Перыгор"/>
+  <string id="fre_aqu_bearn" text="Беарн"/>
+  <string id="fre_aqu_limoges" text="Лімож"/>
+  <string id="fre_aqu_valois_angouleme" text="Валуа-Ангулам"/>
+  <string id="fre_aqu_albret" text="Альбрэ"/>
+  <string id="fre_aqu_comminges" text="Комінж"/>
+  <string id="fre_aqu_lomagne_batx" text="Ламань-Бат"/>
+  <string id="fre_aqu_durfort_de_duras" text="Дурфор дэ Дзюрас"/>
+  <string id="fre_aqu_parthenay" text="Партнэ"/>
+  <string id="fre_aqu_talleyrand_perigord" text="Талейран-Перыгор"/>
+  <string id="fre_aqu_la_tremoille" text="Ла Трэмуа"/>
+  <string id="fre_aqu_montmorency" text="Монмарансі"/>
+  <string id="fre_aqu_de_pons" text="дэ Пон"/>
+  <string id="fre_aqu_st_maur_of_north_molton" text="Сэн-Мор з Норт-Молтана"/>
+  <string id="fre_aqu_st_maur_of_rode" text="Сэн-Мор з Родэ"/>
+  <string id="fre_bri_cornouaille" text="Карнуай"/>
+  <string id="fre_bri_rohan" text="Роан"/>
+  <string id="fre_bri_penthievre" text="Панцьеўр"/>
+  <string id="fre_bri_porhoet" text="Порэ"/>
+  <string id="fre_bri_leon" text="Леон"/>
+  <string id="fre_bri_bro_zol" text="Бро-Зол"/>
+  <string id="fre_bri_guy_de_thouars" text="Гі дэ Туар"/>
+  <string id="fre_bri_jean_i_de_bretagne" text="Жан I дэ Брэтань"/>
+  <string id="fre_bri_pierre_de_dreux" text="Пьер дэ Дрэ"/>
+  <string id="fre_bri_jean_ii_de_bretagne" text="Жан II дэ Брэтань"/>
+  <string id="fre_bri_jean_iii_de_bretagne" text="Жан III дэ Брэтань"/>
+  <string id="fre_bri_jean_de_montfort" text="Жан дэ Монфор"/>
+  <string id="fre_bri_charles_de_blois" text="Шарль дэ Блуа"/>
+  <string id="fre_bri_chateau_de_vitre" text="Шато дэ Вітрэ"/>
+  <string id="fre_bri_du_chastel" text="Дзю Шастэль"/>
+  <string id="fre_bri_goyon" text="Гуён"/>
+  <string id="fre_bri_chateau_de_rieux" text="Шато дэ Р'ё"/>
+  <string id="fre_bri_rouge" text="Ружэ"/>
+  <string id="fre_bri_de_bruc" text="дэ Брук"/>
+  <string id="fre_bri_audren_de_kerdrel" text="Одрэн дэ Кердрэль"/>
+  <string id="fre_bri_cambout_de_coislin" text="Камбу дэ Куален"/>
+  <string id="fre_bri_de_saint_pern" text="дэ Сэн-Пэрн"/>
+  <string id="fre_bri_serent" text="Серан"/>
+  <string id="fre_bri_de_robien" text="дэ Робьен"/>
+  <string id="fre_bri_le_lou" text="Лё Лу"/>
+  <string id="fre_cru_jacques_de_molay" text="Жак дэ Мале"/>
+  <string id="fre_cru_le_puy" text="Лё Пюі"/>
+  <string id="fre_cru_robert_de_craon" text="Робэр дэ Краон"/>
+  <string id="fre_cru_louis_de_bar" text="Луі дэ Бар"/>
+  <string id="fre_cru_raoul_i" text="Рауль I"/>
+  <string id="fre_cru_simon_ii_de_clermont" text="Сімон II дэ Клермон"/>
+  <string id="fre_cru_jean_de_chambly" text="Жан дэ Шамблі"/>
+  <string id="fre_cru_aymery_i" text="Эмеры I"/>
+  <string id="fre_cru_hugues_de_salignac" text="Юг дэ Саліньяк"/>
+  <string id="fre_cru_riou_de_loheac" text="Рыу дэ Лоэак"/>
+  <string id="fre_cru_guiffray_de_virieu" text="Гіфрэ дэ Вір'ё"/>
+  <string id="fre_cru_renaud_de_la_guiche" text="Рэно дэ ла Гіш"/>
+  <string id="fre_cru_mathieu_de_jaucourt" text="Мацьё дэ Жакур"/>
+  <string id="fre_cru_guillaume_de_visdelou" text="Гіём дэ Відзэлу"/>
+  <string id="fre_cru_amblard_de_plas" text="Амблар дэ Пла"/>
+  <string id="fre_cru_philippe_de_montgommery" text="Філіп дэ Мантгомеры"/>
+  <string id="fre_cru_archeric_de_corsant" text="Аршэрык дэ Корсан"/>
+  <string id="fre_cru_bernard_de_david" text="Бернар дэ Давід"/>
+  <string id="fre_cru_renaud_de_briey" text="Рэно дэ Брые"/>
+  <string id="fre_cru_isnard" text="Існар"/>
+  <string id="fre_lat_baudouin_ii_de_courtenay" text="Бадуэн II дэ Куртнэ"/>
+  <string id="fre_lat_florent_de_hainaut" text="Фларэн дэ Эно"/>
+  <string id="fre_lat_boniface_de_montferrat" text="Баніфас дэ Манфера"/>
+  <string id="fre_lat_baudouin_i_de_constantinople" text="Бадуэн I дэ Канстанцінопаль"/>
+  <string id="fre_lat_henri_i_de_constantinople" text="Анры I дэ Канстанцінопаль"/>
+  <string id="fre_lat_pierre_ii_de_constantinople" text="Пьер II дэ Канстанцінопаль"/>
+  <string id="fre_lat_jean_de_constantinople" text="Жан дэ Канстанцінопаль"/>
+  <string id="fre_lat_philippe_i_de_courtenay" text="Філіп I дэ Куртнэ"/>
+  <string id="fre_lat_gaillard_de_la_motte" text="Гаяр дэ ла Мот"/>
+  <string id="fre_lat_conon_de_bethune" text="Канон дэ Бецюн"/>
+  <string id="fre_lat_charles_de_valois" text="Шарль дэ Валуа"/>
+  <string id="fre_lat_catherine_de_valois_courtenay" text="Катрын дэ Валуа-Куртнэ"/>
+  <string id="fre_lat_philippe_i_de_tarente" text="Філіп I дэ Таранта"/>
+  <string id="fre_lat_jacques_des_baux" text="Жак дэ Бо"/>
+  <string id="fre_lat_etienne_du_perche" text="Эцьен дзю Перш"/>
+  <string id="fre_lat_thierry_de_loos" text="Цьеры дэ Лос"/>
+  <string id="fre_lat_thomas_ii_of_savoy_achaea" text="Томас II дэ Савоя-Ахея"/>
+  <string id="fre_lat_sanudo" text="Сануда"/>
+  <string id="fre_lat_hugues_iv_candavene" text="Юг IV Кандавен"/>
+  <string id="fre_lat_lemnos" text="Лемнас"/>
+  <string id="fre_tou_toulouse" text="Тулуза"/>
+  <string id="fre_tou_trencavel" text="Транкавель"/>
+  <string id="fre_tou_comborn" text="Камборн"/>
+  <string id="fre_tou_melgueil" text="Мельгей"/>
+  <string id="fre_tou_lautrec" text="Латрэк"/>
+  <string id="fre_tou_narbonne" text="Нарбон"/>
+  <string id="fre_tou_bernard_aton_iv" text="Бернар Атон IV"/>
+  <string id="fre_tou_couserans" text="Кузэран"/>
+  <string id="fre_tou_millau" text="Міё"/>
+  <string id="fre_tou_carlat" text="Карла"/>
+  <string id="fre_tou_anduze" text="Андзюз"/>
+  <string id="fre_tou_uzes" text="Юзэс"/>
+  <string id="fre_tou_sabran" text="Сабран"/>
+  <string id="fre_tou_baux" text="Бо"/>
+  <string id="fre_tou_levis" text="Леві"/>
+  <string id="fre_tou_levis_caylus" text="Леві-Кайлюс"/>
+  <string id="fre_tou_chateauneuf_de_randon" text="Шатонёф дэ Рандон"/>
+  <string id="fre_tou_crussol" text="Крусоль"/>
+  <string id="fre_tou_potier" text="Пацье"/>
+  <string id="fre_fra_capet" text="Капэ"/>
+  <string id="fre_fra_anjou" text="Анжу"/>
+  <string id="fre_fra_bourgogne" text="Бургонь"/>
+  <string id="fre_fra_blois_champagne" text="Блуа-Шампань"/>
+  <string id="fre_fra_boulogne" text="Булонь"/>
+  <string id="fre_fra_blois" text="Блуа"/>
+  <string id="fre_fra_vermandois" text="Вермандуа"/>
+  <string id="fre_fra_bourbon" text="Бурбон"/>
+  <string id="fre_fra_evreux" text="Эўрэ"/>
+  <string id="fre_fra_alencon" text="Алансон"/>
+  <string id="fre_fra_coucy" text="Кусі"/>
+  <string id="fre_fra_nesle" text="Нэль"/>
+  <string id="fre_fra_pierrepont" text="Пьерпон"/>
+  <string id="fre_fra_abbeville" text="Абвіль"/>
+  <string id="fre_fra_la_roche_guyon" text="Ла Рош-Гіён"/>
+  <string id="fre_fra_boves" text="Бов"/>
+  <string id="fre_fra_puiset" text="Пюізэ"/>
+  <string id="fre_fra_la_ferte_arnaud" text="Ла Фертэ-Арно"/>
+  <string id="fre_fra_melun" text="Мелён"/>
+  <string id="fre_fra_montdidier" text="Мондыдзье"/>
   <string id="sb.geo_abashidze" text="Абашыдзэ"/>
   <string id="sb.geo_agiashvili" text="Агяшвілі"/>
   <string id="sb.geo_avalishvili" text="Авалішвілі"/>
