@@ -75,14 +75,18 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.18
+## Update 1.0.19
 
-- Mecklenburg-Werle banner improvement
-- Female names fix
-- Lord skills fix
-- Attempt to fix skills in ongoing games (in new game skills will be fixed. But on ongoing I'll try to kill broken clans.).
+- Anno Domini 1259 id correction
+- French banners rework
+- 20 Aquitaine banners
+- 25 Brittany banners
+- 20 Crusaders banners
+- 20 Latin Empire banners
+- 20 Toulouse banners
+- 20 France banners
 
-## Current banners (total 1326)
+## Current banners (total 1368)
 
 - Andalusia 23
 - Arab 30
@@ -110,10 +114,12 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Finnish - Finnish 5 
 - Finnish - Karelian 10 
 - Finnish - Tavastian 10 
-- French - French 20
-- French - Crusader 20 
-- French - Bretagne 21 
-- French - Latin 22 
+- French - Aquitaine 20 (HQ)
+- French - Brittany 25 (HQ)
+- French - Crusaders 20 (HQ)
+- French - France 20 (HQ)
+- French - Latin Empire 22 (HQ)
+- French - Toulouse 20 (HQ)
 - Georgian 20
 - German - Bavaria 21 (HQ)
 - German - Carinthia 1 (HQ)
