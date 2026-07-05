@@ -68,7 +68,7 @@ There is no single timeline. However, the main focus is on the middle ages. Diff
 
 I did not intend to offend anyone with any of designs or names. I know nothing about families and their banners. I just take collections from public sources. The grouping by cultures is approximate and rough. I hope nothing here is inappropriate or offensive — the intention was opposite.
 
-## Update 1.0.19
+## Update 1.0.20
 
 - Anno Domini 1259 id correction
 - French banners rework
