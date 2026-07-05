@@ -86,9 +86,9 @@ I did not intend to offend anyone with any of designs or names. I know nothing a
 - Armenian 16
 - Baltic - Curonian 7
 - Baltic - Jatvingian 11
-- Baltic - Jatvingian Late 16
 - Baltic - Latgalian 11
 - Baltic - Lithuania 11
+- Baltic - Lithuanian Late 21
 - Baltic - Prussia 10
 - Baltic - Samogitia 11
 - Baltic - Teutonic 5

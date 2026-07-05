@@ -85,9 +85,9 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Armenian 16
 - Baltic - Curonian 7
 - Baltic - Jatvingian 11
-- Baltic - Jatvingian Late 16
 - Baltic - Latgalian 11
 - Baltic - Lithuania 11
+- Baltic - Lithuanian Late 21
 - Baltic - Prussia 10
 - Baltic - Samogitia 11
 - Baltic - Teutonic 5
