@@ -70,13 +70,13 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 ## Update 1.0.20
 
 - Anno Domini 1259 id correction
-- French banners rework
-- 20 Aquitaine banners
-- 25 Brittany banners
-- 20 Crusaders banners
-- 20 Latin Empire banners
-- 20 Toulouse banners
-- 20 France banners
+- Balto-Slavic banners rework
+- 20 Black Ruthenia banners
+- 27 Dregoviches banners
+- 4  Other Kryvichs banners
+- 32 Polack banners
+- 20 Radzimichs banners
+- 22 Smolensk banners
 
 ## Current banners (total 1368)
 
@@ -88,18 +88,20 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Baltic - Jatvingian Late 16
 - Baltic - Latgalian 11
 - Baltic - Lithuania 11
-- Baltic - Lithuanian Late 21
 - Baltic - Prussia 10
 - Baltic - Samogitia 11
 - Baltic - Teutonic 5
 - Baltic - Zemgalian 11
+- Belarusian - Black Ruthenia 20 (HQ)
+- Belarusian - Dregoviches 27 (HQ)
+- Belarusian - Polack 32 (HQ)
+- Belarusian - Radzimichs 20 (HQ)
+- Berber 23
 - Bohemia 23
 - Bosnian 20
-- Berber 23
 - Bulgarian 20
 - Byzantine 24
 - Croatian 20
-- Dregovian 30
 - English 30 
 - Finnish - Aestian 18 
 - Finnish - Aestian Teutonic 4
@@ -132,10 +134,6 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Italian - Pisa 1
 - Italian - Venice 20
 - Italian 30 
-- Kryvian – Połack 35
-- Kryvian – Smolensk 23
-- Kryvian – Other duchies 4
-- Kryvian – Radimian 9
 - Nordic - Denmark 26
 - Nordic - Norway 22
 - Nordic - Sweden 26
@@ -148,6 +146,8 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Rus - Chernigov 17
 - Rus - Kyiv 20
 - Rus - Pereiaslav 14
+- Russian - Other Kryvichs 4 (HQ)
+- Russian - Smolensk 22 (HQ)
 - Scottish 20
 - Serbian - Serbian 21
 - Sicilian 21
@@ -163,7 +163,6 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 
 ## Further plans
 
-- create banners for all kingdoms of EoE 1100 Expanded
 - recolor and enhance all banners with Lscd88 help
 - adaptations for other mods
 - more banners
