@@ -69,7 +69,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 
 ## Update 1.0.20
 
-- Anno Domini 1259 id correction
+- Empires of Europe 1100 id correction
 - Balto-Slavic banners rework
 - 20 Black Ruthenia banners
 - 27 Dregoviches banners
