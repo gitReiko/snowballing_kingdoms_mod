@@ -75,7 +75,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - 27 Dregoviches banners
 - 4  Other Kryvichs banners
 - 32 Polack banners
-- 20 Radzimichs banners
+- 21 Radzimichs banners
 - 22 Smolensk banners
 
 ## Current banners (total 1368)
@@ -95,7 +95,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Belarusian - Black Ruthenia 20 (HQ)
 - Belarusian - Dregoviches 27 (HQ)
 - Belarusian - Polack 32 (HQ)
-- Belarusian - Radzimichs 20 (HQ)
+- Belarusian - Radzimichs 21 (HQ)
 - Berber 23
 - Bohemia 23
 - Bosnian 20
