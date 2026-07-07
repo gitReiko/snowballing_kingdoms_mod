@@ -78,7 +78,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - 21 Radzimichs banners
 - 22 Smolensk banners
 
-## Current banners (total 1368)
+## Current banners (total 1393)
 
 - Andalusia 23
 - Arab 30
