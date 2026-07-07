@@ -74,7 +74,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - 20 Black Ruthenia banners
 - 27 Dregoviches banners
 - 4  Other Kryvichs banners
-- 32 Polack banners
+- 32 Połack banners
 - 21 Radzimichs banners
 - 22 Smolensk banners
 
@@ -94,7 +94,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Baltic - Zemgalian 11
 - Belarusian - Black Ruthenia 20 (HQ)
 - Belarusian - Dregoviches 27 (HQ)
-- Belarusian - Polack 32 (HQ)
+- Belarusian - Połack 32 (HQ)
 - Belarusian - Radzimichs 21 (HQ)
 - Berber 23
 - Bohemia 23
