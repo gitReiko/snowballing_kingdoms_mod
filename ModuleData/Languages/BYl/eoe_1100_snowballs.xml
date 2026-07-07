@@ -90,6 +90,105 @@
   <string id="sb.arm_hasan_jalalyan" text="Chasan-Žałalan"/>
   <string id="sb.arm_paluni" text="Pałuni"/>
   <string id="sb.arm_melikyan" text="Mielikian"/>
+  <string id="bel_bla_daniejki" text="Daniejki"/>
+  <string id="bel_bla_zehnieuskija" text="Žehnieŭskija"/>
+  <string id="bel_bla_pacy" text="Pacy"/>
+  <string id="bel_bla_kiersnouskiija" text="Kiersnoŭskija"/>
+  <string id="bel_bla_mierzejeuskija" text="Mieržejeŭskija"/>
+  <string id="bel_bla_snarskija" text="Snarskija"/>
+  <string id="bel_bla_troski" text="Troski"/>
+  <string id="bel_bla_ulanouskija" text="Ułanoŭskija"/>
+  <string id="bel_bla_chomicy" text="Chomičy"/>
+  <string id="bel_bla_brodzicy" text="Brodzičy"/>
+  <string id="bel_bla_sylinhi" text="Šylinhi"/>
+  <string id="bel_bla_free_city_lubcy" text="Volny Horad Lubčy"/>
+  <string id="bel_bla_free_city_lida" text="Volny Horad Lida"/>
+  <string id="bel_bla_free_city_vaukavysk" text="Volny Horad Vaŭkavysk"/>
+  <string id="bel_bla_free_city_slonim" text="Volny Horad Słonim"/>
+  <string id="bel_bla_chraptovicy" text="Chraptovičy"/>
+  <string id="bel_bla_buchavieckija" text="Buchavieckija"/>
+  <string id="bel_bla_abuchovicy" text="Abuchovičy"/>
+  <string id="bel_bla_piatkievicy" text="Piatkievičy"/>
+  <string id="bel_dre_free_city_bierascie" text="Volny Horad Bieraście"/>
+  <string id="bel_dre_free_city_kamianiec_litouski" text="Volny Horad Kamianiec-Litoŭski"/>
+  <string id="bel_dre_free_city_pinsk" text="Volny Horad Pinsk"/>
+  <string id="bel_dre_free_city_mazyr" text="Volny Horad Mazyr"/>
+  <string id="bel_dre_free_city_sluck" text="Volny Horad Słuck"/>
+  <string id="bel_dre_kallavury" text="Kałavury"/>
+  <string id="bel_dre_lyckouskija" text="Łyčkoŭskija"/>
+  <string id="bel_dre_pinskija" text="Pinskija"/>
+  <string id="bel_dre_chmary" text="Chmary"/>
+  <string id="bel_dre_kasciuski" text="Kaściuški"/>
+  <string id="bel_dre_statkievicy" text="Statkievičy"/>
+  <string id="bel_dre_kalencyskija" text="Kalenčyskija"/>
+  <string id="bel_dre_pacy" text="Pacy"/>
+  <string id="bel_dre_karzanieuskija" text="Karžanieŭskija"/>
+  <string id="bel_dre_alelkavicy_sluckija" text="Alelkavičy-Słuckija"/>
+  <string id="bel_dre_baranoŭskija" text="Baranoŭskija"/>
+  <string id="bel_dre_kazlouskija" text="Kazłoŭskija"/>
+  <string id="bel_dre_vysenskija" text="Vyšenskija"/>
+  <string id="bel_dre_styrykovicy" text="Styrykovičy"/>
+  <string id="bel_dre_suski" text="Suški"/>
+  <string id="bel_dre_satkouskija" text="Šatkoŭskija"/>
+  <string id="bel_dre_michalouskija" text="Michałoŭskija"/>
+  <string id="bel_dre_hieraltouskija" text="Hierałtoŭskija"/>
+  <string id="bel_dre_free_city_lahisyn" text="Volny Horad Łahišyn"/>
+  <string id="bel_dre_free_city_niasviz" text="Volny Horad Niaśviž"/>
+  <string id="bel_dre_free_city_vysokaje" text="Volny Horad Vysokaje"/>
+  <string id="bel_dre_firlei" text="Firlei"/>
+  <string id="bel_pol_karceuskija" text="Karčeŭskija"/>
+  <string id="bel_pol_lukanskija_paulavicy" text="Łukanskija-Paŭłavičy"/>
+  <string id="bel_pol_hiejstory" text="Hiejštory"/>
+  <string id="bel_pol_chudzinskija" text="Chudzinskija"/>
+  <string id="bel_pol_mikosy" text="Mikošy"/>
+  <string id="bel_pol_amantavy" text="Amantavy"/>
+  <string id="bel_pol_pacabuty" text="Pačabuty"/>
+  <string id="bel_pol_anikievicy" text="Anikievičy"/>
+  <string id="bel_pol_pacalajeuskija" text="Pacałajeŭskija"/>
+  <string id="bel_pol_scerbinskija" text="Ščerbinskija"/>
+  <string id="bel_pol_montyvilly" text="Montyviły"/>
+  <string id="bel_pol_vilcynskija" text="Vilčynskija"/>
+  <string id="bel_pol_visnieuskija" text="Višnieŭskija"/>
+  <string id="bel_pol_krajeuskija" text="Krajeŭskija"/>
+  <string id="bel_pol_navickija" text="Navickija"/>
+  <string id="bel_pol_plavinskija" text="Płavinskija"/>
+  <string id="bel_pol_piasieckija" text="Piasieckija"/>
+  <string id="bel_pol_dziedzierki" text="Dziedzierki"/>
+  <string id="bel_pol_plevaki" text="Plevaki"/>
+  <string id="bel_pol_malkievicy" text="Malkievičy"/>
+  <string id="bel_pol_jesipovicy" text="Jesipovičy"/>
+  <string id="bel_pol_horskija" text="Horskija"/>
+  <string id="bel_pol_maseuskija" text="Mašeŭskija"/>
+  <string id="bel_pol_free_city_suraz" text="Volny Horad Suraž"/>
+  <string id="bel_pol_free_city_uly" text="Volny Horad Uły"/>
+  <string id="bel_pol_free_city_jeziarysca" text="Volny Horad Jeziaryšča"/>
+  <string id="bel_pol_free_city_kazimir" text="Volny Horad Kazimir"/>
+  <string id="bel_pol_free_city_polack" text="Volny Horad Połack"/>
+  <string id="bel_pol_free_city_orsa" text="Volny Horad Orša"/>
+  <string id="bel_pol_free_city_druja" text="Volny Horad Druja"/>
+  <string id="bel_pol_druckija" text="Druckija"/>
+  <string id="bel_pol_lukomskija" text="Łukomskija"/>
+  <string id="bel_rad_kazakievicy" text="Kazakievičy"/>
+  <string id="bel_rad_free_city_cavusy" text="Volny Horad Čavusy"/>
+  <string id="bel_rad_free_city_mscislau" text="Volny Horad Mścisłaŭ"/>
+  <string id="bel_rad_bartkouskija" text="Bartkoŭskija"/>
+  <string id="bel_rad_harbaceuskija" text="Harbačeŭskija"/>
+  <string id="bel_rad_kurbackija" text="Kurbackija"/>
+  <string id="bel_rad_paplauskija" text="Papłaŭskija"/>
+  <string id="bel_rad_slucanouskija" text="Słučanoŭskija"/>
+  <string id="bel_rad_chadasovicy" text="Chadasovičy"/>
+  <string id="bel_rad_alendskija" text="Alendzkija"/>
+  <string id="bel_rad_viarbickija" text="Viarbickija"/>
+  <string id="bel_rad_halavinskija" text="Hałavinskija"/>
+  <string id="bel_rad_palubinskija" text="Pałubinskija"/>
+  <string id="bel_rad_hramyki" text="Hramyki"/>
+  <string id="bel_rad_chadkievicy" text="Chadkievičy"/>
+  <string id="bel_rad_krupskija" text="Krupskija"/>
+  <string id="bel_rad_hrynievicy" text="Hrynievičy"/>
+  <string id="bel_rad_makouskija" text="Makoŭskija"/>
+  <string id="bel_rad_chaleckija" text="Chaleckija"/>
+  <string id="bel_rad_malinouskija" text="Malinoŭskija"/>
+  <string id="bel_rad_sakovicy" text="Sakovičy"/>
   <string id="sb.ber_almoravid" text="Almoravidy"/>
   <string id="sb.ber_almohad" text="Almochady"/>
   <string id="sb.ber_merinid" text="Mierynidy"/>
@@ -220,35 +319,6 @@
   <string id="sb.byz_tornikes" text="Tornikies"/>
   <string id="sb.byz_rangave" text="Ranhavie"/>
   <string id="sb.byz_cybo" text="Kiba"/>
-  <string id="sb.dre_bierascie" text="Bieraście"/>
-  <string id="sb.dre_kamianiec_litouski" text="Kamianiec-Litoŭski"/>
-  <string id="sb.dre_pinsk" text="Pinsk"/>
-  <string id="sb.dre_mazyr" text="Mazyr"/>
-  <string id="sb.dre_kallavury" text="Kałłavury"/>
-  <string id="sb.dre_lyckouskija" text="Łyčkoŭskija"/>
-  <string id="sb.dre_pinskija" text="Pinskija"/>
-  <string id="sb.dre_chmary" text="Chmary"/>
-  <string id="sb.dre_kasciuski" text="Kaściuški"/>
-  <string id="sb.dre_statkievicy" text="Statkievičy"/>
-  <string id="sb.dre_kalencyskija" text="Kalenčyskija"/>
-  <string id="sb.dre_pacei" text="Pacei"/>
-  <string id="sb.dre_karzanieuskija" text="Karžanieŭskija"/>
-  <string id="sb.dre_alelkavixy_sluckija" text="Alelkavičy-Słuckija"/>
-  <string id="sb.dre_baranouskija" text="Baranoŭskija"/>
-  <string id="sb.dre_kazlouskija" text="Kazłoŭskija"/>
-  <string id="sb.dre_vysenskija" text="Vyšenskija"/>
-  <string id="sb.dre_przevalskija" text="Prževalskija"/>
-  <string id="sb.dre_styrykovicy" text="Styrykovičy"/>
-  <string id="sb.dre_suski" text="Suški"/>
-  <string id="sb.dre_satkouskija" text="Šatkoŭskija"/>
-  <string id="sb.dre_michalouskija" text="Michałoŭskija"/>
-  <string id="sb.dre_krupskija" text="Krupskija"/>
-  <string id="sb.dre_hieraltouskija" text="Hierałtoŭskija"/>
-  <string id="sb.dre_vyzny" text="Vyzny"/>
-  <string id="sb.dre_lahisyn" text="Łahišyn"/>
-  <string id="sb.dre_niasviz" text="Niaśviž"/>
-  <string id="sb.dre_vysokaje" text="Vysokaje"/>
-  <string id="sb.dre_sluck" text="Słuck"/>
   <string id="sb.eng_selby" text="Sełbi"/>
   <string id="sb.eng_john_everingham" text="Džon Evierynham"/>
   <string id="sb.eng_roger_de_butterley" text="Rodžer de Batterli"/>
@@ -321,15 +391,6 @@
   <string id="sb.nov_sheiny" text="Šejny"/>
   <string id="sb.nov_choglokovy" text="Čohłakavy"/>
   <string id="sb.nov_kozlovy" text="Kazłovy"/>
-  <string id="sb.rad_kazakievicy" text="Kazakievičy"/>
-  <string id="sb.rad_cavusy" text="Čavusy"/>
-  <string id="sb.rad_mscislau" text="Mścisłaŭ"/>
-  <string id="sb.rad_bartkouskija" text="Bartkoŭskija"/>
-  <string id="sb.rad_harbaceuskija" text="Harbačeŭskija"/>
-  <string id="sb.rad_kurbackija" text="Kurbackija"/>
-  <string id="sb.rad_paplauskija" text="Papłaŭskija"/>
-  <string id="sb.rad_slucanouskija" text="Słučanoŭskija"/>
-  <string id="sb.rad_chadasovicy" text="Chadasovičy"/>
   <string id="fre_aqu_poitiers" text="Puaćje"/>
   <string id="fre_aqu_taillefer" text="Tajlefier"/>
   <string id="fre_aqu_auvergne" text="Avierń"/>
@@ -753,22 +814,6 @@
   <string id="sb.jat_rychtyn" text="Rychtyn"/>
   <string id="sb.jat_zdzitava" text="Ździtava"/>
   <string id="sb.jat_weyzo" text="Viejzo"/>
-  <string id="sb.jat_daniejki" text="Daniejki"/>
-  <string id="sb.jat_zehnieuskija" text="Žehnieŭskija"/>
-  <string id="sb.jat_kalantai" text="Kałantai"/>
-  <string id="sb.jat_pacy" text="Pacy"/>
-  <string id="sb.jat_kiersnouskiija" text="Kiersnoŭskija"/>
-  <string id="sb.jat_mierzejeuskija" text="Mieržejeŭskija"/>
-  <string id="sb.jat_piasieckija" text="Piasieckija"/>
-  <string id="sb.jat_karzboki_saplicy" text="Karžboki-Saplicy"/>
-  <string id="sb.jat_snarskija" text="Snarskija"/>
-  <string id="sb.jat_troski" text="Troski"/>
-  <string id="sb.jat_ulanouskija" text="Ułanoŭskija"/>
-  <string id="sb.jat_chomicy" text="Chomičy"/>
-  <string id="sb.jat_brodzicy" text="Brodzičy"/>
-  <string id="sb.jat_sylinhi" text="Šylinhi"/>
-  <string id="sb.jat_lubcy" text="Lubčy"/>
-  <string id="sb.jat_lida" text="Lida"/>
   <string id="sb.bal_bandava" text="Bandava"/>
   <string id="sb.bal_ceklis" text="Ceklis"/>
   <string id="sb.bal_duvzare" text="Duŭzare"/>
@@ -776,67 +821,6 @@
   <string id="sb.bal_vanema" text="Vaniema"/>
   <string id="sb.bal_apuole" text="Apuołe"/>
   <string id="sb.bal_kuldiga" text="Kułdziha"/>
-  <string id="sb.kry_karceŭskija" text="Karčeŭskija"/>
-  <string id="sb.kry_lukanskija_paulavicy" text="Łukanskija-Paŭłavičy"/>
-  <string id="sb.kry_hiejštory" text="Hiejštory"/>
-  <string id="sb.kry_chudzinskija" text="Chudzinskija"/>
-  <string id="sb.kry_vidbiesk" text="Mikošy"/>
-  <string id="sb.kry_padzvinskija" text="Padźvinskija"/>
-  <string id="sb.kry_amantavy" text="Amantavy"/>
-  <string id="sb.kry_pacabuty" text="Pačabuty"/>
-  <string id="sb.kry_anikievicy" text="Anikievičy"/>
-  <string id="sb.kry_hajzeuskija" text="Hajžeŭskija"/>
-  <string id="sb.kry_vajtkievicy" text="Vajtkievičy"/>
-  <string id="sb.kry_pacalajeuskija" text="Pacałajeŭskija"/>
-  <string id="sb.kry_scerbinskija" text="Ščerbinskija"/>
-  <string id="sb.kry_montyvilly" text="Montyviłły"/>
-  <string id="sb.kry_vilcynskija" text="Vilčynskija"/>
-  <string id="sb.kry_visnieuskija" text="Višnieŭskija"/>
-  <string id="sb.kry_krajeuskija" text="Krajeŭskija"/>
-  <string id="sb.kry_navickija" text="Navickija"/>
-  <string id="sb.kry_plavinskija" text="Płavinskija"/>
-  <string id="sb.kry_piasieckija" text="Piasieckija"/>
-  <string id="sb.kry_dziedzierki" text="Dziedzierki"/>
-  <string id="sb.kry_plevaki" text="Plevaki"/>
-  <string id="sb.kry_malkievicy" text="Malkievičy"/>
-  <string id="sb.kry_jesipovicy" text="Jesipovičy"/>
-  <string id="sb.kry_maseuskija" text="Mašeŭskija"/>
-  <string id="sb.kry_suraz" text="Suraž"/>
-  <string id="sb.kry_uly" text="Uły"/>
-  <string id="sb.kry_jeziarysca" text="Jeziaryšča"/>
-  <string id="sb.kry_kazimir" text="Kazimir"/>
-  <string id="sb.kry_polack" text="Połack"/>
-  <string id="sb.kry_orsa" text="Orša"/>
-  <string id="sb.kry_druja" text="Druja"/>
-  <string id="sb.kry_druckija" text="Druckija"/>
-  <string id="sb.kry_lukomskija" text="Łukomskija"/>
-  <string id="sb.kry_smolensk" text="Smalensk"/>
-  <string id="sb.kry_kraen" text="Krajen"/>
-  <string id="sb.kry_rzhavesk" text="Ržaviesk"/>
-  <string id="sb.kry_roslavl" text="Rosłaŭl"/>
-  <string id="sb.kry_gnyozdovo" text="Hniozdava"/>
-  <string id="sb.kry_toropets" text="Taropiec"/>
-  <string id="sb.kry_velizh" text="Vieliž"/>
-  <string id="sb.kry_zyzemskija" text="Žyžemskija"/>
-  <string id="sb.kry_stankievicy" text="Stankievičy"/>
-  <string id="sb.kry_daskovy" text="Daškovy"/>
-  <string id="sb.kry_skriabiny" text="Skriabiny"/>
-  <string id="sb.kry_traviny" text="Traviny"/>
-  <string id="sb.kry_aladiny" text="Aładźiny"/>
-  <string id="sb.kry_monastyrevy" text="Monastyrjevy"/>
-  <string id="sb.kry_bessonovy" text="Biessonavy"/>
-  <string id="sb.kry_tsypliatevy" text="Cyplacievy"/>
-  <string id="sb.kry_iaropkiny" text="Jaropkiny"/>
-  <string id="sb.kry_talbuziny" text="Tałbuziny"/>
-  <string id="sb.kry_mikuliny" text="Mikuliny"/>
-  <string id="sb.kry_dmitrievy" text="Dźmitryjevy"/>
-  <string id="sb.kry_tatishchevy" text="Taciščevy"/>
-  <string id="sb.kry_shakhovskie" text="Šachoŭskija"/>
-  <string id="sb.kry_durnovy" text="Durnovy"/>
-  <string id="sb.kry_velikiye_luki" text="Vialikija Łuki"/>
-  <string id="sb.kry_pskov" text="Pskoŭ"/>
-  <string id="sb.kry_tver" text="Ćvier"/>
-  <string id="sb.kry_torzhok" text="Taržok"/>
   <string id="sb.lat_trikata" text="Trykata"/>
   <string id="sb.lat_valmiera" text="Vałmiera"/>
   <string id="sb.lat_koknese" text="Koknesie"/>
@@ -1088,6 +1072,32 @@
   <string id="sb.por_corte_real" text="Kort-Ryjał"/>
   <string id="sb.por_ataide" text="Ataide"/>
   <string id="sb.por_abrantes" text="Abranteš"/>
+  <string id="rus_smo_smolensk" text="Smalensk"/>
+  <string id="rus_smo_kraen" text="Krajen"/>
+  <string id="rus_smo_rzhavesk" text="Ržaviesk"/>
+  <string id="rus_smo_roslavl" text="Rosłaŭl"/>
+  <string id="rus_smo_gnyozdovo" text="Hniozdava"/>
+  <string id="rus_smo_toropets" text="Taropiec"/>
+  <string id="rus_smo_velizh" text="Vieliž"/>
+  <string id="rus_smo_zhyzhemskia" text="Žyžemskija"/>
+  <string id="rus_smo_dashkovy" text="Daškovy"/>
+  <string id="rus_smo_skriabiny" text="Skrabiny"/>
+  <string id="rus_smo_traviny" text="Traviny"/>
+  <string id="rus_smo_aladiny" text="Aładźiny"/>
+  <string id="rus_smo_monastyrevy" text="Manastyravy"/>
+  <string id="rus_smo_bessonovy" text="Biessonavy"/>
+  <string id="rus_smo_tsypliatevy" text="Cyplacievy"/>
+  <string id="rus_smo_dmitrievy" text="Dźmitryjevy"/>
+  <string id="rus_smo_durnovy" text="Durnovy"/>
+  <string id="rus_smo_mikuliny" text="Mikuliny"/>
+  <string id="rus_smo_shakhovskie" text="Šachoŭskija"/>
+  <string id="rus_smo_tatishchevy" text="Taciščevy"/>
+  <string id="rus_smo_iaropkiny" text="Jaropkiny"/>
+  <string id="rus_smo_talbuziny" text="Tałbuziny"/>
+  <string id="rus_oth_kry_velikiye_luki" text="Vialikija Łuki"/>
+  <string id="rus_oth_kry_pskov" text="Pskoŭ"/>
+  <string id="rus_oth_kry_tver" text="Ćvier"/>
+  <string id="rus_oth_kry_torzhok" text="Taržok"/>
   <string id="sb.rus_che_mstyslav_volodymyrovych_the_brave" text="Mstysłav Vołodymyrovič Advažny"/>
   <string id="sb.rus_che_smolyn" text="Smołyn"/>
   <string id="sb.rus_che_shestovytsia" text="Šestovycia"/>
