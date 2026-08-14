@@ -70,16 +70,10 @@ There is no single timeline. However, the main focus is on the middle ages. Diff
 
 I did not intend to offend anyone with any of designs or names. I know nothing about families and their banners. I just take collections from public sources. The grouping by cultures is approximate and rough. I hope nothing here is inappropriate or offensive — the intention was opposite.
 
-## Update 1.0.20
+## Update 1.0.21
 
-- Empires of Europe 1100 id correction
-- Balto-Slavic banners rework
-- 20 Black Ruthenia banners
-- 27 Dregoviches banners
-- 4  Other Kryvichs banners
-- 32 Połack banners
-- 21 Radzimichs banners
-- 22 Smolensk banners
+- Italian banners rework
+- 27 Sicily banners
 
 ## Current banners (total 1393)
 
