@@ -88,8 +88,9 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - 18 Genoa banners
 - 23 Papal States banners
 - 15 Pisa banners
+- 27 Venice banners
 
-## Current banners (total 1393)
+## Current banners (total 1402)
 
 - Andalusia 23
 - Arab 30
@@ -140,11 +141,11 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Hungary 20 
 - Ilkhanid 18 
 - Irish 20 
-- Italian - Genoa 20
-- Italian - Papal 21
-- Italian - Pisa 1
-- Italian - Venice 20
-- Italian 30 
+- Italian - Genoa 18 (HQ)
+- Italian - Papal 23 (HQ)
+- Italian - Pisa 15 (HQ)
+- Italian - Sicily (HQ)
+- Italian - Venice 27 (HQ)
 - Nordic - Denmark 26
 - Nordic - Norway 22
 - Nordic - Sweden 26
@@ -161,7 +162,6 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Russian - Smolensk 22 (HQ)
 - Scottish 20
 - Serbian - Serbian 21
-- Sicilian 21
 - Spanish – Aragon 20
 - Spanish – Castile 20
 - Suzdalian – Moscow 21
