@@ -30,6 +30,8 @@ Players only. If you are a modder, contact me.
 
 [url=https://drive.google.com/file/d/1awu-jncUS-OTIUTsMDoMa92zRoWMEtSk/view?usp=sharing]German Banners (download to see correctly)[/url]
 
+[url=https://drive.google.com/file/d/1JsS02_qNaHf66aG9CFqCzUQnmAcd44KG/view?usp=sharing]Italian Banners (download to see correctly)[/url]
+
 [url=https://drive.google.com/file/d/1JoCG3CiZKAclV61YpN88i9SoXgFzlkfq/view?usp=sharing]Russia Banners (download to see correctly)[/url]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3427239636]Steam Guide[/url]
