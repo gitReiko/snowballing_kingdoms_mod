@@ -85,6 +85,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 
 - Italian banners rework
 - 27 Sicily banners
+- 18 Genoa banners
 
 ## Current banners (total 1393)
 
