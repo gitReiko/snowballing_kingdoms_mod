@@ -135,7 +135,7 @@ I did not intend to offend anyone with any of designs or names. I know nothing a
 - Italian - Genoa 18 (HQ)
 - Italian - Papal 23 (HQ)
 - Italian - Pisa 15 (HQ)
-- Italian - Sicily (HQ)
+- Italian - Sicily 27 (HQ)
 - Italian - Venice 27 (HQ)
 - Nordic - Denmark 26
 - Nordic - Norway 22

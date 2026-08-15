@@ -136,7 +136,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Italian - Genoa 18 (HQ)
 - Italian - Papal 23 (HQ)
 - Italian - Pisa 15 (HQ)
-- Italian - Sicily (HQ)
+- Italian - Sicily 27 (HQ)
 - Italian - Venice 27 (HQ)
 - Nordic - Denmark 26
 - Nordic - Norway 22
