@@ -24,9 +24,15 @@ Spawns new clans for kingdoms that conquer new settlements. This allows you to p
 
 Players only. If you are a modder, contact me.
 
-[url=https://drive.google.com/file/d/1awu-jncUS-OTIUTsMDoMa92zRoWMEtSk/view?usp=sharing]German Banners (download to see images)[/url]
+[url=https://drive.google.com/file/d/1wD8qwd8aVYK_RdWEADMZQ8I_cJN5agcw/view?usp=sharing]Belarus Banners (download to see correctly)[/url]
 
-[url=https://drive.google.com/file/d/1RaY7FSOpFuI8EMg_0DxpH-aJ3g2iJSTa/view?usp=sharing]French Banners (download to see images)[/url]
+[url=https://drive.google.com/file/d/1RaY7FSOpFuI8EMg_0DxpH-aJ3g2iJSTa/view?usp=sharing]French Banners (download to see correctly)[/url]
+
+[url=https://drive.google.com/file/d/1awu-jncUS-OTIUTsMDoMa92zRoWMEtSk/view?usp=sharing]German Banners (download to see correctly)[/url]
+
+[url=https://drive.google.com/file/d/1JsS02_qNaHf66aG9CFqCzUQnmAcd44KG/view?usp=sharing]Italian Banners (download to see correctly)[/url]
+
+[url=https://drive.google.com/file/d/1JoCG3CiZKAclV61YpN88i9SoXgFzlkfq/view?usp=sharing]Russia Banners (download to see correctly)[/url]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3427239636]Steam Guide[/url]
 
@@ -67,18 +73,16 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.20
+## Update 1.0.21
 
-- Empires of Europe 1100 id correction
-- Balto-Slavic banners rework
-- 20 Black Ruthenia banners
-- 27 Dregoviches banners
-- 4  Other Kryvichs banners
-- 32 Połack banners
-- 21 Radzimichs banners
-- 22 Smolensk banners
+- Italian banners rework
+- 27 Sicily banners
+- 18 Genoa banners
+- 23 Papal States banners
+- 15 Pisa banners
+- 27 Venice banners
 
-## Current banners (total 1393)
+## Current banners (total 1402)
 
 - Andalusia 23
 - Arab 30
@@ -129,11 +133,11 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Hungary 20 
 - Ilkhanid 18 
 - Irish 20 
-- Italian - Genoa 20
-- Italian - Papal 21
-- Italian - Pisa 1
-- Italian - Venice 20
-- Italian 30 
+- Italian - Genoa 18 (HQ)
+- Italian - Papal 23 (HQ)
+- Italian - Pisa 15 (HQ)
+- Italian - Sicily 27 (HQ)
+- Italian - Venice 27 (HQ)
 - Nordic - Denmark 26
 - Nordic - Norway 22
 - Nordic - Sweden 26
@@ -150,7 +154,6 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Russian - Smolensk 22 (HQ)
 - Scottish 20
 - Serbian - Serbian 21
-- Sicilian 21
 - Spanish – Aragon 20
 - Spanish – Castile 20
 - Suzdalian – Moscow 21
