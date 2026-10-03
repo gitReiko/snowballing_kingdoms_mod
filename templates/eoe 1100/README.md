@@ -3,6 +3,8 @@
 
 Spawns new clans for kingdoms that conquer new settlements. This allows you to play for your favorite kingdom or create your own. Just capture settlements. Other kingdoms are also strengthening (this creates challenge even at late stage).
 
+[url=https://patreon.com/Reiko651] [img]https://i.postimg.cc/6p6qt4cv/support-800px.png[/img] [/url]
+
 ## Default clans spawn
 
 2  settlements spawns 2  clans  -  48  settlements spawns 16 clans
@@ -73,14 +75,11 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.21
+## Update 1.0.22
 
-- Italian banners rework
-- 27 Sicily banners
-- 18 Genoa banners
-- 23 Papal States banners
-- 15 Pisa banners
-- 27 Venice banners
+- Enhanced mod compatibility and stability
+- Code fixes
+- Ids tune for Eastern Europe 9.0
 
 ## Current banners (total 1402)
 
