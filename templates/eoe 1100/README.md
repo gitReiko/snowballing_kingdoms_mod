@@ -79,6 +79,7 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 
 - Enhanced mod compatibility and stability
 - Code fixes
+- Ids tune for Eastern Europe 9.0
 
 ## Current banners (total 1402)
 
