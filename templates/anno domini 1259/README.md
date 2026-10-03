@@ -3,6 +3,8 @@
 
 Spawns new clans for kingdoms that conquer new settlements. This allows you to play for your favorite kingdom or create your own. Just capture settlements. Other kingdoms are also strengthening (this creates challenge even at late stage).
 
+[url=https://patreon.com/Reiko651] [img]https://i.postimg.cc/6p6qt4cv/support-800px.png[/img] [/url]
+
 ## Default clans spawn
 
 2  settlements spawns 2  clans  -  48  settlements spawns 16 clans
@@ -72,14 +74,10 @@ There is no single timeline. However, the main focus is on the middle ages. Diff
 
 I did not intend to offend anyone with any of designs or names. I know nothing about families and their banners. I just take collections from public sources. The grouping by cultures is approximate and rough. I hope nothing here is inappropriate or offensive — the intention was opposite.
 
-## Update 1.0.21
+## Update 1.0.22
 
-- Italian banners rework
-- 27 Sicily banners
-- 18 Genoa banners
-- 23 Papal States banners
-- 15 Pisa banners
-- 27 Venice banners
+- Enhanced mod compatibility and stability
+- Code fixes
 
 ## Current banners (total 1402)
 
