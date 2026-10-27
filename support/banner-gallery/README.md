@@ -4,12 +4,18 @@ Open `banner-gallery.html` in a browser. It works offline and includes a snapsho
 `templates/eoe 1100/ModuleData/snowballs_in_use.xml` and the standard Bannerlord masks
 and palette already bundled in `../banner-recolor.html`.
 
-Click **Загрузіць XML** to select any current `snowballs_in_use.xml`, including the
+The interface defaults to **English**. The **Беларуская / English** button switches
+languages and saves the choice in browser local storage. Switching preserves the
+imported data, current category, filters, page, and open preview. If local storage
+is unavailable, the gallery still works and defaults to English on the next load.
+Banner names, category IDs, and banner codes stay as provided in the XML.
+
+Click **Load XML / Загрузіць XML** to select any current `snowballs_in_use.xml`, including the
 EoE 1100, Eastern Europe 1259, Anno Domini 1259, or main module file. Files are processed
 locally in the browser. Importing a file replaces the current gallery; it does not
 edit the XML. Invalid XML leaves the previous gallery available.
 
-- Categories come from `web-category-id`; missing categories appear under «Без катэгорыі».
+- Categories come from `web-category-id`; missing categories appear under “Uncategorized / Без катэгорыі”.
 - A banner is HD when `web-hd="true"`, standard when `web-hd="false"`, and unmarked
   when the attribute is missing or invalid. `web-hq` is not used.
 - A category is HD only when **every** banner in it is HD. Mixed and unmarked
@@ -44,5 +50,5 @@ node support/banner-gallery/test-banner-gallery.cjs
 Pass the browser executable path as the first argument if Edge is installed elsewhere.
 The checks open the standalone file in a hidden headless browser and cover native
 previews, XML file imports, comments, category HD rules, filtering, clipboard data,
-malformed input, and mobile layout. Temporary profiles and a desktop screenshot are
+malformed input, both interface languages, saved language preferences, and mobile layout. Temporary profiles and a desktop screenshot are
 written to the system temporary directory.
