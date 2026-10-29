@@ -24,7 +24,11 @@ function Add-Records($root, [bool]$commented) {
             $hd = $null
             if ($child.GetAttribute('web-hd') -eq 'true') { $hd = $true }
             elseif ($child.GetAttribute('web-hd') -eq 'false') { $hd = $false }
-            $records.Add([ordered]@{ id=$id; name=$name; category=$category; hd=$hd; code=$child.GetAttribute('banner'); commented=$commented })
+            $fictional = $null
+            $rawFictional = $child.GetAttribute('web-is-fictional').Trim().ToLowerInvariant()
+            if ($rawFictional -eq 'true') { $fictional = $true }
+            elseif ($rawFictional -eq 'false') { $fictional = $false }
+            $records.Add([ordered]@{ id=$id; name=$name; category=$category; hd=$hd; fictional=$fictional; description=$child.GetAttribute('web-coat-of-arms-desc'); code=$child.GetAttribute('banner'); commented=$commented })
         } elseif ($child.NodeType -eq [Xml.XmlNodeType]::Comment -and $child.Value -match '<Snowball\b') {
             $fragment = New-Object System.Xml.XmlDocument
             $fragment.LoadXml('<Snowballs>' + $child.Value + '</Snowballs>')

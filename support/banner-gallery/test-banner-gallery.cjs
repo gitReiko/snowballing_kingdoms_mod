@@ -63,8 +63,8 @@ async function run() {
   });
   await send('Runtime.enable');await send('Page.enable');
   await send('Emulation.setDeviceMetricsOverride',{width:1440,height:1000,deviceScaleFactor:1,mobile:false});
-  await until("typeof state !== 'undefined' && state.records.length === 1402");
-  assert.deepEqual(await evaluate('({total:state.records.length,categories:state.categories.size,hd:state.records.filter(r=>r.hd).length,cards:document.querySelectorAll(".banner-card").length})'),{total:1402,categories:77,hd:502,cards:48});
+  await until("typeof state !== 'undefined' && state.records.length === 1414");
+  assert.deepEqual(await evaluate('({total:state.records.length,categories:state.categories.size,hd:state.records.filter(r=>r.hd).length,cards:document.querySelectorAll(".banner-card").length})'),{total:1414,categories:78,hd:531,cards:48});
   assert.deepEqual(await evaluate('({lang:document.documentElement.lang,title:document.title,load:$("importXml").textContent,toggle:$("languageToggle").textContent})'),{lang:'en',title:'Bannerlord · Banner gallery',load:'Load XML',toggle:'Беларуская'});
   assert.equal(await evaluate('Object.values(translations).every(pair=>pair.length===2&&pair.every(text=>typeof text==="string"&&text.length>0))'),true);
   assert.equal(await evaluate('[...document.querySelectorAll("[data-i18n], [data-i18n-aria], [data-i18n-placeholder]")].every(node=>[node.dataset.i18n,node.dataset.i18nAria,node.dataset.i18nPlaceholder].filter(Boolean).every(key=>Object.hasOwn(translations,key)))'),true);
@@ -75,16 +75,34 @@ async function run() {
   await fs.writeFile(screenshotPath,Buffer.from(screenshot.data,'base64'));
   console.log('Screenshot: '+screenshotPath);
   assert.equal(await evaluate('(()=>{const c=document.querySelector(".preview canvas");return c.getContext("2d").getImageData(0,0,c.width,c.height).data.some((v,i)=>i%4===3&&v>0);})()'),true);
-  console.log('PASS: offline startup, 1,402 banners, 77 categories, valid codes, rendered native previews.');
+  console.log('PASS: offline startup, 1,414 banners, 78 categories, valid codes, rendered native previews.');
   await evaluate('$("next").click();window.originalRecord=JSON.stringify(state.records[0]);$("languageToggle").click()');
   assert.deepEqual(await evaluate('({lang:document.documentElement.lang,title:document.title,load:$("importXml").textContent,copy:document.querySelector(".copy-button").textContent,page:state.page,stored:localStorage.getItem(LANGUAGE_KEY),unchanged:JSON.stringify(state.records[0])===window.originalRecord})'),{lang:'be',title:'Bannerlord · Галерэя сцягоў',load:'Загрузіць XML',copy:'Скапіяваць код',page:2,stored:'be',unchanged:true});
   await send('Page.reload');
-  await until('typeof state!=="undefined" && state.records.length===1402 && document.documentElement.lang==="be"');
+  await until('typeof state!=="undefined" && state.records.length===1414 && document.documentElement.lang==="be"');
   await evaluate('$("languageToggle").click()');
   await send('Page.reload');
-  await until('typeof state!=="undefined" && state.records.length===1402 && document.documentElement.lang==="en"');
+  await until('typeof state!=="undefined" && state.records.length===1414 && document.documentElement.lang==="en"');
   assert.equal(await evaluate('(()=>{const original=Storage.prototype.getItem;Storage.prototype.getItem=()=>{throw new Error("Blocked");};try{return savedLanguage();}finally{Storage.prototype.getItem=original;}})()'),'en');
   console.log('PASS: English default, Belarusian toggle, preserved page and source data, saved language after reload, blocked-storage fallback.');
+  const description = "The seal of Prince Sviatoslav Davydovych. It's used for his father in the EoE 1100 mod.";
+  assert.deepEqual(await evaluate('(()=>{const r=state.records.find(r=>r.id==="ukr_che_davyd_sviatoslavych");return {fictional:r.fictional,description:r.description};})()'),{fictional:false,description});
+  await evaluate('$("search").value="ukr_che_davyd_sviatoslavych";$("search").dispatchEvent(new Event("input"))');
+  assert.equal(await evaluate('document.querySelector(".fictional-tag").textContent'),'Not fictional');
+  assert.equal(await evaluate('document.querySelector(".card-description").textContent'),description);
+  await evaluate('document.querySelector(".preview-button").click()');
+  await until('$("bannerDialog").open && $("dialogNote").textContent==="The code is ready to paste into Bannerlord."');
+  assert.equal(await evaluate('$("dialogDescription").textContent'),description);
+  await evaluate('setLanguage("be")');
+  assert.equal(await evaluate('$("descriptionHeading").textContent'),'Апісанне герба');
+  assert.equal(await evaluate('$("dialogTags").querySelector(".fictional-tag").textContent'),'Не вымышлены');
+  assert.equal(await evaluate('$("dialogDescription").textContent'),description);
+  const metadataScreenshot=await send('Page.captureScreenshot',{format:'png'});
+  const metadataScreenshotPath=path.join(temp,'gallery-metadata.png');
+  await fs.writeFile(metadataScreenshotPath,Buffer.from(metadataScreenshot.data,'base64'));
+  console.log('Metadata screenshot: '+metadataScreenshotPath);
+  await evaluate('$("bannerDialog").close();setLanguage("en");resetFilters()');
+  console.log('PASS: rebuilt snapshot metadata, card excerpt, full description, translated fictional status without translating source descriptions.');
   await evaluate('document.querySelector("[data-category=belarusianBlackRuthenia]").click()');
   assert.deepEqual(await evaluate('({quality:document.querySelector("#categoryQuality .tag").textContent,count:filteredRecords().length,hd:filteredRecords().every(r=>r.hd===true)})'),{quality:'HD',count:19,hd:true});
   await evaluate('$("search").value="daniejki";$("search").dispatchEvent(new Event("input"))');
@@ -103,11 +121,11 @@ async function run() {
   await evaluate('$("dialogCopyAttribute").click()');await until('window.copied.length===2');
   assert.equal(await evaluate('copied[0]===$("dialogCode").value && copied[1]===\'banner_key="\'+$("dialogCode").value+\'"\''),true);
   await evaluate('$("bannerDialog").close();resetFilters();$("quality").value="standard";$("quality").dispatchEvent(new Event("change"))');
-  assert.equal(await evaluate('filteredRecords().length'),900);
+  assert.equal(await evaluate('filteredRecords().length'),883);
   await evaluate('resetFilters();$("next").click()');assert.equal(await evaluate('state.page'),2);
   console.log('PASS: category and quality filters, search, pagination, enlarged preview, exact clipboard contents.');
   for(const [file,total,active] of [
-    ['templates/eoe 1100/ModuleData/snowballs_in_use.xml',1402,1402],
+    ['templates/eoe 1100/ModuleData/snowballs_in_use.xml',1414,1414],
     ['templates/eastern europe 1259/ModuleData/snowballs_in_use.xml',1402,666],
     ['templates/anno domini 1259/ModuleData/snowballs_in_use.xml',1418,1288]
   ]) {
@@ -115,16 +133,37 @@ async function run() {
     await until('state.generation>window.oldGeneration && !$("importXml").disabled');
     assert.equal(await evaluate('state.records.length'),total);
     assert.equal(await evaluate('state.records.filter(r=>!r.commented).length'),active);
+    if(file.includes('eoe 1100'))assert.deepEqual(await evaluate('(()=>{const r=state.records.find(r=>r.id==="ukr_che_davyd_sviatoslavych");return {fictional:r.fictional,description:r.description};})()'),{fictional:false,description});
     await evaluate('$("includeCommented").checked=false;$("includeCommented").dispatchEvent(new Event("change"))');
     assert.equal(await evaluate('filteredRecords().length'),active);
     console.log('PASS: actual file picker import '+file+' ('+total+' total, '+active+' active).');
   }
   const fixture=path.join(temp,'mixed.xml');
   const code='11.27.19.1836.1836.764.764.1.0.0.505.155.116.200.200.764.764.0.0.45';
-  await fs.writeFile(fixture,`<Snowballs><Snowball id="hd" name="{=key}&lt;img onerror=&quot;alert(1)&quot;&gt;" web-category-id="mixedTest" web-hd="true" banner="${code}"/><!-- <Snowball id="standard" name="Hidden" web-category-id="mixedTest" web-hd="false" banner="${code}"/> --><Snowball id="unknown" name="Unknown" banner="${code}"/></Snowballs>`);
+  await fs.writeFile(fixture,`<Snowballs><Snowball id="hd" name="{=key}&lt;img onerror=&quot;alert(1)&quot;&gt;" web-category-id="mixedTest" web-hd="true" web-is-fictional="true" web-coat-of-arms-desc="&lt;img src=x onerror=alert(1)&gt;&#10;A &amp; B" banner="${code}"/><!-- <Snowball id="standard" name="Hidden" web-category-id="mixedTest" web-hd="false" web-is-fictional="false" web-coat-of-arms-desc="Commented coat of arms." banner="${code}"/> --><Snowball id="unknown" name="Unknown" banner="${code}"/></Snowballs>`);
   await evaluate('window.oldGeneration=state.generation');await importFile(fixture);await until('state.generation>window.oldGeneration');
   assert.deepEqual(await evaluate('({count:state.records.length,quality:state.categories.get("mixedTest").quality,unknown:state.categories.get("__uncategorized__").quality,name:state.records[0].name})'),{count:3,quality:'mixed',unknown:'unknown',name:'<img onerror="alert(1)">'});
   assert.equal(await evaluate('document.querySelectorAll("#gallery img").length'),0);
+  assert.deepEqual(await evaluate('state.records.map(r=>({id:r.id,fictional:r.fictional,description:r.description}))'),[
+    {id:'hd',fictional:true,description:'<img src=x onerror=alert(1)>\nA & B'},
+    {id:'standard',fictional:false,description:'Commented coat of arms.'},
+    {id:'unknown',fictional:null,description:''}
+  ]);
+  assert.equal(await evaluate('document.querySelector("[data-id=hd] .fictional-tag").textContent'),'Fictional');
+  assert.equal(await evaluate('document.querySelector("[data-id=standard] .fictional-tag").textContent'),'Not fictional');
+  assert.equal(await evaluate('document.querySelector("[data-id=unknown] .fictional-tag").textContent'),'Fictional status unspecified');
+  await evaluate('document.querySelector("[data-id=hd] .preview-button").click()');
+  assert.equal(await evaluate('$("dialogDescription").textContent'),'<img src=x onerror=alert(1)>\nA & B');
+  assert.equal(await evaluate('$("dialogDescription").children.length'),0);
+  await evaluate('$("bannerDialog").close()');
+  await evaluate('document.querySelector("[data-id=unknown] .preview-button").click()');
+  assert.equal(await evaluate('$("dialogDescription").textContent'),'No description provided.');
+  await evaluate('setLanguage("be")');
+  assert.equal(await evaluate('$("dialogDescription").textContent'),'Апісанне не пададзенае.');
+  assert.equal(await evaluate('$("dialogTags").querySelector(".fictional-tag").textContent'),'Вымышленасць не пазначаная');
+  await evaluate('$("bannerDialog").close();setLanguage("en")');
+  assert.equal(await evaluate(`parseXml('<Snowballs><Snowball banner="${code}" web-is-fictional="invalid"/></Snowballs>')[0].fictional`),null);
+  console.log('PASS: fictional and non-fictional flags, commented metadata, missing/invalid status, XML entities, multiline descriptions, and plain-text rendering.');
   await evaluate('$("quality").value="hd";$("quality").dispatchEvent(new Event("change"));document.querySelector("[data-category=mixedTest]").click()');
   assert.equal(await evaluate('$("categoryQuality").textContent'),'Mixed');
   assert.equal(await evaluate('filteredRecords().length'),1);

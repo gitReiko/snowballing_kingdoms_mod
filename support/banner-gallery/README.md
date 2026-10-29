@@ -9,6 +9,7 @@ languages and saves the choice in browser local storage. Switching preserves the
 imported data, current category, filters, page, and open preview. If local storage
 is unavailable, the gallery still works and defaults to English on the next load.
 Banner names, category IDs, and banner codes stay as provided in the XML.
+Coat of arms descriptions also remain in their original language.
 
 Click **Load XML / Загрузіць XML** to select any current `snowballs_in_use.xml`, including the
 EoE 1100, Eastern Europe 1259, Anno Domini 1259, or main module file. Files are processed
@@ -22,6 +23,14 @@ edit the XML. Invalid XML leaves the previous gallery available.
   categories have separate labels. This considers the whole imported category,
   including commented records, independently of search, filters, and pagination.
 - Commented banners are included by default and can be hidden with the checkbox.
+- `web-is-fictional="true"` displays **Fictional / Вымышлены**;
+  `web-is-fictional="false"` displays **Not fictional / Не вымышлены**.
+  Missing or invalid values display **Fictional status unspecified / Вымышленасць не пазначаная**.
+  This status comes from the XML and does not independently verify historical accuracy.
+- `web-coat-of-arms-desc` provides the coat of arms description: a short excerpt on
+  the card and the complete text in the enlarged preview. Missing descriptions are
+  marked in the enlarged preview. Descriptions render as plain text, including XML
+  entities and line breaks. Both new attributes work for commented banners too.
 - Search by name, ID, or category; filter by quality; sort by category, name, or HD.
 - Click a preview to enlarge it. Copy buttons copy the original banner string;
   the enlarged view can also copy `banner_key="…"`. If clipboard access is blocked,
