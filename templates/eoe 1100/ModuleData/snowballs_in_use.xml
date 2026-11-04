@@ -9541,7 +9541,7 @@
 		web-coat-of-arms-desc="The town of Korostyshev was granted a royal charter by the Polish-Lithuanian Commonwealth in 1779. The coat of arms featured the Polish noble emblem “Radván”—the family crest of the town’s owners at the time, the Counts of Olizar."
 	/>
 
-	<!-- 19c Ukrainian Pereiaslav 1100 -->
+	<!-- 20c Ukrainian Pereiaslav 1100 -->
 
 	<Snowball id="ukr_per_volodymyr_monomakh"
 		name="{=ukr_per_volodymyr_monomakh}Kniaz Volodymyr Monomakh"
@@ -9641,7 +9641,7 @@
 		web-category-id="ukrainianPereiaslav"
 		web-hd="true"
 		web-is-fictional="false"
-		web-coat-of-arms-desc="Rodzion Dmytrashko-Raicha was a 17th-century Pereiaslavl polkovnik and the founder of the family."
+		web-coat-of-arms-desc="Rodzion Dmytrashko-Raicha was a 17th-century Pereiaslav polkovnik and the founder of the family."
 	/>
 	<Snowball id="ukr_per_mirovichi"
 		name="{=ukr_per_mirovichi}Mirovichi"
@@ -9651,7 +9651,7 @@
 		web-category-id="ukrainianPereiaslav"
 		web-hd="true"
 		web-is-fictional="false"
-		web-coat-of-arms-desc="A Cossack starshyna lineage. Ivan Mirovich was the Pereiaslavl Polk commander at the end of the 17th and the beginning of the 18th century."
+		web-coat-of-arms-desc="A Cossack starshyna lineage. Ivan Mirovich was the Pereiaslav Polk commander at the end of the 17th and the beginning of the 18th century."
 	/>
 	<Snowball id="ukr_per_snityn"
 		name="{=ukr_per_snityn}Snityn"
@@ -9732,6 +9732,16 @@
 		web-hd="true"
 		web-is-fictional="false"
 		web-coat-of-arms-desc="According to Shafonsky, the first known depiction of the Priluki coat of arms appears on a city seal from 1600, which has not survived. A seal dated 1685 features the classic “Pomyan” version of the coat of arms, in which a knight’s sword cuts through the head of a bull."
+	/>
+	<Snowball id="ukr_per_teteri"
+		name="{=ukr_per_teteri}Teteri"
+		culture="rus"
+		kingdom="pereiaslav"
+		banner="11.10.48.1836.1836.767.764.1.0.0.504.155.27.52.123.759.771.0.0.0.504.155.27.52.123.759.714.0.1.180.504.155.27.52.123.788.743.0.0.90.504.155.27.52.123.731.743.0.1.270.510.155.27.52.96.759.743.0.0.0.510.155.27.52.96.759.743.0.0.90.506.10.27.28.77.781.785.0.0.21.506.10.27.28.77.738.785.0.1.339.506.10.27.28.77.738.701.0.0.21.506.10.27.28.77.781.701.0.1.339.506.10.27.28.77.801.722.0.1.111.506.10.27.28.77.718.722.0.0.249.506.10.27.28.77.718.763.0.1.111.506.10.27.28.77.801.763.0.0.249.335.27.27.375.308.759.942.0.0.0.503.155.27.67.67.649.501.0.0.90.503.10.27.40.40.649.501.0.0.90.118.149.27.351.268.784.566.0.0.0" 
+		web-category-id="ukrainianPereiaslav"
+		web-hd="true"
+		web-is-fictional="false"
+		web-coat-of-arms-desc="Pavel Teteria — Pereiaslav's polkovnik, later hetman."
 	/>
 
 	<!-- 20c Scottish -->
