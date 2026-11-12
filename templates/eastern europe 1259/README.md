@@ -85,28 +85,48 @@ Since there are a lot of banners. A lot of errors have been created.
 
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
-## Update 1.0.22
+## Update 1.0.23
 
-- Enhanced mod compatibility and stability
-- Code fixes
-- Ids tune for Eastern Europe 9.0
+Reworked banners, mostly Baltic and Ukrainian:
 
-## Current banners (total 1402)
+- Baltic - Curonian 10
+- Baltic - Jatvingian 16
+- Baltic - Latgalian 15
+- Baltic - Lithuania 15
+- Baltic - Lithuanian Late Medieval 24
+- Baltic - Prussia 14
+- Baltic - Samogitia 14 
+- Baltic - Zemgalian 14
+- Ukrainian - Chernigov 27
+- Ukrainian - Kyiv 27
+- Ukrainian - Pereiaslav 20
+- Ukrainian - Volhynia 33
+- Suzdalian - Moscow 2
+- Novgorod 6
+- Lechsgemünd banner
+- Free City Lida
+- Tver banner
+
+Added new banners:
+
+- Kniaz Jarasłaŭ Jarapołčyč
+- Russian - Ryazan 2
+
+## Current banners (total 1466)
 
 - Andalusia 23
 - Arab 30
 - Armenian 16
-- Baltic - Curonian 7
-- Baltic - Jatvingian 11
-- Baltic - Latgalian 11
-- Baltic - Lithuania 11
-- Baltic - Lithuanian Late 21
-- Baltic - Prussia 10
-- Baltic - Samogitia 11
-- Baltic - Teutonic 5
-- Baltic - Zemgalian 11
-- Belarusian - Black Ruthenia 20 (HQ)
-- Belarusian - Dregoviches 27 (HQ)
+- Baltic - Curonian 10 (HQ)
+- Baltic - Jatvingian 16 (HQ)
+- Baltic - Latgalian 15 (HQ)
+- Baltic - Lithuania 15 (HQ)
+- Baltic - Lithuanian Late 24 (HQ)
+- Baltic - Prussia 14 (HQ)
+- Baltic - Samogitia 14 (HQ)
+- Baltic - Zemgalian 14 (HQ)
+- Belarusian - Black Ruthenia 19 (HQ)
+- Belarusian - Dregoviches 28 (HQ)
 - Belarusian - Połack 32 (HQ)
 - Belarusian - Radzimichs 21 (HQ)
 - Berber 23
@@ -117,7 +137,6 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Croatian 20
 - English 30 
 - Finnish - Aestian 18 
-- Finnish - Aestian Teutonic 4
 - Finnish - Finnish 5 
 - Finnish - Karelian 10 
 - Finnish - Tavastian 10 
@@ -125,13 +144,13 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - French - Brittany 25 (HQ)
 - French - Crusaders 20 (HQ)
 - French - France 20 (HQ)
-- French - Latin Empire 22 (HQ)
+- French - Latin Empire 20 (HQ)
 - French - Toulouse 20 (HQ)
 - Georgian 20
 - German - Bavaria 21 (HQ)
 - German - Carinthia 1 (HQ)
 - German - Franconia 8 (HQ)
-- German - Lotharingia 14 (HQ)
+- German - Lotharingia 8 (HQ)
 - German - Netherlands 20 (HQ)
 - German - Saxony 22 (HQ)
 - German - Swabia 21 (HQ)
@@ -156,10 +175,8 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Polish - Masovia 12
 - Polish - Pomerania 15
 - Portuguese 22
-- Rus - Chernigov 17
-- Rus - Kyiv 20
-- Rus - Pereiaslav 14
 - Russian - Other Kryvichs 4 (HQ)
+- Russian - Ryazan 2 (HQ)
 - Russian - Smolensk 22 (HQ)
 - Scottish 20
 - Serbian - Serbian 21
@@ -170,7 +187,10 @@ I didn't want to offend anyone with certain banners. In fact, I don't know anyth
 - Turkic - Mongolian 15
 - Turkic - Oghuz 24
 - Turkic - Pecheneg 11
-- Volhynian 24
+- Ukrainian - Chernigov 27 (HQ)
+- Ukrainian - Kyiv 27 (HQ)
+- Ukrainian - Pereiaslav 20 (HQ)
+- Ukrainian - Volhynia 33 (HQ)
 - Welsh 21
 
 ## Further plans
