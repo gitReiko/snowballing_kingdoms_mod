@@ -26,7 +26,7 @@ Spawns new clans for kingdoms that conquer new settlements. This allows you to p
 
 Players only. If you are a modder, contact me.
 
-[url=https://gitreiko.github.io/snowballing_kingdoms_mod/]Snowballing Web Gallery[/url]
+https://gitreiko.github.io/snowballing_kingdoms_mod/
 
 ## When possible enable/disable mod?
 
@@ -70,7 +70,7 @@ I did not intend to offend anyone with any of designs or names. I know nothing a
 
 The online gallery lets you preview banners and copy their codes. For players only. If you are a modder, please contact me.
 
-[url=https://gitreiko.github.io/snowballing_kingdoms_mod/]Snowballing Web Gallery[/url]
+https://gitreiko.github.io/snowballing_kingdoms_mod/
 
 Reworked banners, mostly Baltic and Ukrainian:
 
