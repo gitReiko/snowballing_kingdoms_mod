@@ -26,15 +26,7 @@ Spawns new clans for kingdoms that conquer new settlements. This allows you to p
 
 Players only. If you are a modder, contact me.
 
-[url=https://drive.google.com/file/d/1wD8qwd8aVYK_RdWEADMZQ8I_cJN5agcw/view?usp=sharing]Belarus Banners (download to see correctly)[/url]
-
-[url=https://drive.google.com/file/d/1RaY7FSOpFuI8EMg_0DxpH-aJ3g2iJSTa/view?usp=sharing]French Banners (download to see correctly)[/url]
-
-[url=https://drive.google.com/file/d/1awu-jncUS-OTIUTsMDoMa92zRoWMEtSk/view?usp=sharing]German Banners (download to see correctly)[/url]
-
-[url=https://drive.google.com/file/d/1JsS02_qNaHf66aG9CFqCzUQnmAcd44KG/view?usp=sharing]Italian Banners (download to see correctly)[/url]
-
-[url=https://drive.google.com/file/d/1JoCG3CiZKAclV61YpN88i9SoXgFzlkfq/view?usp=sharing]Russia Banners (download to see correctly)[/url]
+[url=https://gitreiko.github.io/snowballing_kingdoms_mod/]Snowballing Web Gallery[/url]
 
 ## When possible enable/disable mod?
 
@@ -75,6 +67,10 @@ There is no single timeline. However, the main focus is on the middle ages. Diff
 I did not intend to offend anyone with any of designs or names. I know nothing about families and their banners. I just take collections from public sources. The grouping by cultures is approximate and rough. I hope nothing here is inappropriate or offensive — the intention was opposite.
 
 ## Update 1.0.23
+
+The online gallery lets you preview banners and copy their codes. For players only. If you are a modder, please contact me.
+
+[url=https://gitreiko.github.io/snowballing_kingdoms_mod/]Snowballing Web Gallery[/url]
 
 Reworked banners, mostly Baltic and Ukrainian:
 

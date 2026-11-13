@@ -26,17 +26,7 @@ Spawns new clans for kingdoms that conquer new settlements. This allows you to p
 
 Players only. If you are a modder, contact me.
 
-[url=https://drive.google.com/file/d/1wD8qwd8aVYK_RdWEADMZQ8I_cJN5agcw/view?usp=sharing]Belarus Banners (download to see correctly)[/url]
-
-[url=https://drive.google.com/file/d/1RaY7FSOpFuI8EMg_0DxpH-aJ3g2iJSTa/view?usp=sharing]French Banners (download to see correctly)[/url]
-
-[url=https://drive.google.com/file/d/1awu-jncUS-OTIUTsMDoMa92zRoWMEtSk/view?usp=sharing]German Banners (download to see correctly)[/url]
-
-[url=https://drive.google.com/file/d/1JsS02_qNaHf66aG9CFqCzUQnmAcd44KG/view?usp=sharing]Italian Banners (download to see correctly)[/url]
-
-[url=https://drive.google.com/file/d/1JoCG3CiZKAclV61YpN88i9SoXgFzlkfq/view?usp=sharing]Russia Banners (download to see correctly)[/url]
-
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3427239636]Steam Guide[/url]
+[url=https://gitreiko.github.io/snowballing_kingdoms_mod/]Snowballing Web Gallery[/url]
 
 ## When possible enable/disable mod?
 
@@ -76,6 +66,10 @@ Since there are a lot of banners. A lot of errors have been created.
 I didn't want to offend anyone with certain banners. In fact, I don't know anything about most banners. Just used a collection of banners for certain cultures. Hopefully didn't create toxic content. The intent was the opposite.
 
 ## Update 1.0.23
+
+The online gallery lets you preview banners and copy their codes. For players only. If you are a modder, please contact me.
+
+[url=https://gitreiko.github.io/snowballing_kingdoms_mod/]Snowballing Web Gallery[/url]
 
 Reworked banners, mostly Baltic and Ukrainian:
 
