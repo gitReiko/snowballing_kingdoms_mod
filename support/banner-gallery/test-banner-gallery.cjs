@@ -6,6 +6,7 @@ const path = require('node:path');
 const os = require('node:os');
 const {spawn} = require('node:child_process');
 const {pathToFileURL} = require('node:url');
+const {gunzipSync} = require('node:zlib');
 const root = path.resolve(__dirname, '../..');
 const browserPath = process.argv[2] || 'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe';
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
@@ -39,8 +40,25 @@ async function importFile(file) {
   const input = await send('DOM.querySelector',{nodeId:doc.root.nodeId,selector:'#xmlFile'});
   await send('DOM.setFileInputFiles',{nodeId:input.nodeId,files:[file]});
 }
+// Count source records independently of the gallery parser and embedded snapshot.
+function xmlSummary(xml) {
+  const records = text => (text.match(/<Snowball\b[^>]*\/>/g) || []).filter(record => /\bbanner="[^"\s][^"]*"/.test(record));
+  const all = records(xml);
+  return {
+    total:all.length,
+    active:records(xml.replace(/<!--[\s\S]*?-->/g,'')).length,
+    hd:all.filter(record => /\bweb-hd="true"/i.test(record)).length,
+    categories:new Set(all.map(record => record.match(/\bweb-category-id="([^"]+)"/)?.[1] || '__uncategorized__')).size
+  };
+}
 async function run() {
   const html = await fs.readFile(path.join(__dirname,'banner-gallery.html'),'utf8');
+  const expected = xmlSummary(await fs.readFile(path.join(root,'templates/eoe 1100/ModuleData/snowballs_in_use.xml'),'utf8'));
+  const compressed = html.match(/<script id="gallery-data" type="application\/gzip">([\s\S]*?)<\/script>/)[1];
+  const snapshot = JSON.parse(gunzipSync(Buffer.from(compressed,'base64')));
+  assert.equal(snapshot.records.length,expected.total);
+  const index = await fs.readFile(path.join(root,'index.html'),'utf8');
+  assert.equal(index,html.replaceAll('content="banner-gallery-preview.png"','content="support/banner-gallery/banner-gallery-preview.png"'));
   const script = html.match(/<script>([\s\S]*?)<\/script>/)[1];
   new (require('node:vm').Script)(script);
   const native = JSON.parse(html.match(/<script id="native-data" type="application\/json">([\s\S]*?)<\/script>/)[1]);
@@ -62,27 +80,44 @@ async function run() {
     if(response.method==='Runtime.exceptionThrown')errors.push(response.params.exceptionDetails.exception?.description||response.params.exceptionDetails.text);
   });
   await send('Runtime.enable');await send('Page.enable');
+  await send('Emulation.setFocusEmulationEnabled',{enabled:true});
   await send('Emulation.setDeviceMetricsOverride',{width:1440,height:1000,deviceScaleFactor:1,mobile:false});
-  await until("typeof state !== 'undefined' && state.records.length === 1414");
-  assert.deepEqual(await evaluate('({total:state.records.length,categories:state.categories.size,hd:state.records.filter(r=>r.hd).length,cards:document.querySelectorAll(".banner-card").length})'),{total:1414,categories:78,hd:531,cards:48});
-  assert.deepEqual(await evaluate('({lang:document.documentElement.lang,title:document.title,load:$("importXml").textContent,toggle:$("languageToggle").textContent})'),{lang:'en',title:'Bannerlord · Banner gallery',load:'Load XML',toggle:'Беларуская'});
+  await until(`typeof state !== 'undefined' && state.records.length === ${expected.total} && !$("importXml").disabled`);
+  assert.deepEqual(await evaluate('({total:state.records.length,categories:state.categories.size,hd:state.records.filter(r=>r.hd).length,cards:document.querySelectorAll(".banner-card").length})'),{total:expected.total,categories:expected.categories,hd:expected.hd,cards:48});
+  assert.deepEqual(await evaluate('state.records'),snapshot.records);
+  assert.deepEqual(await evaluate('({lang:document.documentElement.lang,title:document.title,load:$("importXml").textContent,toggle:$("languageToggle").textContent,active:$("languageToggle").querySelector(".active").dataset.language})'),{lang:'en',title:'Bannerlord · Banner gallery',load:'Load XML',toggle:'EN / BE',active:'en'});
   assert.equal(await evaluate('Object.values(translations).every(pair=>pair.length===2&&pair.every(text=>typeof text==="string"&&text.length>0))'),true);
   assert.equal(await evaluate('[...document.querySelectorAll("[data-i18n], [data-i18n-aria], [data-i18n-placeholder]")].every(node=>[node.dataset.i18n,node.dataset.i18nAria,node.dataset.i18nPlaceholder].filter(Boolean).every(key=>Object.hasOwn(translations,key)))'),true);
   assert.equal(await evaluate('state.records.filter(r=>{try{parseBanner(r.code);return false;}catch{return true;}}).length'),0);
+  assert.deepEqual(await evaluate('state.records.flatMap(r=>parseBanner(r.code).filter(layer=>!native.assets[layer[0]]).map(layer=>({id:r.id,mask:layer[0]})))'),[]);
   await until('document.querySelectorAll(".preview canvas").length >= 6');
   const screenshot=await send('Page.captureScreenshot',{format:'png'});
   const screenshotPath=path.join(temp,'gallery-desktop.png');
   await fs.writeFile(screenshotPath,Buffer.from(screenshot.data,'base64'));
   console.log('Screenshot: '+screenshotPath);
   assert.equal(await evaluate('(()=>{const c=document.querySelector(".preview canvas");return c.getContext("2d").getImageData(0,0,c.width,c.height).data.some((v,i)=>i%4===3&&v>0);})()'),true);
-  console.log('PASS: offline startup, 1,414 banners, 78 categories, valid codes, rendered native previews.');
+  console.log(`PASS: compressed offline startup, ${expected.total} banners, ${expected.categories} categories, ${expected.hd} HD, all native masks available.`);
+  await evaluate('window.categoryButton=document.querySelector("[data-category=belarusianBlackRuthenia]");window.nextCategory=categoryButton.nextElementSibling.dataset.category;categoryButton.focus()');
+  await send('Input.dispatchKeyEvent',{type:'keyDown',key:'Enter',code:'Enter',text:'\r',unmodifiedText:'\r',windowsVirtualKeyCode:13});
+  await send('Input.dispatchKeyEvent',{type:'keyUp',key:'Enter',code:'Enter',windowsVirtualKeyCode:13});
+  assert.equal(await evaluate('state.category'), 'belarusianBlackRuthenia');
+  assert.equal(await evaluate('document.activeElement.dataset.category'), 'belarusianBlackRuthenia');
+  await send('Input.dispatchKeyEvent',{type:'keyDown',key:'Tab',code:'Tab',windowsVirtualKeyCode:9});
+  await send('Input.dispatchKeyEvent',{type:'keyUp',key:'Tab',code:'Tab',windowsVirtualKeyCode:9});
+  assert.equal(await evaluate('document.activeElement.dataset.category===window.nextCategory'),true);
+  await evaluate('document.querySelector(".category").focus();document.activeElement.click()');
+  assert.equal(await evaluate('document.activeElement.dataset.category'),'');
+  await evaluate('$("search").focus();$("search").value="baltic";$("search").dispatchEvent(new Event("input"))');
+  assert.equal(await evaluate('document.activeElement.id'),'search');
+  await evaluate('resetFilters()');
+  console.log('PASS: keyboard category selection retains focus, Tab reaches the next category, all-categories and search keep focus.');
   await evaluate('$("next").click();window.originalRecord=JSON.stringify(state.records[0]);$("languageToggle").click()');
-  assert.deepEqual(await evaluate('({lang:document.documentElement.lang,title:document.title,load:$("importXml").textContent,copy:document.querySelector(".copy-button").textContent,page:state.page,stored:localStorage.getItem(LANGUAGE_KEY),unchanged:JSON.stringify(state.records[0])===window.originalRecord})'),{lang:'be',title:'Bannerlord · Галерэя сцягоў',load:'Загрузіць XML',copy:'Скапіяваць код',page:2,stored:'be',unchanged:true});
+  assert.deepEqual(await evaluate('({lang:document.documentElement.lang,title:document.title,load:$("importXml").textContent,copy:document.querySelector(".copy-button").textContent,page:state.page,stored:localStorage.getItem(LANGUAGE_KEY),unchanged:JSON.stringify(state.records[0])===window.originalRecord,toggle:$("languageToggle").textContent,active:$("languageToggle").querySelector(".active").dataset.language})'),{lang:'be',title:'Bannerlord · Галерэя сцягоў',load:'Загрузіць XML',copy:'Скапіяваць код',page:2,stored:'be',unchanged:true,toggle:'EN / BE',active:'be'});
   await send('Page.reload');
-  await until('typeof state!=="undefined" && state.records.length===1414 && document.documentElement.lang==="be"');
+  await until(`typeof state!=="undefined" && state.records.length===${expected.total} && document.documentElement.lang==="be"`);
   await evaluate('$("languageToggle").click()');
   await send('Page.reload');
-  await until('typeof state!=="undefined" && state.records.length===1414 && document.documentElement.lang==="en"');
+  await until(`typeof state!=="undefined" && state.records.length===${expected.total} && document.documentElement.lang==="en"`);
   assert.equal(await evaluate('(()=>{const original=Storage.prototype.getItem;Storage.prototype.getItem=()=>{throw new Error("Blocked");};try{return savedLanguage();}finally{Storage.prototype.getItem=original;}})()'),'en');
   console.log('PASS: English default, Belarusian toggle, preserved page and source data, saved language after reload, blocked-storage fallback.');
   const description = "The seal of Prince Sviatoslav Davydovych. It's used for his father in the EoE 1100 mod.";
@@ -121,19 +156,25 @@ async function run() {
   await evaluate('$("dialogCopyAttribute").click()');await until('window.copied.length===2');
   assert.equal(await evaluate('copied[0]===$("dialogCode").value && copied[1]===\'banner_key="\'+$("dialogCode").value+\'"\''),true);
   await evaluate('$("bannerDialog").close();resetFilters();$("quality").value="standard";$("quality").dispatchEvent(new Event("change"))');
-  assert.equal(await evaluate('filteredRecords().length'),883);
+  assert.equal(await evaluate('filteredRecords().length'),expected.total-expected.hd);
   await evaluate('resetFilters();$("next").click()');assert.equal(await evaluate('state.page'),2);
   console.log('PASS: category and quality filters, search, pagination, enlarged preview, exact clipboard contents.');
-  for(const [file,total,active] of [
-    ['templates/eoe 1100/ModuleData/snowballs_in_use.xml',1414,1414],
-    ['templates/eastern europe 1259/ModuleData/snowballs_in_use.xml',1402,666],
-    ['templates/anno domini 1259/ModuleData/snowballs_in_use.xml',1418,1288]
+  for(const file of [
+    'templates/eoe 1100/ModuleData/snowballs_in_use.xml',
+    'templates/eastern europe 1259/ModuleData/snowballs_in_use.xml',
+    'templates/anno domini 1259/ModuleData/snowballs_in_use.xml',
+    'ModuleData/snowballs_in_use.xml'
   ]) {
+    const {total,active} = xmlSummary(await fs.readFile(path.join(root,file),'utf8'));
     await evaluate('window.oldGeneration=state.generation');await importFile(path.join(root,file));
     await until('state.generation>window.oldGeneration && !$("importXml").disabled');
     assert.equal(await evaluate('state.records.length'),total);
     assert.equal(await evaluate('state.records.filter(r=>!r.commented).length'),active);
-    if(file.includes('eoe 1100'))assert.deepEqual(await evaluate('(()=>{const r=state.records.find(r=>r.id==="ukr_che_davyd_sviatoslavych");return {fictional:r.fictional,description:r.description};})()'),{fictional:false,description});
+    if(file.includes('eoe 1100')) {
+      assert.deepEqual(await evaluate('state.records'),snapshot.records);
+      assert.deepEqual(await evaluate('(()=>{const r=state.records.find(r=>r.id==="ukr_che_davyd_sviatoslavych");return {fictional:r.fictional,description:r.description};})()'),{fictional:false,description});
+    }
+    assert.deepEqual(await evaluate('state.records.flatMap(r=>parseBanner(r.code).filter(layer=>!native.assets[layer[0]]).map(layer=>({id:r.id,mask:layer[0]})))'),[]);
     await evaluate('$("includeCommented").checked=false;$("includeCommented").dispatchEvent(new Event("change"))');
     assert.equal(await evaluate('filteredRecords().length'),active);
     console.log('PASS: actual file picker import '+file+' ('+total+' total, '+active+' active).');
@@ -193,6 +234,33 @@ async function run() {
   await evaluate('Object.defineProperty(navigator,"clipboard",{configurable:true,value:undefined});document.querySelector(".copy-button").click()');
   await until('!$("toast").hidden || $("bannerDialog").open');
   assert.equal(await evaluate('$("bannerDialog").open ? $("dialogCode").value===state.records[0].code : $("toast").textContent==="Banner code copied."'),true);
+  // Exercise the generated publication entry point with the complete collection.
+  await send('Page.navigate',{url:pathToFileURL(path.join(root,'index.html')).href});
+  await until(`typeof state!=="undefined" && state.records.length===${expected.total} && !$("importXml").disabled`);
+  await evaluate('openBanner(state.records.find(record=>record.id==="fre_bri_jean_de_montfort"))');
+  assert.equal(await evaluate('$("dialogNote").textContent'),'The code is ready to paste into Bannerlord.');
+  assert.deepEqual(await evaluate('$("dialogCanvas")._warnings'),{missing:[],unknown:[]});
+  await evaluate('$("bannerDialog").close()');
+  for(const width of [390,320]) {
+    await send('Emulation.setDeviceMetricsOverride',{width,height:844,deviceScaleFactor:1,mobile:true});
+    for(const lang of ['en','be']) {
+      await evaluate(`setLanguage(${JSON.stringify(lang)})`);
+      assert.equal(await evaluate('document.documentElement.scrollWidth<=window.innerWidth'),true,`${width}px ${lang} publication layout`);
+    }
+  }
+  await evaluate('setLanguage("en")');
+  await send('Emulation.clearDeviceMetricsOverride');
+  console.log('PASS: publication entry point, complete Jean de Montfort preview, 320px and 390px layouts in both languages.');
+  // A browser without gzip stream support must still offer a working XML import.
+  const blocked = await send('Page.addScriptToEvaluateOnNewDocument',{source:'window.DecompressionStream=undefined;'});
+  await send('Page.reload');
+  await until('typeof state!=="undefined" && !$("message").hidden && !$("importXml").disabled');
+  assert.equal(await evaluate('state.records.length'),0);
+  assert.equal(await evaluate('$("message").textContent===t("startupError")'),true);
+  await importFile(fixture);
+  await until('state.records.length===3 && $("message").hidden');
+  await send('Page.removeScriptToEvaluateOnNewDocument',{identifier:blocked.identifier});
+  console.log('PASS: unavailable gzip support shows a readable error and permits recovery through XML import.');
   assert.deepEqual(errors,[]);
   console.log('PASS: mobile layout, signed dimensions, missing-mask notice, local clipboard fallback, no browser exceptions.');
 }

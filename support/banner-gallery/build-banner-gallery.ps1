@@ -1,5 +1,6 @@
 param(
-    [string]$SourcePath = (Join-Path $PSScriptRoot '../../templates/eoe 1100/ModuleData/snowballs_in_use.xml')
+    [string]$SourcePath = (Join-Path $PSScriptRoot '../../templates/eoe 1100/ModuleData/snowballs_in_use.xml'),
+    [string]$IndexPath = (Join-Path $PSScriptRoot '../../index.html')
 )
 $ErrorActionPreference = 'Stop'
 $galleryPath = Join-Path $PSScriptRoot 'banner-gallery.html'
@@ -39,12 +40,26 @@ function Add-Records($root, [bool]$commented) {
 Add-Records $xml.DocumentElement $false
 if ($records.Count -eq 0) { throw 'No Snowball records found.' }
 $repositoryRoot = Split-Path (Split-Path $PSScriptRoot -Parent) -Parent
-$label = 'Built-in snapshot: ' + $source.Substring($repositoryRoot.Length + 1).Replace('\', '/')
+$sourceUri = New-Object Uri($source)
+$rootUri = New-Object Uri($repositoryRoot.TrimEnd('\') + '\')
+$label = 'Built-in snapshot: ' + [Uri]::UnescapeDataString($rootUri.MakeRelativeUri($sourceUri).ToString())
 $data = [ordered]@{ source=$label; records=@($records.ToArray()) } | ConvertTo-Json -Depth 5 -Compress
-# Escape HTML-sensitive characters so XML names cannot terminate the JSON script element.
-$data = $data.Replace('&', '\u0026').Replace('<', '\u003c').Replace('>', '\u003e')
+# Base64 gzip preserves the complete snapshot without repeating long banner layers
+# in the HTML. The browser decompresses it locally; no server or network is needed.
+$buffer = New-Object IO.MemoryStream
+$gzip = New-Object IO.Compression.GZipStream($buffer, [IO.Compression.CompressionLevel]::Optimal, $true)
+try {
+    $bytes = [Text.Encoding]::UTF8.GetBytes($data)
+    $gzip.Write($bytes, 0, $bytes.Length)
+} finally { $gzip.Dispose() }
+$compressedData = [Convert]::ToBase64String($buffer.ToArray())
+$buffer.Dispose()
 $nativeJson = $native.Groups[1].Value
 $html = [regex]::Replace($html, '(<script id="native-data" type="application/json">)[\s\S]*?(</script>)', [Text.RegularExpressions.MatchEvaluator]{ param($m) $m.Groups[1].Value + $nativeJson + $m.Groups[2].Value })
-$html = [regex]::Replace($html, '(<script id="gallery-data" type="application/json">)[\s\S]*?(</script>)', [Text.RegularExpressions.MatchEvaluator]{ param($m) $m.Groups[1].Value + $data + $m.Groups[2].Value })
+$html = [regex]::Replace($html, '<script id="gallery-data" type="application/(?:json|gzip)">[\s\S]*?</script>', [Text.RegularExpressions.MatchEvaluator]{ param($m) '<script id="gallery-data" type="application/gzip">' + $compressedData + '</script>' })
 [IO.File]::WriteAllText($galleryPath, $html, (New-Object Text.UTF8Encoding($false)))
-Write-Output ('Updated banner-gallery.html: {0} banners, embedded native masks and palette.' -f $records.Count)
+# The root copy is the publication entry point; its social image lives beside the
+# maintained gallery source, so its relative URL differs from the standalone copy.
+$index = $html.Replace('content="banner-gallery-preview.png"', 'content="support/banner-gallery/banner-gallery-preview.png"')
+[IO.File]::WriteAllText([IO.Path]::GetFullPath($IndexPath), $index, (New-Object Text.UTF8Encoding($false)))
+Write-Output ('Updated banner-gallery.html and index.html: {0} banners, {1:N2} MB per page.' -f $records.Count, ([Text.Encoding]::UTF8.GetByteCount($html) / 1000000))

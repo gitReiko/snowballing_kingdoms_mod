@@ -4,8 +4,13 @@ Open `banner-gallery.html` in a browser. It works offline and includes a snapsho
 `templates/eoe 1100/ModuleData/snowballs_in_use.xml` and the standard Bannerlord masks
 and palette already bundled in `../banner-recolor.html`.
 
-The interface defaults to **English**. The **Беларуская / English** button switches
-languages and saves the choice in browser local storage. Switching preserves the
+The snapshot is embedded as base64 gzip and decompressed locally with the browser's
+`DecompressionStream` API. Use a current Edge, Chrome, Firefox, or Safari. If built-in
+data cannot be opened, an explanatory message appears and XML import remains available.
+All 272 native masks are retained, including those used only by imported files.
+
+The interface defaults to **English**. The **EN / BE** button switches languages,
+underlines the active language, and saves the choice in browser local storage. Switching preserves the
 imported data, current category, filters, page, and open preview. If local storage
 is unavailable, the gallery still works and defaults to English on the next load.
 Banner names, category IDs, and banner codes stay as provided in the XML.
@@ -47,8 +52,18 @@ powershell -NoProfile -ExecutionPolicy Bypass -File support/banner-gallery/build
 ```
 
 You can choose another snapshot with `-SourcePath 'path/to/snowballs_in_use.xml'`.
-The output remains a standalone HTML file: no server, dependencies, or network
-requests are needed. Preview artwork and palette credits are included in the page.
+The build updates both `support/banner-gallery/banner-gallery.html` and the root
+`index.html`; the root copy is the publication entry point. `-IndexPath` can choose
+a different destination for the root copy. The HTML remains standalone: no server,
+dependencies, or network requests are needed. Preview artwork and palette credits
+are included in the page.
+
+For publication, include `support/banner-gallery/banner-gallery-preview.png` with
+the root `index.html`. For the standalone gallery URL, keep that image beside
+`banner-gallery.html`. The PNG is used by social previews, not by the gallery itself.
+Description, Open Graph, and Twitter card metadata are included. Once a public URL
+is known, use its absolute image URL in the social metadata if your hosting platform
+or sharing service requires one.
 
 Browser integration checks (Node.js 22+ and an installed Microsoft Edge or Chromium):
 
@@ -57,7 +72,10 @@ node support/banner-gallery/test-banner-gallery.cjs
 ```
 
 Pass the browser executable path as the first argument if Edge is installed elsewhere.
-The checks open the standalone file in a hidden headless browser and cover native
+The checks open the standalone file and root entry point in a hidden headless browser and cover native
 previews, XML file imports, comments, category HD rules, filtering, clipboard data,
-malformed input, both interface languages, saved language preferences, and mobile layout. Temporary profiles and a desktop screenshot are
+malformed input, both interface languages, saved language preferences, keyboard
+focus, 320px and 390px layouts, missing-mask detection, gzip decompression, and recovery
+when decompression is unavailable. Expected collection totals come from the current
+XML sources. Temporary profiles and a desktop screenshot are
 written to the system temporary directory.
