@@ -96,6 +96,8 @@ Added new banners:
 - Kniaz Jarasłaŭ Jarapołčyč
 - Russian - Ryazan 2
 
+Fix simultaneous launch of multiple mod instances.
+
 ## Current banners (total 1466)
 
 - Andalusia 23
