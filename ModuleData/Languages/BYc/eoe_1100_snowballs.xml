@@ -120,6 +120,7 @@
   <string id="bel_dre_chmary" text="Хмары"/>
   <string id="bel_dre_kasciuski" text="Касьцюшкі"/>
   <string id="bel_dre_statkievicy" text="Статкевічы"/>
+  <string id="bel_dre_jaraslau_jarapolcyc" text="Князь Яраслаў Яраполчыч"/>
   <string id="bel_dre_kalencyskija" text="Каленчыскія"/>
   <string id="bel_dre_pacy" text="Пацы"/>
   <string id="bel_dre_karzanieuskija" text="Каржанеўскія"/>
@@ -235,8 +236,8 @@
   <string id="sb.anda_velez_malaga" text="Белез-Малага"/>
   <string id="sb.anda_loja" text="Лоха"/>
   <string id="sb.anda_preigo" text="Прэйго"/>
-  <string id="sb.ser_tvartkovich" text="Твартковіч"/>
-  <string id="sb.ser_kastrioti" text="Кастрыоці"/>
+  <string id="sb.bos_tvartkovich" text="Твартковіч"/>
+  <string id="sb.bos_kastrioti" text="Кастрыоці"/>
   <string id="sb.bos_zlatonosovic" text="Златаносавіч"/>
   <string id="sb.bos_nikolic" text="Ніколіч"/>
   <string id="sb.bos_hrvatinic" text="Хрвацініч"/>
@@ -849,99 +850,128 @@
   <string id="ita_ven_valaresso" text="Валярэса"/>
   <string id="ita_ven_zancaruol" text="Дзанкаруоль"/>
   <string id="ita_ven_duodo" text="Дуода"/>
-  <string id="sb.jat_zelva" text="Зэльва"/>
-  <string id="sb.jat_mscibava" text="Мсьцібава"/>
-  <string id="sb.jat_radun" text="Радунь"/>
-  <string id="sb.jat_nederowe" text="Недэрове"/>
-  <string id="sb.jat_wange" text="Ванге"/>
-  <string id="sb.jat_astryna" text="Астрына"/>
-  <string id="sb.jat_kresmena" text="Крэсмэна"/>
-  <string id="sb.jat_kimenava" text="Кіменава"/>
-  <string id="sb.jat_rychtyn" text="Рыхтын"/>
-  <string id="sb.jat_zdzitava" text="Зьдзітава"/>
-  <string id="sb.jat_weyzo" text="Вейзо"/>
-  <string id="sb.bal_bandava" text="Бандава"/>
-  <string id="sb.bal_ceklis" text="Цэкліс"/>
-  <string id="sb.bal_duvzare" text="Дуўзарэ"/>
-  <string id="sb.bal_pilsats" text="Пілсац"/>
-  <string id="sb.bal_vanema" text="Ванема"/>
-  <string id="sb.bal_apuole" text="Апуолэ"/>
-  <string id="sb.bal_kuldiga" text="Кулдзіга"/>
-  <string id="sb.lat_trikata" text="Трыката"/>
-  <string id="sb.lat_valmiera" text="Валміэра"/>
-  <string id="sb.lat_koknese" text="Кокнэсе"/>
-  <string id="sb.lat_rezekne" text="Рэзэкнэ"/>
-  <string id="sb.lat_asote" text="Асотэ"/>
-  <string id="sb.lat_jekabpils" text="Якабпілс"/>
-  <string id="sb.lat_aluksne" text="Алукснэ"/>
-  <string id="sb.lat_daugavpils" text="Даўгаўпілс"/>
-  <string id="sb.lat_cesis" text="Цэсіс"/>
-  <string id="sb.lat_abrene" text="Абрэнэ"/>
-  <string id="sb.lat_idums" text="Ідумс"/>
-  <string id="sb.lat_silene" text="Сілэнэ"/>
-  <string id="sb.lat_upmale" text="Упмалэ"/>
-  <string id="sb.lat_dobele" text="Добэле"/>
-  <string id="sb.lat_rakte" text="Рактэ"/>
-  <string id="sb.lat_mezotne" text="Межотнэ"/>
-  <string id="sb.lat_sidabre" text="Сідабрэ"/>
-  <string id="sb.lat_jelgava" text="Ялгава"/>
-  <string id="sb.lat_pudzas" text="Пуджас"/>
-  <string id="sb.lat_skare" text="Скарэ"/>
-  <string id="sb.lat_dumpji" text="Думпі"/>
-  <string id="sb.lat_dobene" text="Добенэ"/>
-  <string id="sb.lit_asmiany" text="Ашмяны"/>
-  <string id="sb.lit_ukmerge" text="Укмерге"/>
-  <string id="sb.lit_dubingiai" text="Дубінгяй"/>
-  <string id="sb.lit_svir" text="Сьвір"/>
-  <string id="sb.lit_streva" text="Стрэва"/>
-  <string id="sb.lit_trakai" text="Тракай"/>
-  <string id="sb.lit_alytus" text="Алітус"/>
-  <string id="sb.lit_nemencine" text="Неменчыне"/>
-  <string id="sb.lit_kreva" text="Крэва"/>
-  <string id="sb.lit_kernave" text="Кернавэ"/>
-  <string id="sb.lit_halsany" text="Гальшаны"/>
-  <string id="sb.lit_nadrauwa" text="Надраўва"/>
-  <string id="sb.lit_balga" text="Балга"/>
-  <string id="sb.lit_skallawa" text="Скаллава"/>
-  <string id="sb.lit_truso" text="Труса"/>
-  <string id="sb.lit_kulma" text="Кульма"/>
-  <string id="sb.lit_notangi" text="Нотангі"/>
-  <string id="sb.lit_paguddi" text="Пагудзьдзі"/>
-  <string id="sb.lit_ragnita" text="Рагніта"/>
-  <string id="sb.lit_pameddi" text="Памедзьдзі"/>
-  <string id="sb.lit_twangste" text="Твангстэ"/>
-  <string id="sb.lit_pernarava" text="Пернарава"/>
-  <string id="sb.lit_ariogala" text="Арыёгала"/>
-  <string id="sb.lit_rutve" text="Рутвэ"/>
-  <string id="sb.lit_gaizuva" text="Гайжува"/>
-  <string id="sb.lit_vilkija" text="Вількія"/>
-  <string id="sb.lit_pastuva" text="Паштува"/>
-  <string id="sb.lit_raseiniai" text="Расейняй"/>
-  <string id="sb.lit_kaunas" text="Каўнас"/>
-  <string id="sb.lit_geguaze" text="Гегужэ"/>
-  <string id="sb.lit_dubysa" text="Дубіса"/>
-  <string id="sb.lit_knituva" text="Кнітува"/>
-  <string id="sb.lit_sapiegos" text="Сапегос"/>
-  <string id="sb.lit_kesgailos" text="Кезгайлос"/>
-  <string id="sb.lit_daugirdai" text="Даўгірдай"/>
-  <string id="sb.lit_blinstrubai" text="Блінструбай"/>
-  <string id="sb.lit_jelenskiai" text="Еленскяй"/>
-  <string id="sb.lit_alseniskiai" text="Гальшэнішкяй"/>
-  <string id="sb.lit_siesickiai" text="Сесіцкяй"/>
-  <string id="sb.lit_nagurskiai" text="Нагурскяй"/>
-  <string id="sb.lit_kiskos" text="Кішкос"/>
-  <string id="sb.lit_gediminas" text="Гедзімінас"/>
-  <string id="sb.lit_vambutai" text="Вамбутай"/>
-  <string id="sb.lit_liubartas" text="Любартас"/>
-  <string id="sb.lit_karijotas" text="Карыётас"/>
-  <string id="sb.lit_algirdas" text="Альгірдас"/>
-  <string id="sb.lit_narimantas" text="Нарымантас"/>
-  <string id="sb.lit_mantvydas" text="Мантвідас"/>
-  <string id="sb.lit_volosynai" text="Валошыняй"/>
-  <string id="sb.lit_kimbarai" text="Кімбарай"/>
-  <string id="sb.lit_mangirdaiciai" text="Мангірдайчяй"/>
-  <string id="sb.lit_puzinos" text="Пузінос"/>
-  <string id="sb.lit_vytautas" text="Вітаўтас"/>
+  <string id="bal_cur_apuole" text="Апуолэ"/>
+  <string id="bal_cur_bandava" text="Бандава"/>
+  <string id="bal_cur_ceklis" text="Цэкліс"/>
+  <string id="bal_cur_duvzare" text="Дуўзарэ"/>
+  <string id="bal_cur_kuldiga" text="Кулдзіга"/>
+  <string id="bal_cur_megava" text="Мегава"/>
+  <string id="bal_cur_piemare" text="Піемарэ"/>
+  <string id="bal_cur_pilsats" text="Пілсац"/>
+  <string id="bal_cur_vanema" text="Ванема"/>
+  <string id="bal_cur_ventava" text="Вентава"/>
+  <string id="bal_jat_astryna" text="Астрына"/>
+  <string id="bal_jat_dainava_hrodna" text="Дайнава, Горадня"/>
+  <string id="bal_jat_dainava_navahradak" text="Дайнава, Наваградак"/>
+  <string id="bal_jat_jatva" text="Ятва"/>
+  <string id="bal_jat_kimenava" text="Кіменава"/>
+  <string id="bal_jat_kresmena" text="Крэсмэна"/>
+  <string id="bal_jat_mscibava" text="Мсьцібава"/>
+  <string id="bal_jat_nederowe" text="Недэрове"/>
+  <string id="bal_jat_paleke" text="Палеке"/>
+  <string id="bal_jat_radun" text="Радунь"/>
+  <string id="bal_jat_rychtyn" text="Рыхтын"/>
+  <string id="bal_jat_suduva" text="Судува"/>
+  <string id="bal_jat_wange" text="Ванге"/>
+  <string id="bal_jat_weyzo" text="Вейзо"/>
+  <string id="bal_jat_zdzitava" text="Зьдзітава"/>
+  <string id="bal_jat_zelva" text="Зэльва"/>
+  <string id="bal_lat_abrene" text="Абрэнэ"/>
+  <string id="bal_lat_aluksne" text="Алукснэ"/>
+  <string id="bal_lat_asote" text="Асотэ"/>
+  <string id="bal_lat_atzele" text="Атзэлэ"/>
+  <string id="bal_lat_cesis" text="Цэсіс"/>
+  <string id="bal_lat_cesvaine" text="Цэсвайнэ"/>
+  <string id="bal_lat_daugavpils" text="Даўгаўпілс"/>
+  <string id="bal_lat_idums" text="Ідумс"/>
+  <string id="bal_lat_jekabpils" text="Якабпілс"/>
+  <string id="bal_lat_koknese" text="Кокнэсе"/>
+  <string id="bal_lat_lotigola" text="Лотыгола"/>
+  <string id="bal_lat_rezekne" text="Рэзэкнэ"/>
+  <string id="bal_lat_talava" text="Талава"/>
+  <string id="bal_lat_trikata" text="Трыката"/>
+  <string id="bal_lat_valmiera" text="Валміэра"/>
+  <string id="bal_lit_2_algirdas" text="Альгерды"/>
+  <string id="bal_lit_2_alseniskiai" text="Гальшанскія"/>
+  <string id="bal_lit_2_bileviciai" text="Білевічы"/>
+  <string id="bal_lit_2_blinstrubai" text="Блінструбы"/>
+  <string id="bal_lit_2_daugirdai" text="Доўгерды"/>
+  <string id="bal_lit_2_gediminas" text="Гедзіміны"/>
+  <string id="bal_lit_2_jelenskiai" text="Еленскія"/>
+  <string id="bal_lit_2_jurbarkas" text="Вольны Горад Юрбарк"/>
+  <string id="bal_lit_2_karijotas" text="Карыяты"/>
+  <string id="bal_lit_2_karpiai" text="Карпы"/>
+  <string id="bal_lit_2_kesgailos" text="Кезгайлы"/>
+  <string id="bal_lit_2_kimbarai" text="Кімбары"/>
+  <string id="bal_lit_2_kiskos" text="Кішкі"/>
+  <string id="bal_lit_2_lazdijai" text="Вольны Горад Лазьдзея"/>
+  <string id="bal_lit_2_mantvydas" text="Мантывіды"/>
+  <string id="bal_lit_2_merkine" text="Вольны Горад Мерач"/>
+  <string id="bal_lit_2_nagurskiai" text="Нагорскія"/>
+  <string id="bal_lit_2_puzinos" text="Пузіны"/>
+  <string id="bal_lit_2_sakaviciai" text="Саковічы"/>
+  <string id="bal_lit_2_sapiegos" text="Сапегі"/>
+  <string id="bal_lit_2_siesickiai" text="Сясіцкія"/>
+  <string id="bal_lit_2_sluska" text="Слушкі"/>
+  <string id="bal_lit_2_volosynai" text="Валошыны"/>
+  <string id="bal_lit_2_zabielos" text="Забелы"/>
+  <string id="bal_lit_alytus" text="Алітус"/>
+  <string id="bal_lit_asmiany" text="Ашмяны"/>
+  <string id="bal_lit_deltuva" text="Дзельтува"/>
+  <string id="bal_lit_dubingiai" text="Дубінгяй"/>
+  <string id="bal_lit_halsany" text="Гальшаны"/>
+  <string id="bal_lit_kernave" text="Кернавэ"/>
+  <string id="bal_lit_kreva" text="Крэва"/>
+  <string id="bal_lit_lietuva" text="Летува"/>
+  <string id="bal_lit_nalsa" text="Нальша"/>
+  <string id="bal_lit_nemencine" text="Неменчыне"/>
+  <string id="bal_lit_neris" text="Нерыс"/>
+  <string id="bal_lit_streva" text="Стрэва"/>
+  <string id="bal_lit_svir" text="Сьвір"/>
+  <string id="bal_lit_trakai" text="Трокі"/>
+  <string id="bal_lit_ukmerge" text="Укмерге"/>
+  <string id="bal_pru_balga" text="Балга"/>
+  <string id="bal_pru_barta" text="Барта"/>
+  <string id="bal_pru_galinda" text="Галінда"/>
+  <string id="bal_pru_kulma" text="Кульма"/>
+  <string id="bal_pru_nadrauwa" text="Надраўва"/>
+  <string id="bal_pru_notangi" text="Нотангі"/>
+  <string id="bal_pru_paguddi" text="Пагудзьдзі"/>
+  <string id="bal_pru_pameddi" text="Памедзьдзі"/>
+  <string id="bal_pru_ragnita" text="Рагніта"/>
+  <string id="bal_pru_semba" text="Сэмба"/>
+  <string id="bal_pru_skallawa" text="Скаллава"/>
+  <string id="bal_pru_truso" text="Труса"/>
+  <string id="bal_pru_twangste" text="Твангстэ"/>
+  <string id="bal_pru_warmi" text="Вармі"/>
+  <string id="bal_sam_ariogala" text="Арыёгала"/>
+  <string id="bal_sam_dubysa" text="Дубіса"/>
+  <string id="bal_sam_gaizuva" text="Гайжува"/>
+  <string id="bal_sam_geguaze" text="Гегужэ"/>
+  <string id="bal_sam_karsuva" text="Каршува"/>
+  <string id="bal_sam_kaunas" text="Каўнас"/>
+  <string id="bal_sam_knituva" text="Кнітува"/>
+  <string id="bal_sam_pastuva" text="Паштува"/>
+  <string id="bal_sam_pernarava" text="Пернарава"/>
+  <string id="bal_sam_raseiniai" text="Расейны"/>
+  <string id="bal_sam_rutve" text="Рутвэ"/>
+  <string id="bal_sam_saule" text="Шаўле"/>
+  <string id="bal_sam_upyte" text="Упіта"/>
+  <string id="bal_sam_vilkija" text="Вількія"/>
+  <string id="bal_zem_dobele" text="Добэле"/>
+  <string id="bal_zem_dobene" text="Добенэ"/>
+  <string id="bal_zem_dumpji" text="Думпі"/>
+  <string id="bal_zem_jelgava" text="Ялгава"/>
+  <string id="bal_zem_mezotne" text="Межотнэ"/>
+  <string id="bal_zem_pudzas" text="Пуджас"/>
+  <string id="bal_zem_rakte" text="Рактэ"/>
+  <string id="bal_zem_sidabre" text="Сідабрэ"/>
+  <string id="bal_zem_silene" text="Сілэнэ"/>
+  <string id="bal_zem_skare" text="Скарэ"/>
+  <string id="bal_zem_sparnene" text="Спарнэне"/>
+  <string id="bal_zem_svete" text="Свэтэ"/>
+  <string id="bal_zem_tervete" text="Тэрвэтэ"/>
+  <string id="bal_zem_upmale" text="Упмалэ"/>
   <string id="sb.den_aderen" text="Адзерэн"/>
   <string id="sb.den_ahlefeldt" text="Ахлефэльтт"/>
   <string id="sb.den_albertin" text="Альберцін"/>
@@ -1129,6 +1159,8 @@
   <string id="rus_smo_dashkovy" text="Дашковы"/>
   <string id="rus_smo_skriabiny" text="Скрабіны"/>
   <string id="rus_smo_traviny" text="Травіны"/>
+  <string id="rus_rya_belgorod_ryazanskyi" text="Белгарад-Разанскі"/>
+  <string id="rus_rya_ryazan" text="Разань"/>
   <string id="rus_smo_aladiny" text="Аладзьіны"/>
   <string id="rus_smo_monastyrevy" text="Манастыравы"/>
   <string id="rus_smo_bessonovy" text="Бессонавы"/>
@@ -1144,57 +1176,80 @@
   <string id="rus_oth_kry_pskov" text="Пскоў"/>
   <string id="rus_oth_kry_tver" text="Цьвер"/>
   <string id="rus_oth_kry_torzhok" text="Таржок"/>
-  <string id="sb.rus_che_mstyslav_volodymyrovych_the_brave" text="Мстыслав Володымыровіч Адважны"/>
-  <string id="sb.rus_che_smolyn" text="Смолын"/>
-  <string id="sb.rus_che_shestovytsia" text="Шэстовыця"/>
-  <string id="sb.rus_che_blystova" text="Блыстова"/>
-  <string id="sb.rus_che_sedniv" text="Седнів"/>
-  <string id="sb.rus_che_listven" text="Ліствен"/>
-  <string id="sb.rus_che_lyubech" text="Любеч"/>
-  <string id="sb.rus_che_vorhol" text="Воргал"/>
-  <string id="sb.rus_che_lenkiv" text="Ленків"/>
-  <string id="sb.rus_che_lgov" text="Льгов"/>
-  <string id="sb.rus_che_rylsk" text="Рыльск"/>
-  <string id="sb.rus_che_tovstodubove" text="Товстадубове"/>
-  <string id="sb.rus_che_novhorod_siverskyi" text="Ноўгарад-Сіверскі"/>
-  <string id="sb.rus_che_nizhyn" text="Ніжын"/>
-  <string id="sb.rus_che_baturyn" text="Батурын"/>
-  <string id="sb.rus_che_kozelets" text="Козелец"/>
-  <string id="sb.rus_che_horodnia_chernihivska" text="Гародня Чарнігаўская"/>
-  <string id="sb.rus_kyi_iziaslav_i_iaroslavych" text="Ізяслав I Ярославыч"/>
-  <string id="sb.rus_kyi_sviatoslav_i_igorovich_the_brave" text="Сьвятослав I Ігоровыч Адважны"/>
-  <string id="sb.rus_kyi_volodymyr_i_sviatoslavych_the_great" text="Володымыр I Сьвятославыч Вялікі"/>
-  <string id="sb.rus_kyi_iaroslav_i_volodymyrovych_the_wise" text="Ярослав I Володымыровыч Мудры"/>
-  <string id="sb.rus_kyi_kyiv" text="Кыів"/>
-  <string id="sb.rus_kyi_bila_tserkva" text="Біла Церква"/>
-  <string id="sb.rus_kyi_vyshhorod" text="Вышгород"/>
-  <string id="sb.rus_kyi_snitynka" text="Сьнітынка"/>
-  <string id="sb.rus_kyi_motyzhyn" text="Мотыжын"/>
-  <string id="sb.rus_kyi_korsun" text="Корсунь"/>
-  <string id="sb.rus_kyi_zhytomyr" text="Жытомыр"/>
-  <string id="sb.rus_kyi_khmilnyk" text="Хмільнік"/>
-  <string id="sb.rus_kyi_moshny" text="Мошны"/>
-  <string id="sb.rus_kyi_chyhyryn" text="Чыгырын"/>
-  <string id="sb.rus_kyi_medzhybizh" text="Меджыбіж"/>
-  <string id="sb.rus_kyi_tetiiv" text="Цеціів"/>
-  <string id="sb.rus_kyi_skvyra" text="Сквыра"/>
-  <string id="sb.rus_kyi_bohuslav" text="Богуслав"/>
-  <string id="sb.rus_kyi_lysianka" text="Лысянка"/>
-  <string id="sb.rus_kyi_korostyshiv" text="Корастышін"/>
-  <string id="sb.rus_per_sviatopolk_mstyslavych" text="Сьвятополк Мстыславыч"/>
-  <string id="sb.rus_per_iziaslav_ii_mstyslavych" text="Ізяслав II Мстыславыч"/>
-  <string id="sb.rus_per_rostyslav_i_mstyslavych" text="Ростыслав I Мстыславыч"/>
-  <string id="sb.rus_per_zhovnine" text="Жовнінэ"/>
-  <string id="sb.rus_per_sary" text="Сары"/>
-  <string id="sb.rus_per_snityn" text="Сьнітын"/>
-  <string id="sb.rus_per_voin" text="Воін"/>
-  <string id="sb.rus_per_vsevolod_i_iaroslavych" text="Всеволод I Ярославыч"/>
-  <string id="sb.rus_per_romny" text="Ромны"/>
-  <string id="sb.rus_per_myrhorod" text="Мыргорад"/>
-  <string id="sb.rus_per_lubny" text="Лубны"/>
-  <string id="sb.rus_per_pyriatyn" text="Пыратын"/>
-  <string id="sb.rus_per_oster" text="Остэр"/>
-  <string id="sb.rus_per_pryluki" text="Прылукі"/>
+  <string id="ukr_che_argosh" text="Горад Аргош"/>
+  <string id="ukr_che_baratynski" text="Баратынскія"/>
+  <string id="ukr_che_baturyn" text="Вольны Горад Батурын"/>
+  <string id="ukr_che_blystova" text="Горад Блыстова"/>
+  <string id="ukr_che_bolkhovski" text="Балхоўскія"/>
+  <string id="ukr_che_davyd_sviatoslavych" text="Князь Давыд Сьвятославыч"/>
+  <string id="ukr_che_horodnia_chernihivska" text="Горад Гародня Чарнігаўская"/>
+  <string id="ukr_che_iaroslav_sviatoslavych" text="Князь Ярослав Сьвятославыч"/>
+  <string id="ukr_che_kozelets" text="Вольны Горад Козелец"/>
+  <string id="ukr_che_lenkiv" text="Горад Ленків"/>
+  <string id="ukr_che_lgov" text="Горад Льгов"/>
+  <string id="ukr_che_listven" text="Горад Ліствен"/>
+  <string id="ukr_che_lyubech" text="Горад Любеч"/>
+  <string id="ukr_che_mezetski" text="Мязецкія"/>
+  <string id="ukr_che_mosalski" text="Масальскія"/>
+  <string id="ukr_che_mstyslav_volodymyrovych_the_brave" text="Мстыслав Володымыровіч Адважны"/>
+  <string id="ukr_che_novhorod_siverskyi" text="Вольны Горад Ноўгарад-Сіверскі"/>
+  <string id="ukr_che_odoevski" text="Адоеўскія"/>
+  <string id="ukr_che_oleg_sviatoslavych" text="Князь Алег Сьвятославыч"/>
+  <string id="ukr_che_olgovychi" text="Ольгавічы"/>
+  <string id="ukr_che_rylsk" text="Горад Рыльск"/>
+  <string id="ukr_che_sedniv" text="Горад Седнів"/>
+  <string id="ukr_che_shestovytsia" text="Горад Шэстовыця"/>
+  <string id="ukr_che_smolyn" text="Горад Смолын"/>
+  <string id="ukr_che_sviatoslav_davydovych" text="Князь Сьвятослав Давыдовіч"/>
+  <string id="ukr_che_vorhol" text="Горад Воргал"/>
+  <string id="ukr_che_zvenyhorodski" text="Зьвенігародзкія"/>
+  <string id="ukr_kyi_bila_tserkva" text="Вольны Горад Біла Церква"/>
+  <string id="ukr_kyi_bohuslav" text="Вольны Горад Богуслав"/>
+  <string id="ukr_kyi_chudiny" text="Чудзіны"/>
+  <string id="ukr_kyi_chyhyryn" text="Вольны Горад Чыгырын"/>
+  <string id="ukr_kyi_davyd_iarunovych" text="Давыд Яруновіч"/>
+  <string id="ukr_kyi_iaroslav_i_volodymyrovych_the_wise" text="Ярослав I Володымыровыч Мудры"/>
+  <string id="ukr_kyi_iaroslav_sviatopolkovych" text="Ярослав Сьвятополкавіч"/>
+  <string id="ukr_kyi_iziaslav_i_iaroslavych" text="Ізяслав I Ярославыч"/>
+  <string id="ukr_kyi_khmilnyk" text="Вольны Горад Хмільнік"/>
+  <string id="ukr_kyi_korostyshiv" text="Вольны Горад Корастышін"/>
+  <string id="ukr_kyi_korsun" text="Вольны Горад Корсунь"/>
+  <string id="ukr_kyi_kyiv" text="Вольны Горад Кыів"/>
+  <string id="ukr_kyi_lysianka" text="Горад Лысянка"/>
+  <string id="ukr_kyi_medzhybizh" text="Вольны Горад Меджыбіж"/>
+  <string id="ukr_kyi_moshny" text="Вольны Горад Мошны"/>
+  <string id="ukr_kyi_mstyslav_sviatopolkovych" text="Мстыслав Сьвятополкавіч"/>
+  <string id="ukr_kyi_nemyrychi" text="Немірычы"/>
+  <string id="ukr_kyi_olizary_volchkevychi" text="Алізары-Воўчкевічы"/>
+  <string id="ukr_kyi_ruzhynski" text="Ружынскія"/>
+  <string id="ukr_kyi_sakovski" text="Сакоўскія"/>
+  <string id="ukr_kyi_skvyra" text="Вольны Горад Сквыра"/>
+  <string id="ukr_kyi_sviatopolk_ii_iziaslavych" text="Кароль Сьвятополк II Ізяславыч"/>
+  <string id="ukr_kyi_sviatoslav_i_igorovich_the_brave" text="Сьвятослав I Ігоровыч Адважны"/>
+  <string id="ukr_kyi_tetiiv" text="Горад Цеціів"/>
+  <string id="ukr_kyi_volodymyr_i_sviatoslavych_the_great" text="Володымыр I Сьвятославыч Вялікі"/>
+  <string id="ukr_kyi_zakharychy" text="Захарычы"/>
+  <string id="ukr_kyi_zhytomyr" text="Вольны Горад Жытомыр"/>
+  <string id="ukr_per_dmytrashki_raichi" text="Дмытрашкі-Раічы"/>
+  <string id="ukr_per_iziaslav_ii_mstyslavych" text="Ізяслав II Мстыславыч"/>
+  <string id="ukr_per_lubny" text="Вольны Горад Лубны"/>
+  <string id="ukr_per_mirovichi" text="Міровічы"/>
+  <string id="ukr_per_mstyslav_i_volodymyrovych" text="Князь Мстыслав I Володымыровіч"/>
+  <string id="ukr_per_myrhorod" text="Горад Мыргорад"/>
+  <string id="ukr_per_oster" text="Вольны Горад Остэр"/>
+  <string id="ukr_per_pereiaslav" text="Вольны Горад Пераяслаў"/>
+  <string id="ukr_per_pryluki" text="Вольны Горад Прылукі"/>
+  <string id="ukr_per_pyriatyn" text="Вольны Горад Пыратын"/>
+  <string id="ukr_per_romny" text="Горад Ромны"/>
+  <string id="ukr_per_rostyslav_i_mstyslavych" text="Ростыслав I Мстыславыч"/>
+  <string id="ukr_per_snityn" text="Горад Сьнітын"/>
+  <string id="ukr_per_sviatopolk_mstyslavych" text="Сьвятополк Мстыславыч"/>
+  <string id="ukr_per_sviatoslav_volodymyrovych" text="Князь Сьвятослав Володымыровіч"/>
+  <string id="ukr_per_teteri" text="Цяцеры"/>
+  <string id="ukr_per_tomary" text="Тамары"/>
+  <string id="ukr_per_viacheslav_volodymyrovych" text="Князь Вячаслаў Володымыровіч"/>
+  <string id="ukr_per_volodymyr_monomakh" text="Князь Володымыр Манамах"/>
+  <string id="ukr_per_vsevolod_i_iaroslavych" text="Всеволод I Ярославыч"/>
   <string id="sb.sco_fairfax" text="Фэрфакс"/>
   <string id="sb.sco_boswell" text="Босвэл"/>
   <string id="sb.sco_maclellan" text="МакЛеллан"/>
@@ -1355,30 +1410,39 @@
   <string id="sb.tur_baltchar" text="Балтчар"/>
   <string id="sb.tur_kegen" text="Кеген"/>
   <string id="sb.tur_tirakh" text="Цірах"/>
-  <string id="sb.vol_lodomeria" text="Ладамерыя"/>
-  <string id="sb.vol_halychyna" text="Галычына"/>
-  <string id="sb.vol_volhynia" text="Валынь"/>
-  <string id="sb.vol_hulevychi" text="Гулевычы"/>
-  <string id="sb.vol_kozynski" text="Козынскі"/>
-  <string id="sb.vol_babynski" text="Бабынскі"/>
-  <string id="sb.vol_ialovytski" text="Яловыцкі"/>
-  <string id="sb.vol_koretski" text="Корэцкі"/>
-  <string id="sb.vol_ledukhovski" text="Ледуховскі"/>
-  <string id="sb.vol_romanovych" text="Романовыч"/>
-  <string id="sb.vol_terebovlia" text="Церабоўля"/>
-  <string id="sb.vol_lviv" text="Львів"/>
-  <string id="sb.vol_volodymyr" text="Володымыр"/>
-  <string id="sb.vol_kamianets_podilskyi" text="Камянец-Подзільскуй"/>
-  <string id="sb.vol_bratslav" text="Брацлав"/>
-  <string id="sb.vol_sahaidachni" text="Сагайдачны"/>
-  <string id="sb.vol_kyseli" text="Кыселі"/>
-  <string id="sb.vol_kostyushkovych" text="Косьцюўковыч"/>
-  <string id="sb.vol_moshynski" text="Мошынскі"/>
-  <string id="sb.vol_dashkevych" text="Дашкевыч"/>
-  <string id="sb.vol_horodok_halytskyi" text="Гарадок Галыцкі"/>
-  <string id="sb.vol_sudova_vyshnia" text="Судова Вышня"/>
-  <string id="sb.vol_belz" text="Бельз"/>
-  <string id="sb.vol_zhydachiv" text="Жыдачів"/>
+  <string id="ukr_vol_babynski" text="Бабынскі"/>
+  <string id="ukr_vol_belz" text="Вольны Горад Бельз"/>
+  <string id="ukr_vol_bratslav" text="Брацлав"/>
+  <string id="ukr_vol_dashkevychi" text="Дашкевічы"/>
+  <string id="ukr_vol_davyd_igorovych" text="Князь Давыд Ігоровыч"/>
+  <string id="ukr_vol_elovytski" text="Ялавіцкія"/>
+  <string id="ukr_vol_halych" text="Вольны Горад Галыч"/>
+  <string id="ukr_vol_halychyna" text="Галічына"/>
+  <string id="ukr_vol_horodok_halytskyi" text="Вольны Горад Гарадок Галыцкі"/>
+  <string id="ukr_vol_hulevychi" text="Гулевычы"/>
+  <string id="ukr_vol_kamianets_podilskyi" text="Вольны Горад Камянец-Подзільскуй"/>
+  <string id="ukr_vol_koretski" text="Корэцкі"/>
+  <string id="ukr_vol_kostyushkovychi" text="Касьцюшковічы"/>
+  <string id="ukr_vol_kozynski" text="Козынскі"/>
+  <string id="ukr_vol_kyseli" text="Кыселі"/>
+  <string id="ukr_vol_ledukhovski" text="Ледуховскі"/>
+  <string id="ukr_vol_lodomeria" text="Ладамерыя"/>
+  <string id="ukr_vol_lviv" text="Вольны Горад Львів"/>
+  <string id="ukr_vol_mechyslav_davydovych" text="Князь Мечыслаў Давыдовіч"/>
+  <string id="ukr_vol_moshynski" text="Мошынскі"/>
+  <string id="ukr_vol_peremyshl" text="Вольны Горад Перамышль"/>
+  <string id="ukr_vol_romanovychi_halytskia" text="Раманавічы-Галіцкія"/>
+  <string id="ukr_vol_rostyslav_volodarovich" text="Князь Ростыслав Володаровіч"/>
+  <string id="ukr_vol_sahaidachni" text="Сагайдачны"/>
+  <string id="ukr_vol_shchebreshyn" text="Вольны Горад Шчэбжэшын"/>
+  <string id="ukr_vol_sudova_vyshnia" text="Вольны Горад Судова Вышня"/>
+  <string id="ukr_vol_terebovlia" text="Вольны Горад Церабоўля"/>
+  <string id="ukr_vol_turyisk" text="Горад Турыйск"/>
+  <string id="ukr_vol_vasylko_rostyslavych" text="Князь Васылько Ростыславыч"/>
+  <string id="ukr_vol_volhynia" text="Валынь"/>
+  <string id="ukr_vol_volodar_rostyslavych" text="Князь Володар Ростыславыч"/>
+  <string id="ukr_vol_volodymyr" text="Вольны Горад Володымыр"/>
+  <string id="ukr_vol_zhydachiv" text="Вольны Горад Жыдачів"/>
   <string id="sb.wel_gwynedd" text="Гвінэд"/>
   <string id="sb.wel_powys" text="Повіс"/>
   <string id="sb.wel_powys_fadog" text="Повіс Фадог"/>
